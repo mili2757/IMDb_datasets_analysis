@@ -1,0 +1,1001 @@
+tconst,primaryTitle,directors,writers,runtimeMinutes,genres,startYear,averageRating,numVotes,weightedScore
+tt0111161,The Shawshank Redemption,Frank Darabont,"Stephen King, Frank Darabont",142.0,Drama,1994.0,9.3,3180690.0,9.275452397581885
+tt0068646,The Godfather,Francis Ford Coppola,"Mario Puzo, Francis Ford Coppola",175.0,"Crime,Drama",1972.0,9.2,2221579.0,9.166085321906897
+tt0468569,The Dark Knight,Christopher Nolan,"Jonathan Nolan, Christopher Nolan, David S. Goyer, Bob Kane",152.0,"Action,Crime,Drama",2008.0,9.1,3160024.0,9.076862967564539
+tt0167260,The Lord of the Rings: The Return of the King,Peter Jackson,"J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson",201.0,"Adventure,Drama,Fantasy",2003.0,9.0,2160370.0,8.967423363734413
+tt0108052,Schindler's List,Steven Spielberg,"Thomas Keneally, Steven Zaillian",195.0,"Biography,Drama,History",1993.0,9.0,1582723.0,8.955718737869816
+tt0071562,The Godfather Part II,Francis Ford Coppola,"Francis Ford Coppola, Mario Puzo",202.0,"Crime,Drama",1974.0,9.0,1492472.0,8.95308512869053
+tt0050083,12 Angry Men,Sidney Lumet,Reginald Rose,96.0,"Crime,Drama",1957.0,9.0,981705.0,8.92928215952466
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,"J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson",178.0,"Adventure,Drama,Fantasy",2001.0,8.9,2202167.0,8.869157228175649
+tt1375666,Inception,Christopher Nolan,Christopher Nolan,148.0,"Action,Adventure,Sci-Fi",2010.0,8.8,2809792.0,8.776650137436635
+tt0137523,Fight Club,David Fincher,"Chuck Palahniuk, Jim Uhls",139.0,"Crime,Drama,Thriller",1999.0,8.8,2599395.0,8.7747781856025
+tt0109830,Forrest Gump,Robert Zemeckis,"Winston Groom, Eric Roth",142.0,"Drama,Romance",1994.0,8.8,2490856.0,8.773690066682782
+tt0110912,Pulp Fiction,Quentin Tarantino,"Quentin Tarantino, Roger Avary",154.0,"Crime,Drama",1994.0,8.8,2430333.0,8.773041537096711
+tt0167261,The Lord of the Rings: The Two Towers,Peter Jackson,"J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Stephen Sinclair, Peter Jackson",179.0,"Adventure,Drama,Fantasy",2002.0,8.8,1952986.0,8.766535656169598
+tt0060196,"The Good, the Bad and the Ugly",Sergio Leone,"Luciano Vincenzoni, Sergio Leone, Agenore Incrocci, Furio Scarpelli, Mickey Knox",178.0,"Adventure,Drama,Western",1966.0,8.8,889869.0,8.727648653964966
+tt0816692,Interstellar,Christopher Nolan,"Jonathan Nolan, Christopher Nolan",169.0,"Adventure,Drama,Sci-Fi",2014.0,8.7,2518646.0,8.67496035077376
+tt0133093,The Matrix,"Lana Wachowski, Lilly Wachowski","Lilly Wachowski, Lana Wachowski",136.0,"Action,Sci-Fi",1999.0,8.7,2242445.0,8.671910232179512
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,"Leigh Brackett, Lawrence Kasdan, George Lucas",124.0,"Action,Adventure,Fantasy",1980.0,8.7,1501700.0,8.658281257879265
+tt0099685,GoodFellas,Martin Scorsese,"Nicholas Pileggi, Martin Scorsese",145.0,"Biography,Crime,Drama",1990.0,8.7,1388275.0,8.654933043041355
+tt0114369,Seven,David Fincher,Andrew Kevin Walker,127.0,"Crime,Drama,Mystery",1995.0,8.6,2015868.0,8.57001667741582
+tt0102926,The Silence of the Lambs,Jonathan Demme,"Thomas Harris, Ted Tally",118.0,"Crime,Drama,Horror",1991.0,8.6,1719192.0,8.564916704356099
+tt0120815,Saving Private Ryan,Steven Spielberg,Robert Rodat,169.0,"Drama,War",1998.0,8.6,1635089.0,8.563139323496676
+tt0076759,Star Wars: Episode IV - A New Hope,George Lucas,George Lucas,121.0,"Action,Adventure,Fantasy",1977.0,8.6,1566909.0,8.561560614585552
+tt0120689,The Green Mile,Frank Darabont,"Stephen King, Frank Darabont",189.0,"Crime,Drama,Fantasy",1999.0,8.6,1558079.0,8.561346209762288
+tt0103064,Terminator 2: Judgment Day,James Cameron,"James Cameron, William Wisher",137.0,"Action,Adventure,Sci-Fi",1991.0,8.6,1281667.0,8.553169396949853
+tt0073486,One Flew Over the Cuckoo's Nest,Miloš Forman,"Lawrence Hauben, Bo Goldman, Ken Kesey, Dale Wasserman",133.0,Drama,1975.0,8.6,1155459.0,8.548162533729908
+tt0245429,Spirited Away,Hayao Miyazaki,Hayao Miyazaki,124.0,"Adventure,Animation,Family",2001.0,8.6,964295.0,8.538145847703944
+tt0317248,City of God,"Fernando Meirelles, Kátia Lund","Bráulio Mantovani, Paulo Lins",130.0,"Crime,Drama",2002.0,8.6,869328.0,8.531577672178747
+tt0118799,Life Is Beautiful,Roberto Benigni,"Vincenzo Cerami, Roberto Benigni",116.0,"Comedy,Drama,Romance",1997.0,8.6,811297.0,8.526829818119968
+tt0038650,It's a Wonderful Life,Frank Capra,"Frances Goodrich, Albert Hackett, Frank Capra, Jo Swerling, Philip Van Doren Stern, Michael Wilson",130.0,"Drama,Family,Fantasy",1946.0,8.6,554007.0,8.494315606554451
+tt1853728,Django Unchained,Quentin Tarantino,Quentin Tarantino,165.0,"Drama,Western",2012.0,8.5,1878712.0,8.46916970445334
+tt0172495,Gladiator,Ridley Scott,"David Franzoni, John Logan, William Nicholson",155.0,"Action,Adventure,Drama",2000.0,8.5,1845086.0,8.468615345178923
+tt0482571,The Prestige,Christopher Nolan,"Jonathan Nolan, Christopher Nolan, Christopher Priest",130.0,"Drama,Mystery,Sci-Fi",2006.0,8.5,1583863.0,8.463519576498603
+tt0407887,The Departed,Martin Scorsese,"William Monahan, Alan Mak, Felix Chong",151.0,"Crime,Drama,Thriller",2006.0,8.5,1551066.0,8.46276044049188
+tt0088763,Back to the Future,Robert Zemeckis,"Robert Zemeckis, Bob Gale",116.0,"Adventure,Comedy,Sci-Fi",1985.0,8.5,1449746.0,8.460201957763761
+tt0110413,Léon: The Professional,Luc Besson,Luc Besson,110.0,"Action,Crime,Drama",1994.0,8.5,1348786.0,8.457277186115068
+tt0047478,Seven Samurai,Akira Kurosawa,"Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",207.0,"Action,Drama",1954.0,8.6,401174.0,8.456415446283147
+tt0120586,American History X,Tony Kaye,David McKenna,119.0,"Crime,Drama",1998.0,8.5,1271329.0,8.454724453749222
+tt0110357,The Lion King,"Roger Allers, Rob Minkoff","Irene Mecchi, Jonathan Roberts, Linda Woolverton, Burny Mattinson, Barry Johnson, Lorna Cook, Thom Enriquez, Andy Gaskill, Gary Trousdale, Jim Capobianco, Kevin Harkey, Jorgen Klubien, Chris Sanders, Tom Sito, Larry Leker, Joe Ranft, Rick Maki, Ed Gombert, Francis Glebas, Mark Kausler, J.T. Allen, George Scribner, Miguel Tejada-Flores, Jenny Tripp, Bob Tzudiker, Christopher Vogler, Kirk Wise, Noni White, Brenda Chapman",88.0,"Adventure,Animation,Drama",1994.0,8.5,1255956.0,8.454181093186865
+tt0114814,The Usual Suspects,Bryan Singer,Christopher McQuarrie,106.0,"Crime,Drama,Mystery",1995.0,8.5,1236762.0,8.453484093200045
+tt6751668,Parasite,Bong Joon Ho,"Bong Joon Ho, Han Jin-won",132.0,"Drama,Thriller",2019.0,8.5,1159091.0,8.45043286065368
+tt2582802,Whiplash,Damien Chazelle,Damien Chazelle,106.0,"Drama,Music",2014.0,8.5,1150692.0,8.450078759066383
+tt0078748,Alien,Ridley Scott,"Dan O'Bannon, Ronald Shusett",117.0,"Horror,Sci-Fi",1979.0,8.5,1061966.0,8.446003827538554
+tt1675434,The Intouchables,"Olivier Nakache, Éric Toledano","Olivier Nakache, Éric Toledano, Philippe Pozzo di Borgo",112.0,"Comedy,Drama",2011.0,8.5,1024997.0,8.444102694011768
+tt0253474,The Pianist,Roman Polanski,"Ronald Harwood, Wladyslaw Szpilman",150.0,"Biography,Drama,Music",2002.0,8.5,1010349.0,8.443311865278542
+tt0054215,Psycho,Alfred Hitchcock,"Joseph Stefano, Robert Bloch",109.0,"Drama,Horror,Mystery",1960.0,8.5,784054.0,8.42745601208853
+tt0034583,Casablanca,Michael Curtiz,"Philip G. Epstein, Julius J. Epstein, Howard Koch, Murray Burnett, Joan Alison, Casey Robinson",102.0,"Drama,Romance,War",1942.0,8.5,654745.0,8.413655850950391
+tt10811166,The Kashmir Files,Vivek Agnihotri,"Vivek Agnihotri, Saurabh M. Pandey",170.0,Drama,2022.0,8.5,578816.0,8.402798197471206
+tt0047396,Rear Window,Alfred Hitchcock,"John Michael Hayes, Cornell Woolrich",112.0,"Drama,Mystery,Thriller",1954.0,8.5,568433.0,8.40109750621262
+tt9362722,Spider-Man: Across the Spider-Verse,"Joaquim Dos Santos, Kemp Powers, Justin K. Thompson","Phil Lord, Christopher Miller, Dave Callaham",140.0,"Action,Adventure,Animation",2023.0,8.5,520420.0,8.392391178182454
+tt23849204,12th Fail,Vidhu Vinod Chopra,"Vidhu Vinod Chopra, Jaskunwar Kohli, Anurag Pathak, Aayush Saxena",147.0,"Biography,Drama",2023.0,8.7,170649.0,8.374457811715235
+tt1345836,The Dark Knight Rises,Christopher Nolan,"Jonathan Nolan, Christopher Nolan, David S. Goyer, Bob Kane",164.0,"Action,Crime,Drama",2012.0,8.4,1989656.0,8.372108387935347
+tt0361748,Inglourious Basterds,Quentin Tarantino,Quentin Tarantino,153.0,"Adventure,Drama,War",2009.0,8.4,1778631.0,8.368845066648484
+tt15097216,Jai Bhim,T.J. Gnanavel,"T.J. Gnanavel, Rajendra Sapre",164.0,"Crime,Drama",2021.0,8.6,233908.0,8.363653484651977
+tt4154796,Avengers: Endgame,"Anthony Russo, Joe Russo","Christopher Markus, Stephen McFeely, Stan Lee, Jack Kirby, Joe Simon, Steve Englehart, Steve Gan, Bill Mantlo, Keith Giffen, Jim Starlin, Larry Lieber, Don Heck",181.0,"Action,Adventure,Sci-Fi",2019.0,8.4,1441334.0,8.361678578280443
+tt0209144,Memento,Christopher Nolan,"Christopher Nolan, Jonathan Nolan",113.0,"Drama,Mystery,Thriller",2000.0,8.4,1432727.0,8.361452313364762
+tt4154756,Avengers: Infinity War,"Anthony Russo, Joe Russo","Christopher Markus, Stephen McFeely, Stan Lee, Jack Kirby, Joe Simon, Steve Englehart, Steve Gan, Bill Mantlo, Keith Giffen, Jim Starlin, Larry Lieber, Don Heck",149.0,"Action,Adventure,Sci-Fi",2018.0,8.4,1367607.0,8.359649776573201
+tt0910970,WALL·E,Andrew Stanton,"Andrew Stanton, Jim Reardon, Pete Docter",98.0,"Adventure,Animation,Family",2008.0,8.4,1317743.0,8.358151333802727
+tt0095327,Grave of the Fireflies,Isao Takahata,"Akiyuki Nosaka, Isao Takahata",88.0,"Animation,Drama,War",1988.0,8.5,383702.0,8.356394136569614
+tt0064116,Once Upon a Time in the West,Sergio Leone,"Sergio Donati, Sergio Leone, Dario Argento, Bernardo Bertolucci, Mickey Knox",145.0,"Drama,Western",1968.0,8.5,383665.0,8.356381134680666
+tt0081505,The Shining,Stanley Kubrick,"Stephen King, Stanley Kubrick, Diane Johnson",146.0,"Drama,Horror",1980.0,8.4,1222937.0,8.354972083049285
+tt0119217,Good Will Hunting,Gus Van Sant,"Matt Damon, Ben Affleck",126.0,"Drama,Romance",1997.0,8.4,1213444.0,8.354626932186093
+tt0082971,Raiders of the Lost Ark,Steven Spielberg,"Lawrence Kasdan, George Lucas, Philip Kaufman",115.0,"Action,Adventure",1981.0,8.4,1108650.0,8.350432670051847
+tt0090605,Aliens,James Cameron,"James Cameron, David Giler, Walter Hill, Dan O'Bannon, Ronald Shusett",137.0,"Action,Adventure,Horror",1986.0,8.4,839442.0,8.334996213053362
+tt4633694,Spider-Man: Into the Spider-Verse,"Bob Persichetti, Peter Ramsey, Rodney Rothman","Phil Lord, Rodney Rothman",117.0,"Action,Adventure,Animation",2018.0,8.4,786115.0,8.33072251950004
+tt0078788,Apocalypse Now,Francis Ford Coppola,"John Milius, Francis Ford Coppola, Michael Herr, Joseph Conrad",147.0,"Drama,Mystery,War",1979.0,8.4,769100.0,8.32923812668968
+tt0095765,Cinema Paradiso,Giuseppe Tornatore,"Giuseppe Tornatore, Vanna Paoli",174.0,"Drama,Romance",1988.0,8.5,316978.0,8.328374914188263
+tt15239678,Dune: Part Two,Denis Villeneuve,"Denis Villeneuve, Jon Spaihts, Frank Herbert",166.0,"Action,Adventure,Drama",2024.0,8.4,735965.0,8.326156914449776
+tt2380307,Coco,"Lee Unkrich, Adrian Molina","Adrian Molina, Matthew Aldrich, Lee Unkrich, Jason Katz",105.0,"Adventure,Animation,Drama",2017.0,8.4,704436.0,8.322965135261043
+tt0027977,Modern Times,Charles Chaplin,Charles Chaplin,87.0,"Comedy,Drama,Romance",1936.0,8.5,284901.0,8.310610473681189
+tt1187043,3 Idiots,Rajkumar Hirani,"Abhijat Joshi, Rajkumar Hirani, Vidhu Vinod Chopra, Chetan Bhagat",170.0,"Comedy,Drama",2009.0,8.4,480992.0,8.288946853713643
+tt0086879,Amadeus,Miloš Forman,"Peter Shaffer, Zdenek Mahler",160.0,"Biography,Drama,Music",1984.0,8.4,467210.0,8.285837338543049
+tt0405094,The Lives of Others,Florian Henckel von Donnersmarck,Florian Henckel von Donnersmarck,137.0,"Drama,Mystery,Thriller",2006.0,8.4,442651.0,8.279842011252567
+tt7286456,Joker,Todd Phillips,"Todd Phillips, Scott Silver, Bob Kane, Bill Finger, Jerry Robinson",122.0,"Crime,Drama,Thriller",2019.0,8.3,1688954.0,8.268673602911324
+tt5311514,Your Name.,Makoto Shinkai,Makoto Shinkai,106.0,"Animation,Drama,Fantasy",2016.0,8.4,390706.0,8.264827537741274
+tt0169547,American Beauty,Sam Mendes,Alan Ball,122.0,Drama,1999.0,8.3,1278363.0,8.258805026998829
+tt1049413,Up,"Pete Docter, Bob Peterson","Bob Peterson, Pete Docter, Tom McCarthy",96.0,"Adventure,Animation,Comedy",2009.0,8.3,1233244.0,8.257327828628052
+tt0021749,City Lights,Charles Chaplin,"Charles Chaplin, Harry Carr, Harry Crocker",87.0,"Comedy,Drama,Romance",1931.0,8.5,216196.0,8.25666261631318
+tt0086190,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,"Lawrence Kasdan, George Lucas",131.0,"Action,Adventure,Fantasy",1983.0,8.3,1207210.0,8.25642625559302
+tt0338013,Eternal Sunshine of the Spotless Mind,Michel Gondry,"Charlie Kaufman, Michel Gondry, Pierre Bismuth",108.0,"Drama,Romance,Sci-Fi",2004.0,8.3,1180798.0,8.255471809046188
+tt0114709,Toy Story,John Lasseter,"Joss Whedon, Andrew Stanton, Joel Cohen, Alec Sokolow, John Lasseter, Pete Docter, Joe Ranft",81.0,"Adventure,Animation,Comedy",1995.0,8.3,1171391.0,8.255121692159397
+tt0105236,Reservoir Dogs,Quentin Tarantino,"Quentin Tarantino, Roger Avary",99.0,"Crime,Thriller",1992.0,8.3,1168992.0,8.255031521487812
+tt0112573,Braveheart,Mel Gibson,Randall Wallace,178.0,"Biography,Drama,War",1995.0,8.3,1159400.0,8.254667339078246
+tt0086250,Scarface,Brian De Palma,"Oliver Stone, Howard Hawks, Ben Hecht, Armitage Trail",170.0,"Crime,Drama",1983.0,8.3,1013265.0,8.248286801928481
+tt0180093,Requiem for a Dream,Darren Aronofsky,"Hubert Selby Jr., Darren Aronofsky",102.0,Drama,2000.0,8.3,971803.0,8.246135792533002
+tt0435761,Toy Story 3,Lee Unkrich,"Michael Arndt, John Lasseter, Andrew Stanton, Lee Unkrich, Mark Andrews, David Reynolds, Justin Wright",103.0,"Adventure,Animation,Comedy",2010.0,8.3,967868.0,8.24592231435022
+tt0211915,Amélie,Jean-Pierre Jeunet,"Guillaume Laurant, Jean-Pierre Jeunet",122.0,"Comedy,Romance",2001.0,8.3,838962.0,8.237853744035357
+tt0113277,Heat,Michael Mann,Michael Mann,170.0,"Action,Crime,Drama",1995.0,8.3,801458.0,8.23503359687277
+tt0062622,2001: A Space Odyssey,Stanley Kubrick,"Stanley Kubrick, Arthur C. Clarke",149.0,"Adventure,Sci-Fi",1968.0,8.3,782094.0,8.233474906769565
+tt0364569,Oldboy,Park Chan-wook,"Garon Tsuchiya, Nobuaki Minegishi, Park Chan-wook, Jo-yun Hwang, Joon-hyung Lim",120.0,"Action,Drama,Mystery",2003.0,8.3,716676.0,8.2276071982972
+tt10189514,Soorarai Pottru,Sudha Kongara,"Sudha Kongara, Shalini Ushadevi, Vijay Kumar, Aalif Surti, Ganeshaa, Rajendra Sapre, Sunandha Raghunathan, Sibi Naayagam",153.0,Drama,2020.0,8.6,131677.0,8.209438503445138
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,"Stanley Kubrick, Terry Southern, Peter George",95.0,"Comedy,War",1964.0,8.3,550908.0,8.206769825048921
+tt0043014,Sunset Boulevard,Billy Wilder,"Charles Brackett, Billy Wilder, D.M. Marshman Jr.",110.0,"Drama,Film-Noir",1950.0,8.4,260814.0,8.203396602000861
+tt0032553,The Great Dictator,Charles Chaplin,Charles Chaplin,125.0,"Comedy,Drama,War",1940.0,8.4,259208.0,8.202285637294779
+tt0119698,Princess Mononoke,Hayao Miyazaki,Hayao Miyazaki,133.0,"Adventure,Animation,Fantasy",1997.0,8.3,482669.0,8.19423816779097
+tt0050825,Paths of Glory,Stanley Kubrick,"Stanley Kubrick, Calder Willingham, Jim Thompson, Humphrey Cobb",88.0,"Drama,War",1957.0,8.4,238426.0,8.186687708898416
+tt12042730,Project Hail Mary,"Phil Lord, Christopher Miller","Drew Goddard, Andy Weir",156.0,"Adventure,Comedy,Sci-Fi",2026.0,8.4,226581.0,8.176644485888339
+tt2106476,The Hunt,Thomas Vinterberg,"Thomas Vinterberg, Tobias Lindholm",115.0,Drama,2012.0,8.3,408318.0,8.17609099184496
+tt0087843,Once Upon a Time in America,Sergio Leone,"Harry Grey, Leonardo Benvenuti, Piero De Bernardi, Enrico Medioli, Franco Arcalli, Franco Ferrini, Sergio Leone, Stuart Kaminsky, Ernesto Gastaldi",229.0,"Crime,Drama",1984.0,8.3,408269.0,8.176076978515136
+tt0993846,The Wolf of Wall Street,Martin Scorsese,"Terence Winter, Jordan Belfort",180.0,"Biography,Comedy,Crime",2013.0,8.2,1781987.0,8.171669965751981
+tt0372784,Batman Begins,Christopher Nolan,"Bob Kane, David S. Goyer, Christopher Nolan",140.0,"Action,Crime,Drama",2005.0,8.2,1709996.0,8.1704944543989
+tt1130884,Shutter Island,Martin Scorsese,"Laeta Kalogridis, Dennis Lehane",138.0,"Drama,Mystery,Thriller",2010.0,8.2,1641849.0,8.169288157718109
+tt0053125,North by Northwest,Alfred Hitchcock,Ernest Lehman,136.0,"Adventure,Drama,Mystery",1959.0,8.3,369356.0,8.163848898975226
+tt0120382,The Truman Show,Peter Weir,Andrew Niccol,103.0,"Comedy,Drama",1998.0,8.2,1368367.0,8.163260215294514
+tt0266697,Kill Bill: Vol. 1,Quentin Tarantino,"Quentin Tarantino, Uma Thurman",111.0,"Action,Crime,Thriller",2003.0,8.2,1304713.0,8.161501464153748
+tt0266543,Finding Nemo,"Andrew Stanton, Lee Unkrich","Andrew Stanton, Bob Peterson, David Reynolds",100.0,"Adventure,Animation,Comedy",2003.0,8.2,1205221.0,8.158387961516079
+tt0477348,No Country for Old Men,"Ethan Coen, Joel Coen","Joel Coen, Ethan Coen, Cormac McCarthy",122.0,"Crime,Drama,Thriller",2007.0,8.2,1186523.0,8.157745743501586
+tt0107290,Jurassic Park,Steven Spielberg,"Michael Crichton, David Koepp",127.0,"Action,Adventure,Sci-Fi",1993.0,8.2,1174863.0,8.157335126097124
+tt0167404,The Sixth Sense,M. Night Shyamalan,M. Night Shyamalan,107.0,"Drama,Mystery,Thriller",1999.0,8.2,1142292.0,8.156144646244705
+tt0056172,Lawrence of Arabia,David Lean,"Robert Bolt, Michael Wilson",227.0,"Adventure,Biography,Drama",1962.0,8.3,341607.0,8.15354343044261
+tt0268978,A Beautiful Mind,Ron Howard,"Akiva Goldsman, Sylvia Nasar",135.0,"Biography,Drama,Mystery",2001.0,8.2,1051968.0,8.152466550913559
+tt0095016,Die Hard,John McTiernan,"Roderick Thorp, Jeb Stuart, Steven E. de Souza",132.0,"Action,Thriller",1988.0,8.2,1028646.0,8.151414418508942
+tt0075314,Taxi Driver,Martin Scorsese,Paul Schrader,114.0,"Crime,Drama",1976.0,8.2,1024145.0,8.151205978586633
+tt15398776,Oppenheimer,Christopher Nolan,"Christopher Nolan, Kai Bird, Martin Sherwin",180.0,"Biography,Drama,History",2023.0,8.2,1022464.0,8.151127672554162
+tt0208092,Snatch,Guy Ritchie,Guy Ritchie,102.0,"Comedy,Crime",2000.0,8.2,975656.0,8.148841556343312
+tt0066921,A Clockwork Orange,Stanley Kubrick,"Stanley Kubrick, Anthony Burgess",136.0,"Crime,Sci-Fi",1971.0,8.2,935586.0,8.146707526868258
+tt1392214,Prisoners,Denis Villeneuve,Aaron Guzikowski,153.0,"Crime,Drama,Mystery",2013.0,8.2,932023.0,8.146509118803072
+tt0097576,Indiana Jones and the Last Crusade,Steven Spielberg,"Jeffrey Boam, George Lucas, Menno Meyjes, Philip Kaufman",127.0,"Action,Adventure",1989.0,8.2,862615.0,8.142326342394252
+tt1745960,Top Gun: Maverick,Joseph Kosinski,"Ehren Kruger, Eric Warren Singer, Christopher McQuarrie, Peter Craig, Justin Marks, Jim Cash, Jack Epps Jr.",130.0,"Action,Drama",2022.0,8.2,856023.0,8.141894815917716
+tt0093058,Full Metal Jacket,Stanley Kubrick,"Stanley Kubrick, Michael Herr, Gustav Hasford",116.0,"Drama,War",1987.0,8.2,849919.0,8.141489436627017
+tt8579674,1917,Sam Mendes,"Sam Mendes, Krysty Wilson-Cairns",119.0,"Action,Drama,War",2019.0,8.2,769216.0,8.135543978469677
+tt0457430,Pan's Labyrinth,Guillermo del Toro,Guillermo del Toro,118.0,"Drama,Fantasy,War",2006.0,8.2,745839.0,8.133589240300859
+tt0469494,There Will Be Blood,Paul Thomas Anderson,"Paul Thomas Anderson, Upton Sinclair",158.0,Drama,2007.0,8.2,706806.0,8.130047029409807
+tt0082096,Das Boot,Wolfgang Petersen,"Wolfgang Petersen, Lothar G. Buchheim",149.0,"Drama,War",1981.0,8.3,287566.0,8.12822186803515
+tt6966692,Green Book,Peter Farrelly,"Nick Vallelonga, Brian Hayes Currie, Peter Farrelly",130.0,"Biography,Comedy,Drama",2018.0,8.2,682459.0,8.127639617849619
+tt0045152,Singin' in the Rain,"Stanley Donen, Gene Kelly","Betty Comden, Adolph Green",103.0,"Comedy,Musical,Romance",1952.0,8.3,282129.0,8.125180938316714
+tt0119488,L.A. Confidential,Curtis Hanson,"James Ellroy, Brian Helgeland, Curtis Hanson",138.0,"Crime,Drama,Mystery",1997.0,8.2,658367.0,8.125088563545319
+tt1832382,A Separation,Asghar Farhadi,Asghar Farhadi,123.0,Drama,2011.0,8.3,277384.0,8.122437683224886
+tt0112641,Casino,Martin Scorsese,"Nicholas Pileggi, Martin Scorsese",178.0,"Crime,Drama",1995.0,8.2,618111.0,8.120399427788163
+tt0071853,Monty Python and the Holy Grail,"Terry Gilliam, Terry Jones","Graham Chapman, John Cleese, Eric Idle, Terry Gilliam, Terry Jones, Michael Palin, Thomas Malory",91.0,"Adventure,Comedy,Fantasy",1975.0,8.2,602937.0,8.118475892333583
+tt0084787,The Thing,John Carpenter,"Bill Lancaster, John W. Campbell Jr.",109.0,"Horror,Mystery,Sci-Fi",1982.0,8.2,525241.0,8.106964396335922
+tt1255953,Incendies,Denis Villeneuve,"Wajdi Mouawad, Denis Villeneuve, Valérie Beaugrand-Champagne",131.0,"Drama,Mystery,War",2010.0,8.3,249766.0,8.104590074478917
+tt0347149,Howl's Moving Castle,Hayao Miyazaki,"Diana Wynne Jones, Hayao Miyazaki",119.0,"Adventure,Animation,Family",2004.0,8.2,510735.0,8.104445288070172
+tt0033467,Citizen Kane,Orson Welles,"Herman J. Mankiewicz, Orson Welles, John Houseman, Roger Q. Denny, Mollie Kent",119.0,"Drama,Mystery",1941.0,8.2,493210.0,8.101213786697041
+tt5074352,Dangal,Nitesh Tiwari,"Piyush Gupta, Shreyas Jain, Nikhil Mehrotra, Rajshri Sudhakar, Nitesh Tiwari",161.0,"Action,Biography,Drama",2016.0,8.3,242277.0,8.09911476260312
+tt0051201,Witness for the Prosecution,Billy Wilder,"Agatha Christie, Billy Wilder, Harry Kurnitz, Lawrence B. Marcus",116.0,"Crime,Drama,Mystery",1957.0,8.4,161687.0,8.099004196351508
+tt0105695,Unforgiven,Clint Eastwood,David Webb Peoples,130.0,"Drama,Western",1992.0,8.2,468266.0,8.09621826033879
+tt0052357,Vertigo,Alfred Hitchcock,"Alec Coppel, Samuel A. Taylor, Pierre Boileau, Thomas Narcejac, Maxwell Anderson",128.0,"Mystery,Romance,Thriller",1958.0,8.2,458797.0,8.094187017290876
+tt0986264,Like Stars on Earth,Aamir Khan,Amole Gupte,162.0,"Drama,Family",2007.0,8.3,231639.0,8.090787824158737
+tt0053604,The Apartment,Billy Wilder,"Billy Wilder, I.A.L. Diamond",125.0,"Comedy,Drama,Romance",1960.0,8.3,218926.0,8.079884048458442
+tt0363163,Downfall,Oliver Hirschbiegel,"Bernd Eichinger, Joachim Fest, Traudl Junge, Melissa Müller",156.0,"Biography,Drama,History",2004.0,8.2,399890.0,8.079517043009425
+tt0056058,Harakiri,Masaki Kobayashi,"Yasuhiko Takiguchi, Shinobu Hashimoto",133.0,"Drama,Mystery",1962.0,8.6,90691.0,8.071073777599588
+tt0031381,Gone with the Wind,Victor Fleming,"Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett, Ben Hecht, Jo Swerling, John Van Druten",238.0,"Drama,Romance,War",1939.0,8.2,356165.0,8.065695949009678
+tt0056592,To Kill a Mockingbird,Robert Mulligan,"Harper Lee, Horton Foote",129.0,"Crime,Drama",1962.0,8.2,351347.0,8.063976586512643
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,"Ted Elliott, Terry Rossio, Stuart Beattie, Jay Wolpert",143.0,"Action,Adventure,Fantasy",2003.0,8.1,1322270.0,8.063858763576917
+tt0252487,The Chaos Class,"Ertem Egilmez, Deccal, Kafir Ebu, Leheb Ebu, Gattouz, Iran, Hideo Kojima, Adnan Menderes, Lionel Messi, Dexter Morgan, Nigga Sibilino, Zeynep Oktay, Direktörü Porno, Sematery, Tayyib, Kürtoğlu Verem, Zenci, Jeffrey Epstein, Fetullah Gulen, Israil, Rleosoajanmenfklfk, Johny Sins, Penci Zorno Türkiye, Yarrak, Deccal, Benjamin Netanyahu","Umur Bugay, Rıfat Ilgaz",85.0,Comedy,1975.0,9.1,46098.0,8.06351509753121
+tt0434409,V for Vendetta,James McTeigue,"Lilly Wachowski, Lana Wachowski, David Lloyd",132.0,"Action,Drama,Sci-Fi",2005.0,8.1,1244977.0,8.06165914532647
+tt0264464,Catch Me If You Can,Steven Spielberg,"Frank Abagnale Jr., Stan Redding, Jeff Nathanson",141.0,"Biography,Crime,Drama",2002.0,8.1,1234021.0,8.061325503231696
+tt1392190,Mad Max: Fury Road,George Miller,"George Miller, Brendan McCarthy, Nick Lathouris",120.0,"Action,Adventure,Sci-Fi",2015.0,8.1,1204282.0,8.060389883203587
+tt2267998,Gone Girl,David Fincher,Gillian Flynn,149.0,"Drama,Mystery,Thriller",2014.0,8.1,1166285.0,8.059126486444699
+tt0198781,"Monsters, Inc.","Pete Docter, David Silverman, Lee Unkrich","Andrew Stanton, Daniel Gerson, Pete Docter, Jill Culton, Jeff Pidgeon, Ralph Eggleston",92.0,"Adventure,Animation,Comedy",2001.0,8.1,1072862.0,8.055648338683982
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,David Yates,"Steve Kloves, J.K. Rowling",130.0,"Adventure,Family,Fantasy",2011.0,8.1,1043478.0,8.054428632507431
+tt10872600,Spider-Man: No Way Home,Jon Watts,"Chris McKenna, Erik Sommers, Stan Lee, Steve Ditko",148.0,"Action,Adventure,Fantasy",2021.0,8.1,1016491.0,8.053247792255789
+tt0088247,The Terminator,James Cameron,"James Cameron, Gale Anne Hurd, William Wisher",107.0,"Action,Adventure,Sci-Fi",1984.0,8.1,1002610.0,8.052616261426294
+tt2278388,The Grand Budapest Hotel,Wes Anderson,"Stefan Zweig, Wes Anderson, Hugo Guinness",99.0,"Comedy,Drama",2014.0,8.1,968597.0,8.050994212345925
+tt0382932,Ratatouille,"Brad Bird, Jan Pinkava","Brad Bird, Jan Pinkava, Jim Capobianco, Emily Cook, Kathy Greenberg, Bob Peterson",111.0,"Adventure,Animation,Comedy",2007.0,8.1,940971.0,8.049592685913215
+tt3315342,Logan,James Mangold,"James Mangold, Scott Frank, Michael Green",137.0,"Action,Drama,Sci-Fi",2017.0,8.1,924435.0,8.048714758150137
+tt0118715,The Big Lebowski,"Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",117.0,"Comedy,Crime",1998.0,8.1,915829.0,8.048245639116432
+tt2096673,Inside Out,"Pete Docter, Ronnie Del Carmen","Pete Docter, Meg LeFauve, Josh Cooley, Ronnie Del Carmen, Michael Arndt, Simon Rich, Bill Hader, Amy Poehler",95.0,"Adventure,Animation,Comedy",2015.0,8.1,912635.0,8.048069340846144
+tt0892769,How to Train Your Dragon,"Dean DeBlois, Chris Sanders","William Davies, Dean DeBlois, Chris Sanders, Cressida Cowell, Marc Hyman, Adam F. Goldberg",98.0,"Action,Adventure,Animation",2010.0,8.1,891768.0,8.046887321987978
+tt0083658,Blade Runner,Ridley Scott,"Hampton Fancher, David Webb Peoples, Philip K. Dick",117.0,"Action,Drama,Sci-Fi",1982.0,8.1,880691.0,8.046237730533122
+tt1205489,Gran Torino,Clint Eastwood,"Nick Schenk, Dave Johannson",116.0,Drama,2008.0,8.1,860867.0,8.04503463432352
+tt0053291,Some Like It Hot,Billy Wilder,"Billy Wilder, I.A.L. Diamond, Robert Thoeren, Michael Logan",121.0,"Comedy,Music,Romance",1959.0,8.2,304465.0,8.044620813756465
+tt0070735,The Sting,George Roy Hill,David S. Ward,129.0,"Comedy,Crime,Drama",1973.0,8.2,300058.0,8.042514247931981
+tt0059578,For a Few Dollars More,Sergio Leone,"Sergio Leone, Fulvio Morsella, Luciano Vincenzoni, Sergio Donati, Enzo Dell'Aquila, Fernando Di Leo",132.0,"Drama,Western",1965.0,8.2,299750.0,8.042364885001613
+tt0022100,M,Fritz Lang,"Thea von Harbou, Fritz Lang, Egon Jacobsohn",99.0,"Crime,Mystery,Thriller",1931.0,8.3,182623.0,8.041396648754109
+tt0116282,Fargo,"Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",98.0,"Crime,Drama,Thriller",1996.0,8.1,786568.0,8.040002558509297
+tt2024544,12 Years a Slave,Steve McQueen,"John Ridley, Solomon Northup",134.0,"Biography,Drama,History",2013.0,8.1,785669.0,8.039936023709151
+tt0036775,Double Indemnity,Billy Wilder,"Billy Wilder, Raymond Chandler, James M. Cain",107.0,"Crime,Drama,Film-Noir",1944.0,8.3,181044.0,8.039414864806908
+tt0117951,Trainspotting,Danny Boyle,"Irvine Welsh, John Hodge",93.0,"Crime,Drama",1996.0,8.1,768187.0,8.038612201667796
+tt0405159,Million Dollar Baby,Clint Eastwood,"Paul Haggis, F.X. Toole",132.0,"Drama,Sport",2004.0,8.1,765080.0,8.038370793342793
+tt0073195,Jaws,Steven Spielberg,"Peter Benchley, Carl Gottlieb",124.0,"Adventure,Drama,Horror",1975.0,8.1,735786.0,8.03599776600026
+tt0080678,The Elephant Man,David Lynch,"Christopher De Vore, Eric Bergren, David Lynch, Frederick Treves, Ashley Montagu",124.0,"Biography,Drama",1980.0,8.2,282035.0,8.033269810947527
+tt0075148,Rocky,John G. Avildsen,Sylvester Stallone,120.0,"Drama,Sport",1976.0,8.1,687223.0,8.031633766958205
+tt2119532,Hacksaw Ridge,Mel Gibson,"Robert Schenkkan, Andrew Knight",139.0,"Biography,Drama,History",2016.0,8.1,678949.0,8.030830211285581
+tt0057115,The Great Escape,John Sturges,"Paul Brickhill, James Clavell, W.R. Burnett",172.0,"Adventure,Drama,Thriller",1963.0,8.2,277283.0,8.030648751018992
+tt0097165,Dead Poets Society,Peter Weir,Tom Schulman,128.0,"Comedy,Drama",1989.0,8.1,650012.0,8.027864980777045
+tt0120735,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,Guy Ritchie,107.0,"Comedy,Crime",1998.0,8.1,649554.0,8.027816003469365
+tt5027774,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,Martin McDonagh,115.0,"Comedy,Crime,Drama",2017.0,8.1,606227.0,8.022861342122997
+tt8267604,Capernaum,Nadine Labaki,"Nadine Labaki, Jihad Hojeily, Michelle Keserwany, Georges Khabbaz, Khaled Mouzanar",126.0,Drama,2018.0,8.4,123861.0,8.022520313609839
+tt1950186,Ford v Ferrari,James Mangold,"Jez Butterworth, John-Henry Butterworth, Jason Keller",152.0,"Action,Biography,Drama",2019.0,8.1,569379.0,8.018079199305955
+tt1979320,Rush,Ron Howard,Peter Morgan,123.0,"Biography,Drama,Sport",2013.0,8.1,558014.0,8.01648227384638
+tt1895587,Spotlight,Tom McCarthy,"Josh Singer, Tom McCarthy",129.0,"Biography,Crime,Drama",2015.0,8.1,534554.0,8.012980688913444
+tt1291584,Warrior,Gavin O'Connor,"Gavin O'Connor, Anthony Tambakis, Cliff Dorfman",140.0,"Action,Drama,Sport",2011.0,8.1,528079.0,8.011961937452469
+tt1454029,The Help,Tate Taylor,"Tate Taylor, Kathryn Stockett",146.0,Drama,2011.0,8.1,527718.0,8.011904436628216
+tt10272386,The Father,Florian Zeller,"Christopher Hampton, Florian Zeller",97.0,"Drama,Mystery",2020.0,8.2,243714.0,8.009492607025589
+tt1305806,The Secret in Their Eyes,Juan José Campanella,"Eduardo Sacheri, Juan José Campanella",129.0,"Drama,Mystery,Romance",2009.0,8.2,241831.0,8.008148215178423
+tt0070047,The Exorcist,William Friedkin,William Peter Blatty,122.0,Horror,1973.0,8.1,497944.0,8.006888684838671
+tt0092005,Stand by Me,Rob Reiner,"Stephen King, Raynold Gideon, Bruce A. Evans",89.0,"Adventure,Drama",1986.0,8.1,486925.0,8.004884497542166
+tt4729430,Klaus,"Sergio Pablos, Carlos Martínez López","Sergio Pablos, Jim Mahoney, Zach Lewis",96.0,"Adventure,Animation,Comedy",2019.0,8.2,235957.0,8.003829735949884
+tt3170832,Room,Lenny Abrahamson,Emma Donoghue,118.0,"Drama,Thriller",2015.0,8.1,479555.0,8.003495151974063
+tt0091763,Platoon,Oliver Stone,Oliver Stone,120.0,"Drama,War",1986.0,8.1,472100.0,8.002047870457199
+tt0032138,The Wizard of Oz,"Victor Fleming, George Cukor, Norman Taurog, Richard Thorpe, King Vidor","Noel Langley, Florence Ryerson, Edgar Allan Woolf, L. Frank Baum, George Cukor, Arthur Freed, Irving Brecher, William H. Cannon, Herbert Fields, Jack Haley, E.Y. Harburg, Samuel Hoffenstein, Bert Lahr, John Lee Mahin, Herman J. Mankiewicz, Jack Mintz, Ogden Nash, Robert Pirosh, George Seaton, Sid Silvers, Richard Thorpe, King Vidor",102.0,"Adventure,Family,Fantasy",1939.0,8.1,466903.0,8.001012997286608
+tt0096283,My Neighbor Totoro,Hayao Miyazaki,Hayao Miyazaki,86.0,"Adventure,Animation,Comedy",1988.0,8.1,430210.0,7.993033976415882
+tt29623480,The Wild Robot,Chris Sanders,"Chris Sanders, Peter Brown",102.0,"Adventure,Animation,Family",2024.0,8.2,221346.0,7.992194703402019
+tt0081398,Raging Bull,Martin Scorsese,"Jake LaMotta, Joseph Carter, Peter Savage, Paul Schrader, Mardik Martin",129.0,"Biography,Drama,Sport",1980.0,8.1,410483.0,7.988188508860906
+tt0395169,Hotel Rwanda,Terry George,"Keir Pearson, Terry George",121.0,"Biography,Drama,History",2004.0,8.1,391613.0,7.983124137759201
+tt0077416,The Deer Hunter,Michael Cimino,"Michael Cimino, Deric Washburn, Louis Garfinkle, Quinn K. Redeker, Meryl Streep",183.0,"Drama,War",1978.0,8.1,386481.0,7.981666459458089
+tt0071315,Chinatown,Roman Polanski,"Robert Towne, Roman Polanski",130.0,"Drama,Mystery,Thriller",1974.0,8.1,376573.0,7.978746819144399
+tt0112471,Before Sunrise,Richard Linklater,"Richard Linklater, Kim Krizan",101.0,"Comedy,Drama,Romance",1995.0,8.1,376392.0,7.978692142355288
+tt0017136,Metropolis,Fritz Lang,"Thea von Harbou, Fritz Lang",153.0,"Drama,Sci-Fi",1927.0,8.2,200953.0,7.973439593208649
+tt8503618,Hamilton,Thomas Kail,"Lin-Manuel Miranda, Ron Chernow",160.0,"Biography,Drama,History",2020.0,8.3,138758.0,7.972125919981155
+tt0848228,The Avengers,Joss Whedon,"Joss Whedon, Zak Penn",143.0,"Action,Sci-Fi",2012.0,8.0,1555489.0,7.970773600072049
+tt8110330,Dil Bechara,Mukesh Chhabra,"Shashank Khaitan, Suprotim Sengupta, Scott Neustadter, Michael H. Weber, John Green",101.0,"Comedy,Drama,Romance",2020.0,8.3,137608.0,7.9698071214471256
+tt1028532,Hachi: A Dog's Tale,Lasse Hallström,"Stephen P. Lindsey, Kaneto Shindô",93.0,"Biography,Drama,Family",2009.0,8.1,342189.0,7.967392531922999
+tt0120338,Titanic,James Cameron,James Cameron,194.0,"Drama,Romance",1997.0,8.0,1389676.0,7.967347997989839
+tt33014583,Dhurandhar,Aditya Dhar,"Aditya Dhar, Ojas Gautam, Shivkumar V. Panicker",214.0,"Action,Adventure,Crime",2025.0,8.3,136377.0,7.9672883769327365
+tt10295212,Shershaah,Vishnuvardhan,Sandeep Shrivastava,135.0,"Action,Biography,Drama",2021.0,8.3,136346.0,7.967224451825729
+tt2015381,Guardians of the Galaxy,James Gunn,"James Gunn, Nicole Perlman, Dan Abnett, Andy Lanning, Bill Mantlo, Keith Giffen, Jim Starlin, Steve Englehart, Steve Gan, Steve Gerber, Val Mayerik",121.0,"Action,Adventure,Comedy",2014.0,8.0,1361503.0,7.966684526758525
+tt0040522,Bicycle Thieves,Vittorio De Sica,"Cesare Zavattini, Luigi Bartolini, Oreste Biancoli, Suso Cecchi D'Amico, Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri",89.0,Drama,1948.0,8.2,192422.0,7.964550028995565
+tt1431045,Deadpool,Tim Miller,"Rhett Reese, Paul Wernick",108.0,"Action,Comedy,Sci-Fi",2016.0,8.0,1251321.0,7.963808474830606
+tt20850406,Sita Ramam,Hanu Raghavapudi,"Hanu Raghavapudi, Jay Krishna, Raj Kumar Kandamudi, Rutham Samar, Madhan Karky, Sarath Balan, Sanjay Upadhyay",163.0,"Action,Drama,Musical",2022.0,8.5,83513.0,7.959124680031646
+tt1160419,Dune: Part One,Denis Villeneuve,"Jon Spaihts, Denis Villeneuve, Eric Roth, Frank Herbert",155.0,"Action,Adventure,Drama",2021.0,8.0,1038839.0,7.956579892638147
+tt0381681,Before Sunset,Richard Linklater,"Richard Linklater, Julie Delpy, Ethan Hawke, Kim Krizan",80.0,"Drama,Romance",2004.0,8.1,314413.0,7.956540546190848
+tt3659388,The Martian,Ridley Scott,"Drew Goddard, Andy Weir",144.0,"Adventure,Drama,Sci-Fi",2015.0,8.0,1009742.0,7.955358916912886
+tt1663202,The Revenant,Alejandro G. Iñárritu,"Mark L. Smith, Alejandro G. Iñárritu, Michael Punke",156.0,"Action,Drama,Western",2015.0,8.0,948011.0,7.952526740606503
+tt0246578,Donnie Darko,Richard Kelly,Richard Kelly,113.0,"Drama,Mystery,Sci-Fi",2001.0,8.0,910585.0,7.950627678302104
+tt1010048,Slumdog Millionaire,"Danny Boyle, Loveleen Tandan","Simon Beaufoy, Vikas Swarup",120.0,"Crime,Drama,Romance",2008.0,8.0,909489.0,7.950569772789486
+tt0317705,The Incredibles,Brad Bird,Brad Bird,115.0,"Action,Adventure,Animation",2004.0,8.0,898616.0,7.949987869855301
+tt0947798,Black Swan,Darren Aronofsky,"Mark Heyman, Andres Heinz, John J. McLaughlin",108.0,"Drama,Thriller",2010.0,8.0,887767.0,7.949393433816378
+tt2084970,The Imitation Game,Morten Tyldum,"Graham Moore, Andrew Hodges",114.0,"Biography,Drama,Thriller",2014.0,8.0,876515.0,7.948761802526052
+tt0378194,Kill Bill: Vol. 2,Quentin Tarantino,"Quentin Tarantino, Uma Thurman",137.0,"Action,Crime,Thriller",2004.0,8.0,868803.0,7.948319704011146
+tt0059742,The Sound of Music,Robert Wise,"Georg Hurdalek, Howard Lindsay, Russel Crouse, Ernest Lehman, Maria von Trapp",174.0,"Biography,Drama,Family",1965.0,8.1,291172.0,7.945995206420157
+tt0401792,Sin City,"Frank Miller, Quentin Tarantino, Robert Rodriguez","Frank Miller, Robert Rodriguez",124.0,"Crime,Thriller",2005.0,8.0,819987.0,7.945334065972936
+tt3783958,La La Land,Damien Chazelle,Damien Chazelle,128.0,"Comedy,Drama,Music",2016.0,8.0,760311.0,7.941179986533073
+tt1856101,Blade Runner 2049,Denis Villeneuve,"Hampton Fancher, Michael Green, Philip K. Dick",164.0,"Action,Drama,Mystery",2017.0,8.0,751827.0,7.940537592545411
+tt0381061,Casino Royale,Martin Campbell,"Neal Purvis, Robert Wade, Paul Haggis, Ian Fleming",144.0,"Action,Adventure,Thriller",2006.0,8.0,743453.0,7.939889617718031
+tt0107048,Groundhog Day,Harold Ramis,"Danny Rubin, Harold Ramis",101.0,"Comedy,Drama,Fantasy",1993.0,8.0,736459.0,7.939337503929003
+tt1504320,The King's Speech,Tom Hooper,David Seidler,118.0,"Biography,Drama,History",2010.0,8.0,732430.0,7.939014821705338
+tt1798709,Her,Spike Jonze,Spike Jonze,126.0,"Drama,Romance,Sci-Fi",2013.0,8.0,725664.0,7.9384651407344355
+tt10698680,K.G.F: Chapter 2,Prashanth Neel,Prashanth Neel,166.0,"Action,Crime,Drama",2022.0,8.2,169293.0,7.93652162663747
+tt0052618,Ben-Hur,William Wyler,"Lew Wallace, Karl Tunberg, Gore Vidal, Maxwell Anderson, S.N. Behrman, Christopher Fry",212.0,"Adventure,Drama",1959.0,8.1,271701.0,7.935888643463534
+tt0758758,Into the Wild,Sean Penn,"Sean Penn, Jon Krakauer",148.0,"Adventure,Biography,Drama",2007.0,8.0,694826.0,7.9358289314421455
+tt0091251,Come and See,Elem Klimov,"Ales Adamovich, Elem Klimov",142.0,"Drama,Thriller,War",1985.0,8.3,122306.0,7.935507015357651
+tt0440963,The Bourne Ultimatum,Paul Greengrass,"Tony Gilroy, Scott Z. Burns, George Nolfi, Robert Ludlum",115.0,"Action,Mystery,Thriller",2007.0,8.0,683423.0,7.934796013687125
+tt0114746,12 Monkeys,Terry Gilliam,"Chris Marker, David Webb Peoples, Janet Peoples",129.0,"Mystery,Sci-Fi,Thriller",1995.0,8.0,679288.0,7.934413189496732
+tt0353969,Memories of Murder,Bong Joon Ho,"Bong Joon Ho, Kwang-rim Kim, Sung-bo Shim",131.0,"Crime,Drama,Mystery",2003.0,8.1,265272.0,7.932253873622925
+tt2948356,Zootopia,"Byron Howard, Rich Moore, Jared Bush","Jared Bush, Phil Johnston, Byron Howard, Rich Moore, Jim Reardon, Josie Trinidad, Jennifer Lee, Kellie D. Lewis",108.0,"Action,Adventure,Animation",2016.0,8.0,634000.0,7.929905912601327
+tt0129167,The Iron Giant,Brad Bird,"Tim McCanlies, Brad Bird, Ted Hughes, Brent Forrester",86.0,"Action,Adventure,Animation",1999.0,8.1,259668.0,7.928951608204203
+tt0450259,Blood Diamond,Edward Zwick,"Charles Leavitt, C. Gaby Mitchell",143.0,"Adventure,Drama,Thriller",2006.0,8.0,625012.0,7.92893669102151
+tt0454921,The Pursuit of Happyness,Gabriele Muccino,Steve Conrad,117.0,"Biography,Drama",2006.0,8.0,619717.0,7.928353054757784
+tt0095953,Rain Man,Barry Levinson,"Barry Morrow, Ron Bass",133.0,Drama,1988.0,8.0,584758.0,7.924245350457516
+tt0050212,The Bridge on the River Kwai,David Lean,"Pierre Boulle, Carl Foreman, Michael Wilson",161.0,"Adventure,Drama,War",1957.0,8.1,248436.0,7.921925409983594
+tt3011894,Wild Tales,Damián Szifron,"Julian Loyola, Damián Szifron, Germán Servidio",122.0,"Comedy,Drama,Thriller",2014.0,8.1,237713.0,7.914657045537427
+tt0101414,Beauty and the Beast,"Gary Trousdale, Kirk Wise","Linda Woolverton, Brenda Chapman, Chris Sanders, Burny Mattinson, Kevin Harkey, Brian Pimental, Bruce Woodside, Joe Ranft, Tom Ellery, Kelly Asbury, Robert Lence, Jeanne-Marie Leprince de Beaumont, John Sanford, Gabrielle-Suzanne Barbot de Villeneuve",84.0,"Animation,Family,Fantasy",1991.0,8.0,504844.0,7.912819615593031
+tt0103639,Aladdin,"Ron Clements, John Musker","Ron Clements, John Musker, Ted Elliott, Terry Rossio, Burny Mattinson, Roger Allers, Daan Jippes, Kevin Harkey, Sue C. Nichols, Francis Glebas, Darrell Rooney, Larry Leker, James Fujii, Kirk Hanson, Kevin Lima, Rebecca Rees, David S. Smith, Chris Sanders, Brian Pimental, Patrick A. Ventura, Antoine Galland",90.0,"Adventure,Animation,Comedy",1992.0,8.0,499805.0,7.911982539046453
+tt0089881,Ran,Akira Kurosawa,"Akira Kurosawa, Hideo Oguni, Masato Ide, William Shakespeare",160.0,"Action,Drama,War",1985.0,8.2,151702.0,7.910291883534279
+tt0093779,The Princess Bride,Rob Reiner,William Goldman,98.0,"Adventure,Comedy,Family",1987.0,8.0,485522.0,7.909520052817066
+tt0042192,All About Eve,Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Mary Orr",138.0,Drama,1950.0,8.2,149066.0,7.9059046361970395
+tt0113247,La haine,Mathieu Kassovitz,Mathieu Kassovitz,98.0,"Crime,Drama",1995.0,8.1,225715.0,7.905787433557123
+tt2338151,PK,Rajkumar Hirani,"Rajkumar Hirani, Abhijat Joshi",153.0,"Comedy,Drama,Musical",2014.0,8.1,222322.0,7.903123039617479
+tt2948372,Soul,"Pete Docter, Kemp Powers","Pete Docter, Mike Jones, Kemp Powers",100.0,"Adventure,Animation,Comedy",2020.0,8.0,446878.0,7.902110283599307
+tt0012349,The Kid,Charles Chaplin,Charles Chaplin,68.0,"Comedy,Drama,Family",1921.0,8.2,145470.0,7.899700806031993
+tt0079470,Monty Python's Life of Brian,Terry Jones,"Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin",94.0,Comedy,1979.0,8.0,434895.0,7.899559674282769
+tt0050976,The Seventh Seal,Ingmar Bergman,Ingmar Bergman,96.0,"Drama,Fantasy",1957.0,8.1,215921.0,7.897892240212658
+tt9263550,Rocketry: The Nambi Effect,Madhavan,"Madhavan, Ananth Mahadevan, Rahul Pandey, Sreedevi Krishnan, Sukhmani Sadana, Anjali Nair",157.0,"Biography,Drama",2022.0,8.6,62038.0,7.89695071582842
+tt0055630,Yojimbo,Akira Kurosawa,"Akira Kurosawa, Ryûzô Kikushima",110.0,"Action,Drama,Thriller",1961.0,8.2,142833.0,7.894982490953947
+tt0040897,The Treasure of the Sierra Madre,John Huston,"John Huston, Bruno Traven",126.0,"Adventure,Drama,Western",1948.0,8.2,141288.0,7.892148539908315
+tt5323662,A Silent Voice: The Movie,Naoko Yamada,"Yoshitoki Ôima, Reiko Yoshida",130.0,"Animation,Drama",2016.0,8.2,140672.0,7.891003889639009
+tt0046912,Dial M for Murder,Alfred Hitchcock,Frederick Knott,105.0,"Crime,Drama,Mystery",1954.0,8.1,204446.0,7.8877844739253415
+tt0072684,Barry Lyndon,Stanley Kubrick,"Stanley Kubrick, William Makepeace Thackeray",185.0,"Adventure,Drama,War",1975.0,8.1,204236.0,7.887590066151364
+tt4016934,The Handmaiden,Park Chan-wook,"Sarah Waters, Chung Seo-kyung, Park Chan-wook",145.0,"Drama,Romance,Thriller",2016.0,8.1,202440.0,7.885912752393044
+tt0107207,In the Name of the Father,Jim Sheridan,"Gerry Conlon, Terry George, Jim Sheridan",133.0,"Biography,Crime,Drama",1993.0,8.1,202433.0,7.8859061631525496
+tt0978762,Mary and Max,Adam Elliot,Adam Elliot,92.0,"Animation,Comedy,Drama",2009.0,8.1,201405.0,7.884934062429159
+tt1424432,Senna,Asif Kapadia,Manish Pandey,106.0,"Biography,Documentary,Sport",2010.0,8.4,83827.0,7.883657515177981
+tt0105323,Scent of a Woman,Martin Brest,"Giovanni Arpino, Bo Goldman, Ruggero Maccari, Dino Risi",156.0,Drama,1992.0,8.0,370934.0,7.883334081953745
+tt0042876,Rashomon,Akira Kurosawa,"Ryûnosuke Akutagawa, Akira Kurosawa, Shinobu Hashimoto",88.0,"Crime,Drama,Mystery",1950.0,8.1,196230.0,7.879903251838694
+tt0041959,The Third Man,Carol Reed,"Graham Greene, Orson Welles, Alexander Korda, Carol Reed",104.0,"Drama,Film-Noir,Mystery",1949.0,8.1,195206.0,7.878879759880631
+tt4849438,Baahubali 2: The Conclusion,S.S. Rajamouli,"Vijayendra Prasad, S.S. Rajamouli, C.H. Vijay Kumar, Ajay Kumar, Madhan Karky, Manoj Muntashir, Mankombu Gopalakrishnan",167.0,"Action,Drama",2017.0,8.2,133703.0,7.877435186507337
+tt0044741,Ikiru,Akira Kurosawa,"Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",143.0,Drama,1952.0,8.3,102059.0,7.877424632684612
+tt0175880,Magnolia,Paul Thomas Anderson,Paul Thomas Anderson,188.0,Drama,1999.0,8.0,350306.0,7.876921755592168
+tt0499549,Avatar,James Cameron,James Cameron,162.0,"Action,Adventure,Fantasy",2009.0,7.9,1495049.0,7.871256187402034
+tt0074958,Network,Sidney Lumet,Paddy Chayefsky,121.0,Drama,1976.0,8.1,186407.0,7.869676483769572
+tt0371746,Iron Man,Jon Favreau,"Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway, Stan Lee, Don Heck, Larry Lieber, Jack Kirby",126.0,"Action,Adventure,Sci-Fi",2008.0,7.9,1222053.0,7.864963795768324
+tt0099348,Dances with Wolves,Kevin Costner,Michael Blake,181.0,"Adventure,Drama,Western",1990.0,8.0,309828.0,7.862042590238194
+tt0047296,On the Waterfront,Elia Kazan,"Budd Schulberg, Malcolm Johnson, Robert Siodmak",108.0,"Crime,Drama,Thriller",1954.0,8.1,177605.0,7.859670276667772
+tt0055031,Judgment at Nuremberg,Stanley Kramer,Abby Mann,179.0,"Drama,History,War",1961.0,8.3,96847.0,7.85934899016204
+tt0061722,The Graduate,Mike Nichols,"Calder Willingham, Buck Henry, Charles Webb",106.0,"Comedy,Drama,Romance",1967.0,8.0,302808.0,7.859088235809602
+tt0072890,Dog Day Afternoon,Sidney Lumet,"Frank Pierson, P.F. Kluge, Thomas Moore",125.0,"Biography,Crime,Drama",1975.0,8.0,292076.0,7.854318827045485
+tt3501632,Thor: Ragnarok,Taika Waititi,"Eric Pearson, Craig Kyle, Christopher Yost, Stan Lee, Larry Lieber, Jack Kirby",130.0,"Action,Adventure,Comedy",2017.0,7.9,892806.0,7.8523951645601295
+tt8946378,Knives Out,Rian Johnson,Rian Johnson,130.0,"Comedy,Crime,Drama",2019.0,7.9,875411.0,7.851475488864835
+tt2543164,Arrival,Denis Villeneuve,"Eric Heisserer, Ted Chiang",116.0,"Drama,Mystery,Sci-Fi",2016.0,7.9,861307.0,7.8507033075495
+tt0126029,Shrek,"Andrew Adamson, Vicky Jenson","William Steig, Ted Elliott, Terry Rossio, Joe Stillman, Roger S.H. Schulman, Cody Cameron, Chris Miller, Conrad Vernon",90.0,"Adventure,Animation,Comedy",2001.0,7.9,809038.0,7.84761389337689
+tt1631867,Edge of Tomorrow,Doug Liman,"Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth, Hiroshi Sakurazaka",113.0,"Action,Adventure,Sci-Fi",2014.0,7.9,802951.0,7.847228756779416
+tt1877832,X-Men: Days of Future Past,Bryan Singer,"Simon Kinberg, Jane Goldman, Matthew Vaughn, Jack Kirby, Stan Lee",132.0,"Action,Adventure,Sci-Fi",2014.0,7.9,787016.0,7.8461931740313915
+tt0304141,Harry Potter and the Prisoner of Azkaban,Alfonso Cuarón,"J.K. Rowling, Steve Kloves",142.0,"Adventure,Family,Fantasy",2004.0,7.9,765900.0,7.844756601851402
+tt0245712,Amores Perros,Alejandro G. Iñárritu,Guillermo Arriaga,154.0,"Drama,Thriller",2000.0,8.0,272267.0,7.844611061450729
+tt1136608,District 9,Neill Blomkamp,"Neill Blomkamp, Terri Tatchell",112.0,"Action,Sci-Fi,Thriller",2009.0,7.9,751721.0,7.843748136595089
+tt3741834,Lion,Garth Davis,"Saroo Brierley, Luke Davies",118.0,"Biography,Drama",2016.0,8.0,266168.0,7.841356180638924
+tt0032976,Rebecca,Alfred Hitchcock,"Daphne Du Maurier, Robert E. Sherwood, Joan Harrison, Philip MacDonald, Michael Hogan",130.0,"Drama,Mystery,Romance",1940.0,8.1,162377.0,7.840138845238604
+tt0454876,Life of Pi,Ang Lee,"Yann Martel, David Magee",127.0,"Adventure,Drama,Fantasy",2012.0,7.9,699386.0,7.839684086114688
+tt0120363,Toy Story 2,"John Lasseter, Ash Brannon, Lee Unkrich","John Lasseter, Pete Docter, Ash Brannon, Andrew Stanton, Rita Hsiao, Doug Chamberlin, Chris Webb",92.0,"Adventure,Animation,Comedy",1999.0,7.9,668667.0,7.837012999615484
+tt8108198,Andhadhun,Sriram Raghavan,"Arijit Biswas, Yogesh Chandekar, Sriram Raghavan, Hemanth M. Rao, Pooja Ladha Surti, Olivier Treiner",139.0,"Comedy,Crime,Mystery",2018.0,8.2,115865.0,7.836588197240436
+tt0063522,Rosemary's Baby,Roman Polanski,"Ira Levin, Roman Polanski",137.0,"Drama,Horror",1968.0,8.0,257470.0,7.836471116947903
+tt1727824,Bohemian Rhapsody,Bryan Singer,"Anthony McCarten, Peter Morgan",134.0,"Biography,Drama,Music",2018.0,7.9,643861.0,7.834677005243652
+tt0796366,Star Trek,J.J. Abrams,"Roberto Orci, Alex Kurtzman, Gene Roddenberry",127.0,"Action,Adventure,Sci-Fi",2009.0,7.9,637926.0,7.834092185861279
+tt1954470,Gangs of Wasseypur,Anurag Kashyap,"Akhilesh Jaiswal, Anurag Kashyap, Sachin K. Ladia, Zeishan Quadri",321.0,"Action,Comedy,Crime",2012.0,8.2,114023.0,7.831773133972608
+tt0083987,Gandhi,Richard Attenborough,John Briley,191.0,"Biography,Drama,History",1982.0,8.0,247169.0,7.83028190721307
+tt9179430,Vikram,Lokesh Kanagaraj,"Lokesh Kanagaraj, Rathna Kumar",175.0,"Action,Crime,Thriller",2022.0,8.3,89235.0,7.829986400002399
+tt1659337,The Perks of Being a Wallflower,Stephen Chbosky,Stephen Chbosky,103.0,Drama,2012.0,7.9,594769.0,7.82950276055155
+tt1220719,Ip Man,Wilson Yip,"Edmond Wong, Tai-Lee Chan",106.0,"Action,Biography,Drama",2008.0,8.0,243231.0,7.827790212183805
+tt0206634,Children of Men,Alfonso Cuarón,"Alfonso Cuarón, Timothy J. Sexton, David Arata, Mark Fergus, Hawk Ostby, P.D. James",109.0,"Drama,Sci-Fi,Thriller",2006.0,7.9,565192.0,7.825969847785592
+tt0064115,Butch Cassidy and the Sundance Kid,George Roy Hill,William Goldman,110.0,"Adventure,Biography,Crime",1969.0,8.0,239119.0,7.825109122797959
+tt0790636,Dallas Buyers Club,Jean-Marc Vallée,"Craig Borten, Melisa Wallack",117.0,"Biography,Drama",2013.0,7.9,547843.0,7.823727786503936
+tt7838252,K.G.F: Chapter 1,Prashanth Neel,"M Chandramouli, Raaghav Vinay Shivagange, Prashanth Neel, Shivgopal Krishna, Sanjay Upadhyay",154.0,"Action,Crime,Drama",2018.0,8.2,110911.0,7.823341719244755
+tt7466810,777 Charlie,Kiranraj K,"Kiranraj K, K.N. Vijay Kumar, Satheesh Muthukulam, Sanjay Upadhyay",164.0,"Adventure,Comedy,Drama",2022.0,8.7,47442.0,7.820786234563844
+tt0327056,Mystic River,Clint Eastwood,"Brian Helgeland, Dennis Lehane",138.0,"Crime,Drama,Mystery",2003.0,7.9,522010.0,7.820125768092493
+tt14961016,I'm Still Here,Walter Salles,"Murilo Hauser, Heitor Lorega, Marcelo Rubens Paiva",137.0,"Biography,Drama,History",2024.0,8.1,147228.0,7.817281721928339
+tt4430212,Drishyam,Nishikant Kamat,"Jeethu Joseph, Upendra Sidhaye",163.0,"Crime,Drama,Mystery",2015.0,8.2,108571.0,7.816743128405672
+tt0057565,High and Low,Akira Kurosawa,"Hideo Oguni, Ryûzô Kikushima, Eijirô Hisaita, Akira Kurosawa, Evan Hunter",143.0,"Crime,Drama,Mystery",1963.0,8.4,71306.0,7.816526451148152
+tt0094625,Akira,Katsuhiro Ôtomo,"Katsuhiro Ôtomo, Izô Hashimoto",124.0,"Action,Animation,Drama",1988.0,8.0,226178.0,7.816098529346814
+tt0780536,In Bruges,Martin McDonagh,Martin McDonagh,107.0,"Comedy,Crime,Drama",2008.0,7.9,492836.0,7.815625789640492
+tt2584384,Jojo Rabbit,Taika Waititi,"Christine Leunens, Taika Waititi",108.0,"Comedy,Drama,War",2019.0,7.9,487129.0,7.814685550719202
+tt0319061,Big Fish,Tim Burton,"Daniel Wallace, John August",125.0,"Adventure,Drama,Fantasy",2003.0,7.9,478137.0,7.813160821812496
+tt12361974,Zack Snyder's Justice League,Zack Snyder,"Chris Terrio, Zack Snyder, Will Beall, Gardner Fox, Jerry Siegel, Joe Shuster, Bob Kane, Bill Finger, William Moulton Marston, Jack Kirby",242.0,"Action,Adventure,Fantasy",2021.0,7.9,472241.0,7.812131132397116
+tt0083866,E.T. the Extra-Terrestrial,Steven Spielberg,Melissa Mathison,115.0,"Adventure,Family,Sci-Fi",1982.0,7.9,471166.0,7.811940754514163
+tt6791350,Guardians of the Galaxy Vol. 3,James Gunn,"James Gunn, Jim Starlin, Stan Lee, Larry Lieber, Jack Kirby, Steve Englehart, Don Heck, Roger Stern, John Buscema, Sal Buscema, Bill Mantlo, Keith Giffen, Steve Gan",150.0,"Action,Adventure,Comedy",2023.0,7.9,469448.0,7.811634785466367
+tt0367110,Swades,Ashutosh Gowariker,"M.G. Sathya, Ashutosh Gowariker, Sameer Sharma, Lalit Marathe, Amin Hajee, Charlotte Whitby-Coles, Yashodeep Nigudkar, Ayan Mukerji, K.P. Saxena",189.0,"Drama,Musical",2004.0,8.2,105972.0,7.809137803532617
+tt0087884,"Paris, Texas",Wim Wenders,"L.M. Kit Carson, Sam Shepard, Walter Donohue",145.0,Drama,1984.0,8.1,140466.0,7.805728043249211
+tt4857264,The Invisible Guest,Oriol Paulo,"Oriol Paulo, Lara Sendim",106.0,"Crime,Drama,Mystery",2016.0,8.0,212492.0,7.805500801729212
+tt32820897,Demon Slayer: Kimetsu No Yaiba Infinity Castle,"Haruo Sotozaki, Hikaru Kondô","Koyoharu Gotouge, Hikaru Kondô",155.0,"Action,Adventure,Animation",2025.0,8.4,69491.0,7.805318987038703
+tt0063442,Planet of the Apes,Franklin J. Schaffner,"Michael Wilson, Rod Serling, Pierre Boulle, John T. Kelley",112.0,"Adventure,Sci-Fi",1968.0,8.0,210565.0,7.803909733637315
+tt0166924,Mulholland Drive,David Lynch,David Lynch,147.0,"Drama,Mystery,Thriller",2001.0,7.9,427488.0,7.803440525283044
+tt0352248,Cinderella Man,Ron Howard,"Cliff Hollingsworth, Akiva Goldsman",144.0,"Biography,Drama,Romance",2005.0,8.0,208866.0,7.80248516844806
+tt10366460,CODA,Sian Heder,"Sian Heder, Victoria Bedos, Stanislas Carré de Malberg, Éric Lartigau, Thomas Bidegain",111.0,"Comedy,Drama,Music",2021.0,8.0,206886.0,7.800798652804715
+tt0107688,The Nightmare Before Christmas,Henry Selick,"Caroline Thompson, Michael McDowell, Tim Burton",76.0,"Adventure,Animation,Family",1993.0,7.9,410924.0,7.799771511557689
+tt26548265,Maharaja,"Nithilan Saminathan, R. Nandhakumar, T. Suresh","T. Ajay Adithyan, Anil CR, Shahfaizal Chanbasha, Raam Murali, Gopal Ram, Nithilan Saminathan",141.0,"Action,Crime,Drama",2024.0,8.3,81350.0,7.7951386591845235
+tt0092067,Castle in the Sky,Hayao Miyazaki,"Hayao Miyazaki, Jonathan Swift",124.0,"Adventure,Animation,Family",1986.0,8.0,197713.0,7.792594039882154
+tt1065073,Boyhood,Richard Linklater,Richard Linklater,165.0,Drama,2014.0,7.9,381506.0,7.792518182767965
+tt0476735,My Father and My Son,Çagan Irmak,Çagan Irmak,112.0,Drama,2005.0,8.2,100629.0,7.7925144385792615
+tt0061512,Cool Hand Luke,Stuart Rosenberg,"Donn Pearce, Frank Pierson, Hal Dresner",127.0,"Crime,Drama",1967.0,8.0,197349.0,7.792254502625485
+tt0087544,Nausicaä of the Valley of the Wind,Hayao Miyazaki,"Hayao Miyazaki, Kazunori Itô",117.0,"Adventure,Animation,Sci-Fi",1984.0,8.0,196814.0,7.791753434879106
+tt11032374,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,Haruo Sotozaki,Koyoharu Gotouge,117.0,"Action,Adventure,Animation",2020.0,8.2,100148.0,7.790948288460655
+tt7653254,Marriage Story,Noah Baumbach,Noah Baumbach,137.0,"Drama,Romance",2019.0,7.9,371412.0,7.78978132953663
+tt0472043,Apocalypto,Mel Gibson,"Mel Gibson, Farhad Safinia",139.0,"Action,Adventure,Drama",2006.0,7.9,357782.0,7.785856692332121
+tt0031679,Mr. Smith Goes to Washington,Frank Capra,"Sidney Buchman, Lewis R. Foster, Myles Connolly",129.0,"Comedy,Drama",1939.0,8.1,129357.0,7.784549430244653
+tt0169102,Lagaan: Once Upon a Time in India,Ashutosh Gowariker,"Ashutosh Gowariker, Kumar Dave, Sanjay Dayma, K.P. Saxena",224.0,"Drama,Musical,Sport",2001.0,8.1,129179.0,7.784185241857024
+tt0374887,Munna Bhai M.B.B.S.,Rajkumar Hirani,"Vidhu Vinod Chopra, Rajkumar Hirani, Lajan Joseph, Abbas Tyrewala",156.0,"Comedy,Drama",2003.0,8.2,97889.0,7.783428918815141
+tt0118694,In the Mood for Love,Wong Kar-Wai,Wong Kar-Wai,98.0,"Drama,Romance",2000.0,8.0,187804.0,7.782936394072828
+tt0015864,The Gold Rush,Charles Chaplin,Charles Chaplin,95.0,"Adventure,Comedy,Drama",1925.0,8.1,128007.0,7.781766170203154
+tt0405508,Rang De Basanti,Rakeysh Omprakash Mehra,"Renzil D'Silva, Prasoon Joshi, Rakeysh Omprakash Mehra, Kamlesh Pandey",167.0,"Comedy,Crime,Drama",2006.0,8.1,126503.0,7.778607000549652
+tt1125849,The Wrestler,Darren Aronofsky,Robert Siegel,109.0,"Drama,Sport",2008.0,7.9,331004.0,7.777271031798166
+tt0102138,JFK,Oliver Stone,"Jim Garrison, Jim Marrs, Oliver Stone, Zachary Sklar",189.0,"Drama,History,Thriller",1991.0,8.0,182013.0,7.776864237532299
+tt0072431,Young Frankenstein,Mel Brooks,"Gene Wilder, Mel Brooks, Mary Shelley",106.0,Comedy,1974.0,8.0,181041.0,7.775811592859062
+tt1562872,Zindagi Na Milegi Dobara,Zoya Akhtar,"Farhan Akhtar, Reema Kagti, Zoya Akhtar, Shubham Ghude",155.0,"Comedy,Drama,Musical",2011.0,8.2,95543.0,7.775321639616353
+tt11989890,David Attenborough: A Life on Our Planet,"Alastair Fothergill, Jonathan Hughes, Keith Scholey",,83.0,"Biography,Documentary",2020.0,8.9,36042.0,7.77467639337299
+tt0050986,Wild Strawberries,Ingmar Bergman,Ingmar Bergman,92.0,"Drama,Romance",1957.0,8.1,124441.0,7.774172391808634
+tt0181875,Almost Famous,Cameron Crowe,Cameron Crowe,122.0,"Adventure,Comedy,Drama",2000.0,7.9,314962.0,7.771479743042676
+tt0118749,Boogie Nights,Paul Thomas Anderson,Paul Thomas Anderson,155.0,Drama,1997.0,7.9,305243.0,7.767697411918721
+tt0432283,Fantastic Mr. Fox,Wes Anderson,"Wes Anderson, Noah Baumbach, Roald Dahl",87.0,"Adventure,Animation,Comedy",2009.0,7.9,304249.0,7.767297991502705
+tt0025316,It Happened One Night,Frank Capra,"Robert Riskin, Samuel Hopkins Adams",105.0,"Comedy,Romance",1934.0,8.1,119659.0,7.7634014918136725
+tt0190332,"Crouching Tiger, Hidden Dragon",Ang Lee,"Hui-Ling Wang, James Schamus, Kuo Jung Tsai, Du Lu Wang",120.0,"Action,Adventure,Drama",2000.0,7.9,294273.0,7.7631515862734215
+tt0075686,Annie Hall,Woody Allen,"Woody Allen, Marshall Brickman",93.0,"Comedy,Romance",1977.0,7.9,290887.0,7.761684704987144
+tt0276919,Dogville,Lars von Trier,Lars von Trier,171.0,"Crime,Drama",2003.0,8.0,168471.0,7.76124585288893
+tt0903624,The Hobbit: An Unexpected Journey,Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro, J.R.R. Tolkien",169.0,"Adventure,Fantasy",2012.0,7.8,926430.0,7.756705166333071
+tt0111495,Three Colors: Red,Krzysztof Kieslowski,"Krzysztof Piesiewicz, Krzysztof Kieslowski, Agnieszka Holland, Edward Zebrowski, Edward Kłosiński, Marcin Latallo",99.0,"Drama,Mystery,Romance",1994.0,8.1,116822.0,7.756668192553159
+tt3498820,Captain America: Civil War,"Anthony Russo, Joe Russo","Christopher Markus, Stephen McFeely, Joe Simon, Jack Kirby",147.0,"Action,Sci-Fi",2016.0,7.8,925246.0,7.7566512212672025
+tt1877830,The Batman,Matt Reeves,"Matt Reeves, Peter Craig, Bob Kane, Bill Finger",176.0,"Action,Crime,Drama",2022.0,7.8,924153.0,7.756601302850303
+tt15327088,Kantara,Rishab Shetty,"Manish Bhawan, Shanil Guru, Anirudh Mahesh, Sham Prasad, Raj B. Shetty, Rishab Shetty, Prakash Thuminad",148.0,"Action,Adventure,Drama",2022.0,8.1,116391.0,7.755621619510959
+tt0118849,Children of Heaven,Majid Majidi,Majid Majidi,89.0,"Drama,Family,Sport",1997.0,8.2,89797.0,7.754064970376176
+tt1285016,The Social Network,David Fincher,"Aaron Sorkin, Ben Mezrich",120.0,"Biography,Drama",2010.0,7.8,818116.0,7.7511431361808745
+tt5052448,Get Out,Jordan Peele,Jordan Peele,104.0,"Horror,Mystery,Thriller",2017.0,7.8,814674.0,7.750942861639486
+tt5013056,Dunkirk,Christopher Nolan,Christopher Nolan,106.0,"Action,Drama,History",2017.0,7.8,805726.0,7.750414452423873
+tt9052870,Chhichhore,Nitesh Tiwari,"Piyush Gupta, Nikhil Mehrotra, Nitesh Tiwari",143.0,"Comedy,Drama,Romance",2019.0,8.3,72475.0,7.749171545568341
+tt1074638,Skyfall,Sam Mendes,"Neal Purvis, Robert Wade, John Logan, Ian Fleming",143.0,"Action,Adventure,Thriller",2012.0,7.8,771871.0,7.748307814444588
+tt0046250,Roman Holiday,William Wyler,"Dalton Trumbo, Ian McLellan Hunter, John Dighton",118.0,"Comedy,Drama,Romance",1953.0,8.0,158359.0,7.748078885706587
+tt0780504,Drive,Nicolas Winding Refn,"Hossein Amini, James Sallis",100.0,"Action,Drama",2011.0,7.8,761449.0,7.747622791057365
+tt3748528,Rogue One: A Star Wars Story,Gareth Edwards,"Chris Weitz, Tony Gilroy, John Knoll, Gary Whitta, George Lucas",133.0,"Action,Adventure,Sci-Fi",2016.0,7.8,754041.0,7.747124729512662
+tt1170358,The Hobbit: The Desolation of Smaug,Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro, J.R.R. Tolkien",161.0,"Adventure,Fantasy",2013.0,7.8,752635.0,7.747029128581241
+tt0108399,True Romance,Tony Scott,"Quentin Tarantino, Roger Avary",119.0,"Crime,Drama,Romance",1993.0,7.9,260581.0,7.747006616001324
+tt0421715,The Curious Case of Benjamin Button,David Fincher,"Eric Roth, Robin Swicord, F. Scott Fitzgerald",166.0,"Drama,Fantasy,Romance",2008.0,7.8,744006.0,7.746434743557624
+tt0099785,Home Alone,Chris Columbus,John Hughes,103.0,"Comedy,Family",1990.0,7.8,742918.0,7.746358851341255
+tt5813916,The Mountain II,Alper Caglar,Alper Caglar,135.0,"Action,Drama,War",2016.0,8.1,112674.0,7.746323898515871
+tt0079944,Stalker,Andrei Tarkovsky,"Arkadiy Strugatskiy, Boris Strugatskiy, Andrei Tarkovsky",162.0,"Drama,Sci-Fi",1979.0,8.0,156678.0,7.745747951894418
+tt3460252,The Hateful Eight,Quentin Tarantino,Quentin Tarantino,168.0,"Crime,Drama,Mystery",2015.0,7.8,721177.0,7.744795935018466
+tt0058461,A Fistful of Dollars,Sergio Leone,"Adriano Bolzoni, Mark Lowell, Víctor Andrés Catena, Sergio Leone, Jaime Comas Gil, Akira Kurosawa, Fernando Di Leo, Ryûzô Kikushima, Duccio Tessari, Tonino Valerii",99.0,"Drama,Western",1964.0,7.9,253212.0,7.742954280923448
+tt0162222,Cast Away,Robert Zemeckis,William Broyles Jr.,143.0,"Adventure,Drama,Romance",2000.0,7.8,688534.0,7.742270440377436
+tt0332280,The Notebook,Nick Cassavetes,"Jeremy Leven, Jan Sardi, Nicholas Sparks",123.0,"Drama,Romance",2004.0,7.8,687246.0,7.74216604432215
+tt3863552,Bajrangi Bhaijaan,Kabir Khan,"Vijayendra Prasad, Kabir Khan, Parveez Shaikh, Asad Hussain",163.0,"Adventure,Comedy,Drama",2015.0,8.1,111045.0,7.742088988233849
+tt2631186,Baahubali: The Beginning,S.S. Rajamouli,"Vijayendra Prasad, S.S. Rajamouli, C.H. Vijay Kumar, Ajay Kumar, Madhan Karky, Manoj Muntashir, Mankombu Gopalakrishnan",159.0,"Action,Drama",2015.0,8.0,153670.0,7.74146748980956
+tt2872718,Nightcrawler,Dan Gilroy,Dan Gilroy,117.0,"Crime,Drama,Thriller",2014.0,7.8,667482.0,7.740515416146953
+tt0106519,Carlito's Way,Brian De Palma,"Edwin Torres, David Koepp",144.0,"Crime,Drama,Thriller",1993.0,7.9,247611.0,7.7397276573735985
+tt14849194,The Holdovers,Alexander Payne,David Hemingson,133.0,"Comedy,Drama",2023.0,7.9,247204.0,7.739488017825874
+tt0365748,Shaun of the Dead,Edgar Wright,"Simon Pegg, Edgar Wright",99.0,"Comedy,Horror",2004.0,7.8,638131.0,7.73788255473545
+tt0096874,Back to the Future Part II,Robert Zemeckis,"Robert Zemeckis, Bob Gale",108.0,"Adventure,Comedy,Sci-Fi",1989.0,7.8,620402.0,7.736176207083762
+tt0258463,The Bourne Identity,Doug Liman,"Tony Gilroy, William Blake Herron, Robert Ludlum",119.0,"Action,Mystery,Thriller",2002.0,7.8,612619.0,7.735397151597229
+tt0032551,The Grapes of Wrath,John Ford,"Nunnally Johnson, John Steinbeck",129.0,Drama,1940.0,8.1,108245.0,7.734567874248746
+tt0425112,Hot Fuzz,Edgar Wright,"Edgar Wright, Simon Pegg",121.0,"Action,Comedy,Mystery",2007.0,7.8,566114.0,7.730314620198937
+tt0099487,Edward Scissorhands,Tim Burton,"Tim Burton, Caroline Thompson",105.0,"Drama,Fantasy,Romance",1990.0,7.8,564320.0,7.7301024849051005
+tt0070511,Papillon,Franklin J. Schaffner,"Dalton Trumbo, Lorenzo Semple Jr., Henri Charrière, William Goldman",151.0,"Biography,Crime,Drama",1973.0,8.0,145805.0,7.729562930852574
+tt0449059,Little Miss Sunshine,"Jonathan Dayton, Valerie Faris",Michael Arndt,101.0,"Comedy,Drama",2006.0,7.8,557246.0,7.729253264778587
+tt0017925,The General,"Clyde Bruckman, Buster Keaton","Buster Keaton, Clyde Bruckman, Al Boasberg, Charles Henry Smith, William Pittenger, Paul Gerard Smith",78.0,"Action,Adventure,Comedy",1926.0,8.1,106127.0,7.728665312287126
+tt2245084,Big Hero 6,"Don Hall, Chris Williams","Jordan Roberts, Robert L. Baird, Daniel Gerson, Man of Action, Steven T. Seagle, Duncan Rouleau",102.0,"Action,Adventure,Animation",2014.0,7.8,552041.0,7.728615118170587
+tt0080455,The Blues Brothers,John Landis,"Dan Aykroyd, John Landis",133.0,"Adventure,Comedy,Crime",1980.0,7.9,229074.0,7.728034338044326
+tt8291224,Uri: The Surgical Strike,Aditya Dhar,Aditya Dhar,138.0,"Action,Drama,History",2019.0,8.2,83341.0,7.727491867384222
+tt1596363,The Big Short,Adam McKay,"Charles Randolph, Adam McKay, Michael Lewis",130.0,"Biography,Comedy,Drama",2015.0,7.8,538300.0,7.726873773130258
+tt1645089,Inside Job,Charles Ferguson,"Charles Ferguson, Chad Beck, Adam Bolt",109.0,"Crime,Documentary",2010.0,8.2,82903.0,7.725573861748738
+tt1568346,The Girl with the Dragon Tattoo,David Fincher,"Steven Zaillian, Stieg Larsson",158.0,"Crime,Drama,Mystery",2011.0,7.8,527623.0,7.725460931601243
+tt1535109,Captain Phillips,Paul Greengrass,"Billy Ray, Richard Phillips, Stephan Talty",134.0,"Action,Biography,Crime",2013.0,7.8,518730.0,7.724241804579982
+tt0139654,Training Day,Antoine Fuqua,David Ayer,122.0,"Crime,Drama,Thriller",2001.0,7.8,516189.0,7.723886103383982
+tt0325710,The Last Samurai,Edward Zwick,"John Logan, Edward Zwick, Marshall Herskovitz",154.0,"Action,Drama",2003.0,7.8,504121.0,7.722150125215733
+tt0093773,Predator,John McTiernan,"Jim Thomas, John Thomas",107.0,"Action,Adventure,Horror",1987.0,7.8,499831.0,7.721513775680694
+tt0060827,Persona,Ingmar Bergman,Ingmar Bergman,83.0,"Drama,Thriller",1966.0,8.0,140333.0,7.7206123181958475
+tt0087332,Ghostbusters,Ivan Reitman,"Dan Aykroyd, Harold Ramis",105.0,"Action,Comedy,Fantasy",1984.0,7.8,486571.0,7.719479400521675
+tt0765429,American Gangster,Ridley Scott,"Steven Zaillian, Mark Jacobson",157.0,"Biography,Crime,Drama",2007.0,7.8,485457.0,7.719303675734243
+tt0088847,The Breakfast Club,John Hughes,John Hughes,97.0,"Comedy,Drama",1985.0,7.8,471856.0,7.717094684182689
+tt1302006,The Irishman,Martin Scorsese,"Steven Zaillian, Charles Brandt",209.0,"Biography,Crime,Drama",2019.0,7.8,471731.0,7.7170738214532095
+tt0338564,Infernal Affairs,"Wai Keung Lau, Alan Mak","Alan Mak, Felix Chong",101.0,"Crime,Drama,Mystery",2002.0,8.0,138128.0,7.716835836915024
+tt0242519,Hera Pheri,Priyadarshan,"Siddique, Lal, Neeraj Vora, Anand S. Vardhan",156.0,"Action,Comedy,Crime",2000.0,8.2,80485.0,7.714698738249741
+tt8367814,The Gentlemen,Guy Ritchie,"Guy Ritchie, Ivan Atkinson, Marn Davies, Lauren Bond",113.0,"Action,Comedy,Crime",2019.0,7.8,455840.0,7.7143332426675695
+tt6019206,Kill Bill: The Whole Bloody Affair,Quentin Tarantino,"Quentin Tarantino, Uma Thurman",253.0,"Action,Crime,Thriller",2004.0,8.8,35884.0,7.71281775843036
+tt24082438,20 Days in Mariupol,Mstyslav Chernov,"Mstyslav Chernov, Katherine Griwert",97.0,"Documentary,War",2023.0,8.6,43867.0,7.711446649400641
+tt0053198,The 400 Blows,François Truffaut,"François Truffaut, Marcel Moussy",99.0,"Crime,Drama",1959.0,8.0,134388.0,7.710191459860679
+tt2194499,About Time,Richard Curtis,Richard Curtis,123.0,"Comedy,Drama,Fantasy",2013.0,7.8,432917.0,7.710044825599997
+tt0056801,8½,Federico Fellini,"Federico Fellini, Ennio Flaiano, Tullio Pinelli, Brunello Rondi",138.0,Drama,1963.0,8.0,132657.0,7.707009497861015
+tt0091042,Ferris Bueller's Day Off,John Hughes,John Hughes,103.0,Comedy,1986.0,7.8,415258.0,7.706436672142866
+tt2356180,Bhaag Milkha Bhaag,Rakeysh Omprakash Mehra,Prasoon Joshi,186.0,"Biography,Drama,Sport",2013.0,8.2,78702.0,7.70635471258292
+tt0964517,The Fighter,David O. Russell,"Keith Dorrington, Paul Tamasy, Eric Johnson, Scott Silver",116.0,"Action,Biography,Drama",2010.0,7.8,407574.0,7.704774666078576
+tt1646971,How to Train Your Dragon 2,Dean DeBlois,"Dean DeBlois, Cressida Cowell",102.0,"Action,Adventure,Animation",2014.0,7.8,400956.0,7.703295167586027
+tt2543472,Wonder,Stephen Chbosky,"Stephen Chbosky, Steve Conrad, Jack Thorne, R.J. Palacio",113.0,"Drama,Family",2017.0,7.9,196372.0,7.702630849449227
+tt1182345,Moon,Duncan Jones,"Duncan Jones, Nathan Parker",97.0,"Drama,Mystery,Sci-Fi",2009.0,7.8,394518.0,7.701811117530771
+tt0299977,Hero,Yimou Zhang,"Feng Li, Yimou Zhang, Bin Wang",94.0,"Action,Adventure,Drama",2002.0,7.9,194070.0,7.700556883207532
+tt0414387,Pride & Prejudice,Joe Wright,"Deborah Moggach, Jane Austen, Emma Thompson",129.0,"Drama,Romance",2005.0,7.8,375738.0,7.697209639226313
+tt8613070,Portrait of a Lady on Fire,Céline Sciamma,Céline Sciamma,122.0,"Drama,Romance",2019.0,8.0,126933.0,7.695971226818887
+tt2125608,Searching for Sugar Man,Malik Bendjelloul,"Malik Bendjelloul, Stephen 'Sugar' Segerman, Craig Bartholomew Strydom",86.0,"Biography,Documentary,Music",2012.0,8.2,76254.0,7.694419938019969
+tt5726616,Call Me by Your Name,Luca Guadagnino,"James Ivory, André Aciman",132.0,"Drama,Romance",2017.0,7.8,358179.0,7.692499318606379
+tt2209418,Before Midnight,Richard Linklater,"Richard Linklater, Julie Delpy, Ethan Hawke, Kim Krizan",109.0,"Drama,Romance",2013.0,7.9,185532.0,7.692468586268473
+tt4034228,Manchester by the Sea,Kenneth Lonergan,Kenneth Lonergan,137.0,Drama,2016.0,7.8,355828.0,7.691835674909076
+tt0094226,The Untouchables,Brian De Palma,"David Mamet, Oscar Fraley, Eliot Ness, Paul Robsky, Chip Miller",119.0,"Crime,Drama,Thriller",1987.0,7.8,353744.0,7.6912405118081715
+tt2082197,Barfi!,Anurag Basu,"Anurag Basu, Tani Basu, Sanjeev Dutta",151.0,"Comedy,Drama,Romance",2012.0,8.1,93558.0,7.689298034753234
+tt0106977,The Fugitive,Andrew Davis,"Jeb Stuart, David Twohy, Roy Huggins",130.0,"Action,Crime,Drama",1993.0,7.8,345933.0,7.6889502859122105
+tt0085334,A Christmas Story,Bob Clark,"Jean Shepherd, Leigh Brown, Bob Clark",93.0,"Comedy,Family",1983.0,7.9,180674.0,7.687566714335668
+tt8239946,Tumbbad,"Rahi Anil Barve, Anand Gandhi, Adesh Prasad","Mitesh Shah, Adesh Prasad, Rahi Anil Barve, Anand Gandhi, Narayan Dharap",108.0,"Drama,Fantasy,Horror",2018.0,8.2,74760.0,7.686848400203227
+tt33175825,Attack on Titan: The Last Attack,Yûichirô Hayashi,Hajime Isayama,145.0,"Action,Adventure,Animation",2024.0,9.1,27068.0,7.684696865719328
+tt0156887,Perfect Blue,Satoshi Kon,"Sadayuki Murai, Satoshi Kon, Yoshikazu Takeuchi",82.0,"Animation,Crime,Drama",1997.0,8.0,121332.0,7.684334229042684
+tt0783233,Atonement,Joe Wright,"Ian McEwan, Christopher Hampton",123.0,"Drama,Mystery,Romance",2007.0,7.8,328327.0,7.683416768048504
+tt34365591,Mahavatar Narsimha,Ashwin Kumar,"Jayapurna Das, Ashwin Kumar, Rudra Pratap Ghosh, Rudra P. Ghosh",130.0,"Action,Animation,Drama",2024.0,8.5,46872.0,7.6833815172010524
+tt39139925,Dhurandhar The Revenge,Aditya Dhar,Aditya Dhar,230.0,"Action,Crime,Thriller",2026.0,8.5,46858.0,7.683222416491887
+tt0871510,Chak De! India,Shimit Amin,Jaideep Sahni,153.0,"Drama,Family,Sport",2007.0,8.1,91777.0,7.683034299599013
+tt1313104,The Cove,Louie Psihoyos,Mark Monroe,92.0,"Biography,Crime,Documentary",2009.0,8.4,53140.0,7.680880424933121
+tt0033870,The Maltese Falcon,John Huston,"John Huston, Dashiell Hammett",100.0,"Crime,Drama,Film-Noir",1941.0,7.9,174090.0,7.680541445598845
+tt0861739,Elite Squad,José Padilha,"José Padilha, Rodrigo Pimentel, Bráulio Mantovani, Luiz Eduardo Soares, André Batista",115.0,"Action,Crime,Drama",2007.0,8.0,119341.0,7.679980022337895
+tt0113568,Ghost in the Shell,Mamoru Oshii,"Shirow Masamune, Kazunori Itô",83.0,"Action,Animation,Crime",1995.0,7.9,173137.0,7.679485893115744
+tt1016150,All Quiet on the Western Front,Edward Berger,"Edward Berger, Lesley Paterson, Ian Stokell, Erich Maria Remarque",148.0,"Drama,History,War",2022.0,7.8,315252.0,7.678936777459866
+tt0379786,Serenity,Joss Whedon,Joss Whedon,119.0,"Action,Adventure,Sci-Fi",2005.0,7.8,315174.0,7.67890901833848
+tt0327597,Coraline,Henry Selick,"Henry Selick, Neil Gaiman",100.0,"Animation,Drama,Family",2009.0,7.8,299522.0,7.673068686881857
+tt5354160,Mirror Game,Amitabh Reza Chowdhury,"Syed Gaosul Alam Shaon, Anam Biswas, Adnan Adib Khan",147.0,"Crime,Mystery,Thriller",2016.0,8.9,30966.0,7.672611878716971
+tt0056217,The Man Who Shot Liberty Valance,John Ford,"James Warner Bellah, Willis Goldbeck, Dorothy M. Johnson",123.0,"Drama,Western",1962.0,8.1,88509.0,7.67102957830898
+tt0040746,Rope,Alfred Hitchcock,"Hume Cronyn, Patrick Hamilton, Arthur Laurents, Ben Hecht",80.0,"Crime,Drama,Mystery",1948.0,7.9,164855.0,7.669866458108947
+tt4846340,Hidden Figures,Theodore Melfi,"Allison Schroeder, Theodore Melfi, Margot Lee Shetterly",127.0,"Biography,Drama,History",2016.0,7.8,288372.0,7.668552379932712
+tt1152758,Dear Zachary: A Letter to a Son About His Father,Kurt Kuenne,Kurt Kuenne,95.0,"Biography,Crime,Documentary",2008.0,8.5,45480.0,7.6672530704352155
+tt3281548,Little Women,Greta Gerwig,"Greta Gerwig, Louisa May Alcott",135.0,"Drama,Romance",2019.0,7.8,283540.0,7.666493797900674
+tt21626284,Lost Ladies,Kiran Rao,"Biplab Goswami, Sneha Desai, Divy Nidhi Sharma",122.0,"Comedy,Drama",2023.0,8.3,59685.0,7.665979765061983
+tt9900782,Kaithi,Lokesh Kanagaraj,"Lokesh Kanagaraj, Pon Parthiban, Sanjeev Tiwari",145.0,"Action,Crime,Thriller",2019.0,8.4,51532.0,7.665771133699289
+tt7060344,Ratsasan,Ram Kumar,Ram Kumar,146.0,"Crime,Drama,Mystery",2018.0,8.3,59596.0,7.665312738241456
+tt7775622,Free Solo,"Jimmy Chin, Elizabeth Chai Vasarhelyi",,100.0,"Adventure,Documentary,Sport",2018.0,8.1,86997.0,7.665238322493227
+tt0088258,This Is Spinal Tap,Rob Reiner,"Christopher Guest, Michael McKean, Harry Shearer, Rob Reiner",82.0,"Comedy,Music",1984.0,7.9,160961.0,7.665047490625852
+tt0358273,Walk the Line,James Mangold,"Johnny Cash, Gill Dennis, James Mangold, Patrick Carr",136.0,"Biography,Drama,Music",2005.0,7.8,280117.0,7.664996038910562
+tt0401383,The Diving Bell and the Butterfly,Julian Schnabel,"Ronald Harwood, Jean-Dominique Bauby",112.0,"Biography,Drama",2007.0,8.0,112852.0,7.6649159707822445
+tt2488496,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,"Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas",138.0,"Action,Adventure,Sci-Fi",2015.0,7.7,1024248.0,7.6631240625707875
+tt7019842,96,C. Prem Kumar,"Charu Gupta, C. Prem Kumar",158.0,"Drama,Romance",2018.0,8.5,45092.0,7.6626433316822755
+tt1843866,Captain America: The Winter Soldier,"Anthony Russo, Joe Russo","Christopher Markus, Stephen McFeely, Joe Simon, Jack Kirby",136.0,"Action,Adventure,Sci-Fi",2014.0,7.7,969906.0,7.661109890184877
+tt1280558,A Wednesday,Neeraj Pandey,Neeraj Pandey,104.0,"Action,Crime,Drama",2008.0,8.1,85852.0,7.660747631114224
+tt0241527,Harry Potter and the Sorcerer's Stone,Chris Columbus,"J.K. Rowling, Steve Kloves",152.0,"Adventure,Family,Fantasy",2001.0,7.7,950396.0,7.660332005056689
+tt1119646,The Hangover,Todd Phillips,"Jon Lucas, Scott Moore",100.0,Comedy,2009.0,7.7,927795.0,7.659391050965081
+tt0121766,Star Wars: Episode III - Revenge of the Sith,George Lucas,George Lucas,140.0,"Action,Adventure,Fantasy",2005.0,7.7,919441.0,7.659031846779496
+tt0100157,Misery,Rob Reiner,"Stephen King, William Goldman",107.0,"Drama,Thriller",1990.0,7.8,265605.0,7.658254319107634
+tt1454468,Gravity,Alfonso Cuarón,"Alfonso Cuarón, Jonás Cuarón",91.0,"Drama,Sci-Fi,Thriller",2013.0,7.7,899042.0,7.658127440532221
+tt0166896,The Straight Story,David Lynch,"John Roach, Mary Sweeney",112.0,"Biography,Drama",1999.0,8.0,108938.0,7.655123985756649
+tt0310793,Bowling for Columbine,Michael Moore,Michael Moore,120.0,"Crime,Documentary,Drama",2002.0,7.9,152379.0,7.653679953118882
+tt0054331,Spartacus,Stanley Kubrick,"Dalton Trumbo, Howard Fast, Peter Ustinov, Calder Willingham, Plutarch",184.0,"Adventure,Biography,Drama",1960.0,7.9,152028.0,7.653191565200274
+tt1655442,The Artist,Michel Hazanavicius,Michel Hazanavicius,100.0,"Comedy,Drama,Romance",2011.0,7.8,255291.0,7.653038436497333
+tt2802144,Kingsman: The Secret Service,Matthew Vaughn,"Jane Goldman, Matthew Vaughn, Mark Millar, Dave Gibbons",129.0,"Action,Adventure,Comedy",2014.0,7.7,775533.0,7.651667197235184
+tt1045658,Silver Linings Playbook,David O. Russell,"David O. Russell, Matthew Quick",122.0,"Comedy,Drama,Romance",2012.0,7.7,772760.0,7.6514991932464325
+tt0048424,The Night of the Hunter,Charles Laughton,"Davis Grubb, James Agee, Charles Laughton",92.0,"Crime,Drama,Thriller",1955.0,8.0,107420.0,7.651170490894684
+tt1270798,X-Men: First Class,Matthew Vaughn,"Ashley E. Miller, Zack Stentz, Jane Goldman, Matthew Vaughn, Sheldon Turner, Bryan Singer, Jack Kirby, Stan Lee",131.0,"Action,Sci-Fi",2011.0,7.7,763142.0,7.650907319244849
+tt3553976,Captain Fantastic,Matt Ross,Matt Ross,118.0,"Adventure,Comedy,Drama",2016.0,7.8,250300.0,7.65037412424364
+tt0330373,Harry Potter and the Goblet of Fire,Mike Newell,"Steve Kloves, J.K. Rowling",157.0,"Adventure,Family,Fantasy",2005.0,7.7,751512.0,7.650172046799373
+tt0210945,Remember the Titans,Boaz Yakin,Gregory Allen Howard,113.0,"Biography,Comedy,Drama",2000.0,7.8,249366.0,7.649864766058018
+tt0044079,Strangers on a Train,Alfred Hitchcock,"Raymond Chandler, Czenzi Ormonde, Whitfield Cook, Patricia Highsmith, Ben Hecht",101.0,"Crime,Drama,Film-Noir",1951.0,7.9,148948.0,7.648821466209867
+tt0067992,Willy Wonka & the Chocolate Factory,Mel Stuart,"Roald Dahl, Robert Kaufman, David Seltzer",100.0,"Adventure,Comedy,Family",1971.0,7.8,244909.0,7.64738558700997
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,"Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Armando Bo, Raymond Carver",119.0,"Comedy,Drama",2014.0,7.7,697757.0,7.646466096356416
+tt0808417,Persepolis,"Vincent Paronnaud, Marjane Satrapi","Marjane Satrapi, Vincent Paronnaud",96.0,"Animation,Biography,Drama",2007.0,8.0,105424.0,7.645832027880405
+tt0117666,Sling Blade,Billy Bob Thornton,Billy Bob Thornton,135.0,Drama,1996.0,8.0,104987.0,7.644641359553448
+tt0240772,Ocean's Eleven,Steven Soderbergh,"George Clayton Johnson, Jack Golden Russell, Harry Brown, Charles Lederer, Ted Griffin",116.0,"Crime,Thriller",2001.0,7.7,672405.0,7.644520037000415
+tt0443706,Zodiac,David Fincher,"James Vanderbilt, Robert Graysmith",157.0,"Crime,Drama,Mystery",2007.0,7.7,671495.0,7.644447550096231
+tt0936501,Taken,Pierre Morel,"Luc Besson, Robert Mark Kamen",90.0,"Action,Crime,Thriller",2008.0,7.7,671057.0,7.644412593227672
+tt1139797,Let the Right One In,Tomas Alfredson,John Ajvide Lindqvist,114.0,"Drama,Fantasy,Horror",2008.0,7.8,239720.0,7.644394063177221
+tt1024648,Argo,Ben Affleck,"Chris Terrio, Tony Mendez, Joshuah Bearman",120.0,"Biography,Drama,History",2012.0,7.7,665828.0,7.643991842259251
+tt0926084,Harry Potter and the Deathly Hallows: Part 1,David Yates,"Steve Kloves, J.K. Rowling",146.0,"Adventure,Family,Fantasy",2010.0,7.7,662911.0,7.6437543467167615
+tt0470752,Ex Machina,Alex Garland,Alex Garland,108.0,"Drama,Sci-Fi,Thriller",2014.0,7.7,638178.0,7.64165668403396
+tt6710474,Everything Everywhere All at Once,"Daniel Kwan, Daniel Scheinert","Daniel Kwan, Daniel Scheinert",139.0,"Action,Adventure,Comedy",2022.0,7.7,627330.0,7.640686456861212
+tt1398426,Straight Outta Compton,F. Gary Gray,"Jonathan Herman, Andrea Berloff, S. Leigh Savidge, Alan Wenkus",147.0,"Biography,Drama,History",2015.0,7.8,233464.0,7.640627694395636
+tt1132620,The Girl with the Dragon Tattoo,Niels Arden Oplev,"Nikolaj Arcel, Rasmus Heisterberg, Stieg Larsson",152.0,"Crime,Drama,Mystery",2009.0,7.8,230467.0,7.638758025123691
+tt0103767,Baraka,Ron Fricke,"Ron Fricke, Mark Magidson, Genevieve Nicholas, Constantine Nicholas, Bob Green",96.0,Documentary,1992.0,8.5,43098.0,7.638124414876707
+tt3915174,Puss in Boots: The Last Wish,"Joel Crawford, Januel Mercado","Paul Fisher, Tommy Swerdlow, Tom Wheeler",102.0,"Action,Adventure,Animation",2022.0,7.8,224058.0,7.6346087915436325
+tt0088846,Brazil,Terry Gilliam,"Terry Gilliam, Tom Stoppard, Charles McKeown, Charles Alverson",132.0,"Drama,Sci-Fi,Thriller",1985.0,7.8,222474.0,7.633550176601477
+tt2265171,The Raid 2,Gareth Evans,Gareth Evans,150.0,"Action,Crime,Thriller",2014.0,7.9,138782.0,7.633230736004409
+tt0154420,The Celebration,Thomas Vinterberg,"Thomas Vinterberg, Mogens Rukov",101.0,Drama,1998.0,8.0,100768.0,7.632720536259415
+tt0074119,All the President's Men,Alan J. Pakula,"Carl Bernstein, Bob Woodward, William Goldman",138.0,"Drama,History,Thriller",1976.0,7.9,138262.0,7.6323810586926175
+tt0398286,Tangled,"Nathan Greno, Byron Howard","Dan Fogelman, Jacob Grimm, Wilhelm Grimm",100.0,"Adventure,Animation,Comedy",2010.0,7.7,543974.0,7.631996886332722
+tt3397884,Sicario,Denis Villeneuve,Taylor Sheridan,121.0,"Action,Crime,Drama",2015.0,7.7,537160.0,7.631172613498425
+tt0756683,The Man from Earth,Richard Schenkman,Jerome Bixby,87.0,"Drama,Fantasy,Mystery",2007.0,7.8,218421.0,7.630778759450803
+tt3417422,Drishyam,Jeethu Joseph,Jeethu Joseph,160.0,"Crime,Drama,Mystery",2013.0,8.4,48021.0,7.63046789833437
+tt0335266,Lost in Translation,Sofia Coppola,Sofia Coppola,102.0,"Comedy,Drama",2003.0,7.7,529063.0,7.630166779597761
+tt0372183,The Bourne Supremacy,Paul Greengrass,"Robert Ludlum, Tony Gilroy",108.0,"Action,Mystery,Thriller",2004.0,7.7,512397.0,7.628001080028869
+tt1408101,Star Trek Into Darkness,J.J. Abrams,"Roberto Orci, Alex Kurtzman, Damon Lindelof, Gene Roddenberry",132.0,"Action,Adventure,Sci-Fi",2013.0,7.7,510090.0,7.6276906621395915
+tt2980516,The Theory of Everything,James Marsh,"Anthony McCarten, Jane Hawking",123.0,"Biography,Drama,Romance",2014.0,7.7,507360.0,7.627319851987892
+tt1772341,Wreck-It Ralph,Rich Moore,"Phil Johnston, Jennifer Lee, Rich Moore, Jim Reardon",101.0,"Adventure,Animation,Comedy",2012.0,7.7,497718.0,7.625979201795757
+tt5104604,Isle of Dogs,Wes Anderson,"Wes Anderson, Kunichi Nomura, Roman Coppola, Jason Schwartzman",101.0,"Adventure,Animation,Comedy",2018.0,7.8,210685.0,7.625224330798625
+tt0046438,Tokyo Story,Yasujirō Ozu,"Kôgo Noda, Yasujirō Ozu",137.0,Drama,1953.0,8.1,77492.0,7.624918982986711
+tt0036868,The Best Years of Our Lives,William Wyler,"Robert E. Sherwood, MacKinlay Kantor",170.0,"Drama,Romance,War",1946.0,8.1,77379.0,7.624394616125123
+tt0119174,The Game,David Fincher,"John Brancato, Michael Ferris",129.0,"Drama,Mystery,Thriller",1997.0,7.7,469779.0,7.621799422377009
+tt0375679,Crash,Paul Haggis,"Paul Haggis, Bobby Moresco",112.0,"Crime,Drama,Thriller",2004.0,7.7,461984.0,7.620547690281969
+tt2545118,Blackfish,Gabriela Cowperthwaite,"Gabriela Cowperthwaite, Eli B. Despres, Tim Zimmermann",83.0,"Documentary,Drama,Thriller",2013.0,8.1,76410.0,7.619850077943733
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,"Hideaki Anno, Kazuya Tsurumaki",Hideaki Anno,87.0,"Action,Animation,Drama",1997.0,8.1,76356.0,7.619594265798513
+tt8178634,RRR,S.S. Rajamouli,"Vijayendra Prasad, S.S. Rajamouli, Sai Madhav Burra, Mankombu Gopalakrishnan, Madhan Karky",187.0,"Action,Adventure,Drama",2022.0,7.8,203037.0,7.619362631521525
+tt0265086,Black Hawk Down,Ridley Scott,"Mark Bowden, Ken Nolan",144.0,"Action,Drama,History",2001.0,7.7,454056.0,7.6192328170491015
+tt0058946,The Battle of Algiers,Gillo Pontecorvo,"Franco Solinas, Gillo Pontecorvo",121.0,"Drama,War",1966.0,8.1,75540.0,7.61569520990923
+tt0058331,Mary Poppins,Robert Stevenson,"Bill Walsh, Don DaGradi, P.L. Travers",139.0,"Comedy,Family,Fantasy",1964.0,7.8,198461.0,7.615663567263523
+tt10431500,Miracle in Cell No. 7,Mehmet Ada Öztekin,Kubilay Tat,132.0,Drama,2019.0,8.2,62440.0,7.614547076901578
+tt0116231,The Bandit,Yavuz Turgul,Yavuz Turgul,128.0,"Crime,Drama",1996.0,8.1,75300.0,7.6145363549778065
+tt4912910,Mission: Impossible - Fallout,Christopher McQuarrie,"Bruce Geller, Christopher McQuarrie",147.0,"Action,Adventure,Thriller",2018.0,7.7,419150.0,7.612885278406561
+tt0328107,Man on Fire,Tony Scott,"A.J. Quinnell, Brian Helgeland",146.0,"Action,Crime,Drama",2004.0,7.7,419013.0,7.612858399200642
+tt0388795,Brokeback Mountain,Ang Lee,"Annie Proulx, Larry McMurtry, Diana Ossana",134.0,"Drama,Romance",2005.0,7.7,416376.0,7.612337771886723
+tt1490017,The Lego Movie,"Phil Lord, Christopher Miller","Phil Lord, Christopher Miller, Dan Hageman, Kevin Hageman, Ole Kirk Christiansen, Godtfred Kirk Christiansen, Jens Nygaard Knudsen",100.0,"Action,Adventure,Animation",2014.0,7.7,415070.0,7.612077615843557
+tt30472557,Chainsaw Man - The Movie: Reze Arc,Tatsuya Yoshihara,"Tatsuki Fujimoto, Hiroshi Seko",100.0,"Action,Adventure,Animation",2025.0,8.3,52862.0,7.610420955077883
+tt0140352,The Insider,Michael Mann,"Marie Brenner, Eric Roth, Michael Mann",157.0,"Biography,Drama,History",1999.0,7.8,192235.0,7.610380447001054
+tt0108358,Tombstone,George P. Cosmatos,Kevin Jarre,130.0,"Biography,Drama,History",1993.0,7.8,191410.0,7.609657577765695
+tt0109707,Ed Wood,Tim Burton,"Rudolph Grey, Scott Alexander, Larry Karaszewski",127.0,"Biography,Comedy,Drama",1994.0,7.8,191233.0,7.609501770794809
+tt30144839,One Battle After Another,Paul Thomas Anderson,"Paul Thomas Anderson, Thomas Pynchon",161.0,"Action,Crime,Drama",2025.0,7.7,393552.0,7.607557475305994
+tt14230458,Poor Things,Yorgos Lanthimos,"Tony McNamara, Alasdair Gray",141.0,"Comedy,Drama,Romance",2023.0,7.7,391530.0,7.607108723031412
+tt0168629,Dancer in the Dark,Lars von Trier,"Lars von Trier, Sjón",135.0,"Crime,Drama,Musical",2000.0,7.9,123864.0,7.6064971813485736
+tt0097814,Kiki's Delivery Service,Hayao Miyazaki,"Eiko Kadono, Hayao Miyazaki",103.0,"Animation,Family,Fantasy",1989.0,7.8,187664.0,7.606304764343161
+tt0097216,Do the Right Thing,Spike Lee,Spike Lee,120.0,"Comedy,Drama",1989.0,7.9,123755.0,7.606282117604612
+tt1555149,Elite Squad 2: The Enemy Within,José Padilha,"José Padilha, Rodrigo Pimentel, Bráulio Mantovani",115.0,"Crime,Drama,Thriller",2010.0,8.0,92122.0,7.605607797034494
+tt0046268,The Wages of Fear,Henri-Georges Clouzot,"Georges Arnaud, Henri-Georges Clouzot, Jérôme Géronimi",156.0,"Adventure,Drama,Thriller",1953.0,8.1,73428.0,7.605303332428517
+tt1748122,Moonrise Kingdom,Wes Anderson,"Wes Anderson, Roman Coppola",94.0,"Adventure,Comedy,Drama",2012.0,7.7,382614.0,7.6050768531117034
+tt1188996,My Name Is Khan,Karan Johar,"Shibani Bathija, Niranjan Iyengar",165.0,"Drama,Romance",2010.0,7.9,123057.0,7.604897413862728
+tt0046911,Diabolique,Henri-Georges Clouzot,"Pierre Boileau, Thomas Narcejac, Henri-Georges Clouzot, Jérôme Géronimi, René Masson, Frédéric Grendel",117.0,"Crime,Drama,Horror",1955.0,8.1,73322.0,7.604770004721975
+tt0106489,A Bronx Tale,Robert De Niro,Chazz Palminteri,121.0,"Crime,Drama",1993.0,7.8,184791.0,7.603652189103793
+tt0287467,Talk to Her,Pedro Almodóvar,Pedro Almodóvar,112.0,"Drama,Mystery,Romance",2002.0,7.9,121660.0,7.6020864339579575
+tt0120601,Being John Malkovich,Spike Jonze,Charlie Kaufman,113.0,"Comedy,Drama,Fantasy",1999.0,7.7,369460.0,7.601911464798139
+tt11555492,Farha,Darin J. Sallam,Darin J. Sallam,92.0,Drama,2021.0,8.0,90959.0,7.601652277134798
+tt0374546,"Spring, Summer, Fall, Winter... and Spring",Kim Ki-duk,Kim Ki-duk,103.0,"Drama,Romance",2003.0,8.0,90784.0,7.601050200410023
+tt0044081,A Streetcar Named Desire,Elia Kazan,"Tennessee Williams, Oscar Saul",122.0,Drama,1951.0,7.9,119892.0,7.598451235432419
+tt0119008,Donnie Brasco,Mike Newell,"Joseph D. Pistone, Richard Woodley, Paul Attanasio",127.0,"Biography,Crime,Drama",1997.0,7.7,355858.0,7.598408321222803
+tt0020629,All Quiet on the Western Front,Lewis Milestone,"Erich Maria Remarque, Maxwell Anderson, George Abbott, Del Andrews, C. Gardner Sullivan, Walter Anthony, Lewis Milestone",152.0,"Drama,War",1930.0,8.1,72028.0,7.598165440947707
+tt0084503,Pink Floyd: The Wall,Alan Parker,Roger Waters,95.0,"Drama,Fantasy,Music",1982.0,8.0,89718.0,7.597343018569658
+tt0190590,"O Brother, Where Art Thou?","Joel Coen, Ethan Coen","Homer, Ethan Coen, Joel Coen",107.0,"Adventure,Comedy,Crime",2000.0,7.7,351285.0,7.597173675284091
+tt0498380,Letters from Iwo Jima,Clint Eastwood,"Iris Yamashita, Paul Haggis, Tadamichi Kuribayashi, Tsuyoko Yoshido",141.0,"Action,Adventure,Drama",2006.0,7.8,176928.0,7.596006479558426
+tt0119177,Gattaca,Andrew Niccol,Andrew Niccol,106.0,"Drama,Sci-Fi,Thriller",1997.0,7.7,346468.0,7.595840278043531
+tt0099077,Awakenings,Penny Marshall,"Oliver Sacks, Steven Zaillian",121.0,"Biography,Drama",1990.0,7.8,176542.0,7.59561578432423
+tt0120762,Mulan,"Tony Bancroft, Barry Cook","Robert D. San Souci, Rita Hsiao, Chris Sanders, Philip LaZebnik, Raymond Singer, Eugenia Bostwick-Singer, Dean DeBlois, John Sanford, Chris Williams, Tim Hodge, Julius Aguimatang, Burny Mattinson, Lorna Cook, Barry Johnson, Thom Enriquez, Ed Gombert, Joe Grant, Floyd Norman, Linda Woolverton, Jodi Ann Johnson, Alan Ormsby, David Reynolds, Don Dougherty, Jorgen Klubien, Denis Rich, Joe Ekers, Teddy Newton, Larry Scholl, Daan Jippes, Frank Nissen, Jeff Snow, Maoqian Guo",87.0,"Adventure,Animation,Comedy",1998.0,7.7,345464.0,7.595557993230851
+tt3322420,Queen,Vikas Bahl,"Vikas Bahl, Chaitally Parmar, Parveez Shaikh, Anvita Dutt, Kangana Ranaut",146.0,"Adventure,Comedy,Drama",2013.0,8.1,71311.0,7.594429467083448
+tt0083922,Fanny and Alexander,Ingmar Bergman,Ingmar Bergman,188.0,Drama,1982.0,8.1,71305.0,7.594397968997186
+tt0425210,Lucky Number Slevin,Paul McGuigan,Jason Smilovic,110.0,"Crime,Drama,Thriller",2006.0,7.7,338717.0,7.593620579748194
+tt12361178,Drishyam 2,Jeethu Joseph,Jeethu Joseph,152.0,"Crime,Drama,Mystery",2021.0,8.4,44684.0,7.593616847544258
+tt0077651,Halloween,John Carpenter,"John Carpenter, Debra Hill",91.0,"Horror,Thriller",1978.0,7.7,338429.0,7.593536279174954
+tt0119822,As Good as It Gets,James L. Brooks,"Mark Andrus, James L. Brooks",139.0,"Comedy,Drama,Romance",1997.0,7.7,338317.0,7.593503459525082
+tt0112384,Apollo 13,Ron Howard,"Jim Lovell, Jeffrey Kluger, William Broyles Jr., Al Reinert",140.0,"Adventure,Drama,History",1995.0,7.7,337235.0,7.593185353166519
+tt12888462,My Octopus Teacher,"Pippa Ehrlich, James Reed","Pippa Ehrlich, James Reed",85.0,"Documentary,Drama",2020.0,8.1,71050.0,7.593055662720187
+tt2283748,OMG: Oh My God!,Umesh Shukla,"Alok Jha, Saumya Joshi, Bhavesh Mandalia, Pranay Vivek Patil, Umesh Shukla",125.0,"Comedy,Drama,Fantasy",2012.0,8.1,71032.0,7.592960642330411
+tt16277242,Society of the Snow,J.A. Bayona,"J.A. Bayona, Bernat Vilaplana, Jaime Marques, Nicolás Casariego, Pablo Vierci",144.0,"Adventure,Biography,Drama",2023.0,7.8,173411.0,7.592390524740432
+tt13238346,Past Lives,Celine Song,Celine Song,105.0,"Drama,Romance",2023.0,7.8,171996.0,7.590899289347368
+tt0044706,High Noon,Fred Zinnemann,"Carl Foreman, John W. Cunningham",85.0,"Drama,Thriller,Western",1952.0,7.9,116257.0,7.59069140930555
+tt10280296,Sardar Udham,Shoojit Sircar,"Shubhendu Bhattacharya, Ritesh Shah",164.0,"Crime,Drama,History",2021.0,8.3,50652.0,7.590276481841512
+tt0089218,The Goonies,Richard Donner,"Chris Columbus, Steven Spielberg",114.0,"Adventure,Comedy,Family",1985.0,7.7,326078.0,7.589790862441605
+tt0052311,Touch of Evil,Orson Welles,"Orson Welles, Whit Masterson, Franklin Coen, Paul Monash",95.0,"Crime,Drama,Film-Noir",1958.0,7.9,114746.0,7.587347018192107
+tt0101507,Boyz n the Hood,John Singleton,John Singleton,112.0,"Crime,Drama",1991.0,7.8,168303.0,7.586904478483387
+tt0104257,A Few Good Men,Rob Reiner,Aaron Sorkin,138.0,"Drama,Thriller",1992.0,7.7,316568.0,7.586722399066288
+tt1821480,Kahaani,Sujoy Ghosh,"Sujoy Ghosh, Advaita Kala, Suresh Nair, Ritesh Shah, Sutapa Sikdar, Nikhil Vyas",122.0,"Mystery,Thriller",2012.0,8.1,69862.0,7.586706968061753
+tt0066206,Patton,Franklin J. Schaffner,"Francis Ford Coppola, Edmund H. North, Ladislas Farago, Omar N. Bradley",172.0,"Biography,Drama,War",1970.0,7.9,114345.0,7.5864472812391845
+tt5362988,Wind River,Taylor Sheridan,Taylor Sheridan,107.0,"Crime,Drama,Mystery",2017.0,7.7,314303.0,7.585966220175695
+tt0038787,Notorious,Alfred Hitchcock,"Ben Hecht, Alfred Hitchcock, John Taintor Foote, Clifford Odets",102.0,"Drama,Film-Noir,Mystery",1946.0,7.9,113745.0,7.585091328727335
+tt0079417,Kramer vs. Kramer,Robert Benton,"Avery Corman, Robert Benton, Meryl Streep, Jay Christian",105.0,Drama,1979.0,7.8,166129.0,7.584480619917825
+tt1588170,I Saw the Devil,Kim Jee-woon,"Park Hoon-jung, Kim Jee-woon",144.0,"Action,Thriller",2010.0,7.8,164963.0,7.5831577539008865
+tt0053779,La Dolce Vita,Federico Fellini,"Federico Fellini, Ennio Flaiano, Tullio Pinelli, Brunello Rondi, Pier Paolo Pasolini",174.0,"Comedy,Drama",1960.0,8.0,85746.0,7.582901381578332
+tt0112870,Dilwale Dulhania Le Jayenge,Aditya Chopra,"Aditya Chopra, Javed Siddiqui",181.0,"Drama,Romance",1995.0,8.0,85303.0,7.58122622598002
+tt0083944,First Blood,Ted Kotcheff,"David Morrell, Michael Kozoll, William Sackheim, Sylvester Stallone",93.0,"Action,Adventure,Thriller",1982.0,7.7,300716.0,7.581209386104073
+tt0109424,Chungking Express,Wong Kar-Wai,Wong Kar-Wai,102.0,"Comedy,Crime,Drama",1994.0,7.9,110710.0,7.578048753992146
+tt1602620,Amour,Michael Haneke,Michael Haneke,127.0,Drama,2012.0,7.9,110469.0,7.577476001183105
+tt0019254,The Passion of Joan of Arc,Carl Theodor Dreyer,"Joseph Delteil, Carl Theodor Dreyer",114.0,"Biography,Drama,History",1928.0,8.1,68082.0,7.576891304487162
+tt0061184,Who's Afraid of Virginia Woolf?,Mike Nichols,"Edward Albee, Ernest Lehman",131.0,Drama,1966.0,8.0,84158.0,7.576833547740652
+tt0080339,Airplane!,"Jim Abrahams, David Zucker, Jerry Zucker","Jim Abrahams, David Zucker, Jerry Zucker, Hall Bartlett, John C. Champion, Arthur Hailey",88.0,Comedy,1980.0,7.7,287200.0,7.576066612441621
+tt0117381,Primal Fear,Gregory Hoblit,"William Diehl, Steve Shagan, Ann Biderman",129.0,"Crime,Drama,Mystery",1996.0,7.7,283029.0,7.574388438764772
+tt0824747,Changeling,Clint Eastwood,J. Michael Straczynski,141.0,"Biography,Crime,Drama",2008.0,7.7,274882.0,7.570975905203627
+tt0914798,The Boy in the Striped Pajamas,Mark Herman,"John Boyne, Mark Herman",94.0,"Drama,War",2008.0,7.7,273842.0,7.570526888470409
+tt0107818,Philadelphia,Jonathan Demme,Ron Nyswaner,125.0,Drama,1993.0,7.7,273541.0,7.5703963489245165
+tt3544112,Sing Street,John Carney,"Simon Carmody, John Carney",106.0,"Comedy,Drama,Music",2016.0,7.9,107540.0,7.570348546886027
+tt0098635,When Harry Met Sally...,Rob Reiner,Nora Ephron,95.0,"Comedy,Drama,Romance",1989.0,7.7,272086.0,7.569761605744715
+tt10554232,Dara of Jasenovac,Predrag Antonijevic,"Natasa Drakulic, Tihomir Stanic, Stasa Petrovic",130.0,"Drama,War",2020.0,8.0,82363.0,7.569758635696413
+tt0079522,Manhattan,Woody Allen,"Woody Allen, Marshall Brickman",96.0,"Comedy,Drama,Romance",1979.0,7.8,153878.0,7.569720124354443
+tt0097441,Glory,Edward Zwick,"Kevin Jarre, Lincoln Kirstein, Peter Burchard, Robert Gould Shaw",122.0,"Biography,Drama,History",1989.0,7.8,153731.0,7.569530727206103
+tt0108550,What's Eating Gilbert Grape,Lasse Hallström,Peter Hedges,118.0,Drama,1993.0,7.7,269625.0,7.5686737255978755
+tt4698684,Hunt for the Wilderpeople,Taika Waititi,"Taika Waititi, Barry Crump, Tearepa Kahi",101.0,"Adventure,Comedy,Drama",2016.0,7.8,152825.0,7.568356510076052
+tt0063350,Night of the Living Dead,George A. Romero,"John A. Russo, George A. Romero",96.0,"Horror,Thriller",1968.0,7.8,150705.0,7.565561574253858
+tt0049406,The Killing,Stanley Kubrick,"Stanley Kubrick, Jim Thompson, Lionel White",84.0,"Crime,Drama,Film-Noir",1956.0,7.9,105521.0,7.565249242683355
+tt0069293,Solaris,Andrei Tarkovsky,"Stanislaw Lem, Fridrikh Gorenshteyn, Andrei Tarkovsky",167.0,"Adventure,Drama,Mystery",1972.0,7.9,105099.0,7.564163417122915
+tt7131622,Once Upon a Time... in Hollywood,Quentin Tarantino,Quentin Tarantino,161.0,"Comedy,Drama",2019.0,7.6,959923.0,7.563253976609617
+tt0485947,Mr. Nobody,Jaco Van Dormael,Jaco Van Dormael,141.0,"Drama,Fantasy,Romance",2009.0,7.7,257352.0,7.56296536381635
+tt6148156,Vikram Vedha,"Gayatri, Pushkar","Manikandan K., Gayatri, Pushkar, Gautam Siddhartha",147.0,"Action,Crime,Drama",2017.0,8.2,55340.0,7.562808020964326
+tt0015324,Sherlock Jr.,Buster Keaton,"Jean C. Havez, Joseph A. Mitchell, Clyde Bruckman",45.0,"Action,Comedy,Romance",1924.0,8.1,65579.0,7.562436065801941
+tt0253828,Tosun Pasha,Kartal Tibet,Yavuz Turgul,90.0,"Comedy,History",1976.0,8.9,26328.0,7.561705042165563
+tt0416449,300,Zack Snyder,"Zack Snyder, Kurt Johnstad, Michael B. Gordon, Frank Miller, Lynn Varley",117.0,"Action,Drama",2006.0,7.6,911061.0,7.561335849270799
+tt27503384,Perfect Days,Wim Wenders,"Wim Wenders, Takuma Takasaki",124.0,Drama,2023.0,7.9,103950.0,7.561170968625623
+tt0292490,Dil Chahta Hai,Farhan Akhtar,"Kassim Jagmagia, Farhan Akhtar, Karan Vishwanath Kashyap, Karan Kashyap",183.0,"Comedy,Drama,Romance",2001.0,8.0,79803.0,7.559249223822543
+tt0144084,American Psycho,Mary Harron,"Bret Easton Ellis, Mary Harron, Guinevere Turner",102.0,"Crime,Drama,Horror",2000.0,7.6,835558.0,7.557943562670121
+tt3896198,Guardians of the Galaxy Vol. 2,James Gunn,"James Gunn, Dan Abnett, Andy Lanning, Steve Englehart, Steve Gan, Jim Starlin, Stan Lee, Larry Lieber, Jack Kirby, Bill Mantlo, Keith Giffen, Steve Gerber, Val Mayerik",136.0,"Action,Adventure,Comedy",2017.0,7.6,827407.0,7.55754140499113
+tt0090756,Blue Velvet,David Lynch,David Lynch,120.0,"Crime,Drama,Mystery",1986.0,7.7,244916.0,7.556651685725463
+tt0109445,Clerks,Kevin Smith,Kevin Smith,92.0,Comedy,1994.0,7.7,240272.0,7.55414214996032
+tt5463162,Deadpool 2,David Leitch,"Rhett Reese, Paul Wernick, Ryan Reynolds, Rob Liefeld, Fabian Nicieza",119.0,"Action,Adventure,Comedy",2018.0,7.6,742953.0,7.552872111189453
+tt0386032,Sicko,Michael Moore,Michael Moore,123.0,"Documentary,Drama",2007.0,8.0,78287.0,7.552780082723615
+tt0052561,Anatomy of a Murder,Otto Preminger,"Wendell Mayes, John D. Voelker",161.0,"Drama,Mystery",1959.0,8.0,77706.0,7.550250193798552
+tt0096438,Who Framed Roger Rabbit,Robert Zemeckis,"Jeffrey Price, Peter S. Seaman, Gary K. Wolf",104.0,"Adventure,Animation,Comedy",1988.0,7.7,233218.0,7.550157604831089
+tt0829482,Superbad,Greg Mottola,"Seth Rogen, Evan Goldberg",113.0,Comedy,2007.0,7.6,692156.0,7.54953398759025
+tt0073707,Sholay,Ramesh Sippy,"Javed Akhtar, Salim Khan",162.0,"Action,Adventure,Comedy",1975.0,8.1,63107.0,7.5473537449268955
+tt0417741,Harry Potter and the Half-Blood Prince,David Yates,"Steve Kloves, J.K. Rowling",153.0,"Action,Adventure,Family",2009.0,7.6,658805.0,7.547072625096737
+tt10288566,Another Round,Thomas Vinterberg,"Thomas Vinterberg, Tobias Lindholm",117.0,"Comedy,Drama",2020.0,7.7,225922.0,7.545800672736045
+tt0158983,"South Park: Bigger, Longer & Uncut",Trey Parker,"Trey Parker, Matt Stone, Pam Brady",81.0,"Animation,Comedy,Fantasy",1999.0,7.7,224475.0,7.544906288823626
+tt1323594,Despicable Me,"Pierre Coffin, Chris Renaud","Cinco Paul, Ken Daurio, Sergio Pablos",95.0,"Adventure,Animation,Comedy",2010.0,7.6,631475.0,7.544869182229748
+tt0077402,Dawn of the Dead,George A. Romero,George A. Romero,127.0,"Horror,Thriller",1978.0,7.8,136415.0,7.544806842017619
+tt0181689,Minority Report,Steven Spielberg,"Scott Frank, Jon Cohen, Philip K. Dick",145.0,"Action,Crime,Mystery",2002.0,7.6,620513.0,7.543932959373822
+tt1250777,Kick-Ass,Matthew Vaughn,"Jane Goldman, Matthew Vaughn, Mark Millar, John Romita Jr.",117.0,"Action,Comedy,Crime",2010.0,7.6,620304.0,7.54391480047276
+tt1022603,500 Days of Summer,Marc Webb,"Scott Neustadter, Michael H. Weber",95.0,"Comedy,Drama,Romance",2009.0,7.6,617162.0,7.543640384208772
+tt0010323,The Cabinet of Dr. Caligari,Robert Wiene,"Carl Mayer, Hans Janowitz",67.0,"Horror,Mystery,Thriller",1920.0,8.0,76136.0,7.543268434625396
+tt0409459,Watchmen,Zack Snyder,"Dave Gibbons, David Hayter, Alex Tse",162.0,"Action,Drama,Mystery",2009.0,7.6,610260.0,7.543028045846227
+tt2713180,Fury,David Ayer,David Ayer,134.0,"Action,Drama,War",2014.0,7.6,607360.0,7.542766772731156
+tt1318514,Rise of the Planet of the Apes,Rupert Wyatt,"Rick Jaffa, Amanda Silver, Pierre Boulle",105.0,"Action,Drama,Sci-Fi",2011.0,7.6,604909.0,7.542544076055865
+tt4169250,M.S. Dhoni: The Untold Story,Neeraj Pandey,"Neeraj Pandey, Dilip Jha, Shyam Maheshwari, Guru Thakur, Mohinder Pratap Singh, Shyam Maheshwari",184.0,"Biography,Drama,Sport",2016.0,8.0,75802.0,7.541755088235095
+tt0058150,Goldfinger,Guy Hamilton,"Richard Maibaum, Paul Dehn, Ian Fleming, Johanna Harwood, Berkely Mather",110.0,"Action,Adventure,Thriller",1964.0,7.7,217471.0,7.540426262952163
+tt0441773,Kung Fu Panda,"Mark Osborne, John Stevenson","Jonathan Aibel, Glenn Berger, Ethan Reiff, Cyrus Voris, Chris Poche",92.0,"Action,Adventure,Animation",2008.0,7.6,578492.0,7.540029025081151
+tt0085794,The King of Comedy,Martin Scorsese,Paul D. Zimmerman,109.0,"Comedy,Crime,Drama",1982.0,7.8,132710.0,7.538811720273122
+tt0024216,King Kong,"Merian C. Cooper, Ernest B. Schoedsack","James Ashmore Creelman, Ruth Rose, Merian C. Cooper, Edgar Wallace, Leon Gordon",100.0,"Adventure,Horror",1933.0,7.9,95833.0,7.538410007235392
+tt0289879,The Butterfly Effect,"Eric Bress, J. Mackye Gruber","Eric Bress, J. Mackye Gruber",113.0,"Drama,Sci-Fi,Thriller",2004.0,7.6,555398.0,7.537642783752312
+tt2370248,Short Term 12,Destin Daniel Cretton,Destin Daniel Cretton,96.0,Drama,2013.0,7.9,95411.0,7.537142756095989
+tt0038355,The Big Sleep,Howard Hawks,"William Faulkner, Leigh Brackett, Jules Furthman, Raymond Chandler",114.0,"Crime,Drama,Film-Noir",1946.0,7.9,95396.0,7.537097548126798
+tt0064665,Midnight Cowboy,John Schlesinger,"Waldo Salt, James Leo Herlihy",113.0,Drama,1969.0,7.8,131530.0,7.536842754770805
+tt0065214,The Wild Bunch,Sam Peckinpah,"Walon Green, Sam Peckinpah, Roy N. Sickner",135.0,"Action,Adventure,Drama",1969.0,7.9,95274.0,7.536729437819263
+tt0119116,The Fifth Element,Luc Besson,"Luc Besson, Robert Mark Kamen",126.0,"Action,Adventure,Sci-Fi",1997.0,7.6,543926.0,7.53638539353848
+tt8075192,Shoplifters,Hirokazu Koreeda,Hirokazu Koreeda,121.0,"Crime,Drama,Thriller",2018.0,7.9,94966.0,7.535796779123036
+tt0770802,Samsara,Ron Fricke,"Ron Fricke, Mark Magidson",102.0,"Documentary,Music",2011.0,8.4,39882.0,7.533935396631948
+tt15501640,Drishyam 2,Abhishek Pathak,"Jeethu Joseph, Aamil Keeyan Khan, Abhishek Pathak",140.0,"Crime,Drama,Mystery",2022.0,8.2,51820.0,7.533610991984822
+tt2103281,Dawn of the Planet of the Apes,Matt Reeves,"Mark Bomback, Rick Jaffa, Amanda Silver, Pierre Boulle",130.0,"Action,Adventure,Drama",2014.0,7.6,510810.0,7.532453661567112
+tt0387564,Saw,James Wan,"Leigh Whannell, James Wan",103.0,"Horror,Mystery,Thriller",2004.0,7.6,509003.0,7.532225093125457
+tt1210166,Moneyball,Bennett Miller,"Steven Zaillian, Aaron Sorkin, Stan Chervin, Michael Lewis",133.0,"Biography,Drama,Sport",2011.0,7.6,507736.0,7.532063904831425
+tt1070874,The Trial of the Chicago 7,Aaron Sorkin,Aaron Sorkin,129.0,"Drama,History,Thriller",2020.0,7.7,205082.0,7.531833852297329
+tt0460791,The Fall,Tarsem Singh,"Dan Gilroy, Nico Soultanakis, Tarsem Singh, Valeri Petrov",117.0,"Adventure,Drama,Fantasy",2006.0,7.8,128530.0,7.531700621404768
+tt0120731,The Legend of 1900,Giuseppe Tornatore,"Alessandro Baricco, Giuseppe Tornatore",169.0,"Drama,Music,Romance",1998.0,8.0,73535.0,7.531212223111321
+tt0095647,Mississippi Burning,Alan Parker,Chris Gerolmo,128.0,"Crime,Drama,Mystery",1988.0,7.8,127635.0,7.530127404620657
+tt4772188,Flow,Gints Zilbalodis,"Gints Zilbalodis, Matiss Kaza, Ron Dyens",85.0,"Adventure,Animation,Family",2024.0,7.8,126336.0,7.527810939923573
+tt1605783,Midnight in Paris,Woody Allen,Woody Allen,94.0,"Comedy,Fantasy,Romance",2011.0,7.6,470749.0,7.526995306907879
+tt0907657,Once,John Carney,John Carney,86.0,"Drama,Music,Musical",2006.0,7.8,124923.0,7.52524560210424
+tt0092991,Evil Dead II,Sam Raimi,"Sam Raimi, Scott Spiegel",84.0,"Comedy,Horror",1987.0,7.7,195971.0,7.524900083740736
+tt0054997,The Hustler,Robert Rossen,"Sidney Carroll, Robert Rossen, Walter Tevis",134.0,"Drama,Sport",1961.0,7.9,91095.0,7.523653011794427
+tt1517451,A Star Is Born,Bradley Cooper,"Eric Roth, Bradley Cooper, Will Fetters, Moss Hart, John Gregory Dunne, Joan Didion, Frank Pierson, William A. Wellman, Robert Carson",136.0,"Drama,Music,Romance",2018.0,7.6,448376.0,7.523544912298625
+tt0061811,In the Heat of the Night,Norman Jewison,"Stirling Silliphant, John Ball",110.0,"Drama,Mystery,Thriller",1967.0,7.9,90950.0,7.5231823751985685
+tt0361862,The Machinist,Brad Anderson,Scott Kosar,101.0,"Drama,Thriller",2004.0,7.6,441265.0,7.522378896988352
+tt0013442,Nosferatu,F.W. Murnau,"Bram Stoker, Henrik Galeen",94.0,"Fantasy,Horror",1922.0,7.8,123234.0,7.522115010080508
+tt3521164,Moana,"Ron Clements, John Musker, Don Hall, Chris Williams","Jared Bush, Ron Clements, John Musker, Chris Williams, Don Hall, Pamela Ribon, Aaron Kandell, Jordan Kandell",107.0,"Adventure,Animation,Comedy",2016.0,7.6,439655.0,7.52210994480695
+tt0384116,G.O.R.A.,Ömer Faruk Sorak,"Cem Yılmaz, Özgü Namal",127.0,"Adventure,Comedy,Sci-Fi",2004.0,8.0,71511.0,7.5213809452215195
+tt0112864,Die Hard with a Vengeance,John McTiernan,"Jonathan Hensleigh, Roderick Thorp",128.0,"Action,Adventure,Thriller",1995.0,7.6,430282.0,7.52050640351315
+tt0230600,The Others,Alejandro Amenábar,Alejandro Amenábar,104.0,"Horror,Mystery,Thriller",2001.0,7.6,426508.0,7.519841943895288
+tt0454848,Inside Man,Spike Lee,Russell Gewirtz,129.0,"Crime,Drama,Mystery",2006.0,7.6,424260.0,7.519440850296652
+tt2582846,The Fault in Our Stars,Josh Boone,"Scott Neustadter, Michael H. Weber, John Green",126.0,"Drama,Romance",2014.0,7.6,424069.0,7.519406586525175
+tt10366206,John Wick: Chapter 4,Chad Stahelski,"Shay Hatten, Michael Finch, Derek Kolstad",169.0,"Action,Crime,Thriller",2023.0,7.6,410108.0,7.5168206431604885
+tt0369702,The Sea Inside,Alejandro Amenábar,"Alejandro Amenábar, Mateo Gil",126.0,"Biography,Drama",2004.0,7.9,88864.0,7.516279038188313
+tt5363618,Sound of Metal,Darius Marder,"Darius Marder, Abraham Marder, Derek Cianfrance",120.0,"Drama,Music",2019.0,7.7,184970.0,7.515726038978302
+tt0108394,Three Colors: Blue,Krzysztof Kieslowski,"Krzysztof Kieslowski, Krzysztof Piesiewicz, Agnieszka Holland, Edward Zebrowski, Slawomir Idziak",98.0,"Drama,Music,Mystery",1993.0,7.8,118841.0,7.5136282172973905
+tt0047528,La Strada,Federico Fellini,"Federico Fellini, Tullio Pinelli, Ennio Flaiano",108.0,Drama,1954.0,8.0,69922.0,7.513368833402941
+tt0878804,The Blind Side,John Lee Hancock,"John Lee Hancock, Michael Lewis",129.0,"Biography,Drama,Sport",2009.0,7.6,386267.0,7.511998765775697
+tt0066999,Dirty Harry,"Don Siegel, Clint Eastwood","Harry Julian Fink, Rita M. Fink, Dean Riesner, Terrence Malick, Jo Heims, John Milius",102.0,"Action,Crime,Thriller",1971.0,7.7,180616.0,7.511823965081872
+tt31514146,I Swear,Kirk Jones,Kirk Jones,120.0,"Biography,Drama",2025.0,8.4,38199.0,7.510871950573175
+tt0059113,Doctor Zhivago,David Lean,"Boris Pasternak, Robert Bolt",197.0,"Drama,Romance,War",1965.0,7.9,87116.0,7.510296446575636
+tt1403865,True Grit,"Ethan Coen, Joel Coen","Joel Coen, Ethan Coen, Charles Portis",110.0,"Drama,Western",2010.0,7.6,375970.0,7.509738874240651
+tt0070510,Paper Moon,Peter Bogdanovich,"Joe David Brown, Alvin Sargent",102.0,"Comedy,Crime,Drama",1973.0,8.1,57398.0,7.509063283141265
+tt0050783,Nights of Cabiria,Federico Fellini,"Federico Fellini, Ennio Flaiano, Tullio Pinelli, Pier Paolo Pasolini",110.0,Drama,1957.0,8.1,57043.0,7.506506300406787
+tt0399295,Lord of War,Andrew Niccol,Andrew Niccol,122.0,"Crime,Drama",2005.0,7.6,358527.0,7.505633753045481
+tt0108037,The Sandlot,David Mickey Evans,"David Mickey Evans, Robert Gunter",101.0,"Comedy,Drama,Family",1993.0,7.8,114573.0,7.504871260231377
+tt1306980,50/50,Jonathan Levine,Will Reiser,100.0,"Comedy,Drama,Romance",2011.0,7.6,353763.0,7.504446834575378
+tt0018455,Sunrise,F.W. Murnau,"Carl Mayer, Hermann Sudermann, Katherine Hilliker, H.H. Caldwell",94.0,"Drama,Romance",1927.0,8.1,56676.0,7.50383951716874
+tt16311594,F1: The Movie,Joseph Kosinski,"Joseph Kosinski, Ehren Kruger",155.0,"Action,Drama,Sport",2025.0,7.6,350947.0,7.5037311014698185
+tt0381849,3:10 to Yuma,James Mangold,"Halsted Welles, Michael Brandt, Derek Haas, Elmore Leonard",122.0,"Action,Crime,Drama",2007.0,7.6,350719.0,7.50367268198913
+tt1865505,Song of the Sea,Tomm Moore,"Will Collins, Tomm Moore",93.0,"Adventure,Animation,Drama",2014.0,8.0,68017.0,7.503402565168454
+tt4468740,Paddington 2,Paul King,"Paul King, Simon Farnaby, Michael Bond, Mark Burton, Jon Croker, Will Smith, Simon Stephenson",103.0,"Adventure,Comedy,Family",2017.0,7.8,113708.0,7.50303080142655
+tt3682448,Bridge of Spies,Steven Spielberg,"Matt Charman, Ethan Coen, Joel Coen",142.0,"Drama,History,Thriller",2015.0,7.6,344110.0,7.501947919060101
+tt0056218,The Manchurian Candidate,John Frankenheimer,"Richard Condon, George Axelrod, John Frankenheimer",126.0,"Drama,Thriller",1962.0,7.9,84603.0,7.501361243800572
+tt0049833,The Ten Commandments,Cecil B. DeMille,"Dorothy Clarke Wilson, J.H. Ingraham, A.E. Southon, Æneas MacKenzie, Jesse Lasky Jr., Jack Gariss, Fredric M. Frank",220.0,"Adventure,Drama,Family",1956.0,7.9,84576.0,7.501263017488081
+tt0056687,What Ever Happened to Baby Jane?,Robert Aldrich,"Henry Farrell, Lukas Heller",134.0,"Drama,Horror,Thriller",1962.0,8.0,67573.0,7.501020777162607
+tt2013293,The Wind Rises,Hayao Miyazaki,Hayao Miyazaki,126.0,"Animation,Biography,Drama",2013.0,7.8,112689.0,7.500833010656436
+tt6316138,Ayla: The Daughter of War,Can Ulkay,Yigit Güralp,125.0,"Biography,Drama,History",2017.0,8.2,48159.0,7.500263759814568
+tt0265666,The Royal Tenenbaums,Wes Anderson,"Wes Anderson, Owen Wilson",110.0,"Comedy,Drama",2001.0,7.6,334506.0,7.49932851302697
+tt3076658,Creed,Ryan Coogler,"Ryan Coogler, Aaron Covington, Sylvester Stallone",133.0,"Action,Drama,Sport",2015.0,7.6,333913.0,7.49916218249067
+tt0132477,October Sky,Joe Johnston,"Homer H. Hickam Jr., Lewis Colick",108.0,"Biography,Drama,Family",1999.0,7.8,111761.0,7.498802995037138
+tt26439764,Kantara: A Legend - Chapter 1,Rishab Shetty,"Rishab Shetty, Anirudh Mahesh, Shanil Guru, Choudary Hanuman, Sanjay Upadhyay, Bharat Veer",165.0,"Action,Drama,Fantasy",2025.0,8.1,55984.0,7.498745386795837
+tt0093191,Wings of Desire,Wim Wenders,"Wim Wenders, Peter Handke, Richard Reitinger, Bernard Eisenschitz",128.0,"Drama,Fantasy,Romance",1987.0,7.9,83818.0,7.498485511627434
+tt9603212,Mission: Impossible - Dead Reckoning Part One,Christopher McQuarrie,"Bruce Geller, Christopher McQuarrie, Erik Jendresen",163.0,"Action,Adventure,Thriller",2023.0,7.6,326578.0,7.497058395019808
+tt0814314,Seven Pounds,Gabriele Muccino,Grant Nieporte,123.0,"Drama,Mystery,Thriller",2008.0,7.6,325715.0,7.496805087904065
+tt0350258,Ray,Taylor Hackford,"Taylor Hackford, James L. White",152.0,"Biography,Drama,Music",2004.0,7.7,165417.0,7.4968038379150705
+tt9477520,Asuran,Vetrimaaran,"M.S. Manimaran, Vetrimaaran, Suka, Poomani, Gautam Siddhartha",141.0,"Action,Drama",2019.0,8.4,37179.0,7.496286469777161
+tt0071230,Blazing Saddles,Mel Brooks,"Mel Brooks, Norman Steinberg, Andrew Bergman, Richard Pryor, Alan Uger",93.0,"Comedy,Western",1974.0,7.7,164415.0,7.495728935956889
+tt0078841,Being There,Hal Ashby,"Jerzy Kosinski, Robert C. Jones",130.0,"Comedy,Drama",1979.0,7.9,82923.0,7.495155772210503
+tt0373074,Kung Fu Hustle,Stephen Chow,"Stephen Chow, Kan-Cheung Tsang, Xin Huo, Man-Keung Chan",99.0,"Action,Comedy,Fantasy",2004.0,7.7,163813.0,7.495077650396286
+tt0185125,All About My Mother,Pedro Almodóvar,Pedro Almodóvar,101.0,"Comedy,Drama,Romance",1999.0,7.8,109522.0,7.493789836638424
+tt1979376,Toy Story 4,Josh Cooley,"John Lasseter, Andrew Stanton, Josh Cooley, Valerie LaPointe, Rashida Jones, Will McCormack, Martin Hynes, Stephany Folsom",100.0,"Adventure,Animation,Comedy",2019.0,7.6,313618.0,7.4931184886930815
+tt0097757,The Little Mermaid,"Ron Clements, John Musker","John Musker, Ron Clements, Hans Christian Andersen, Howard Ashman, Gerrit Graham, Sam Graham, Chris Hubbell",83.0,"Adventure,Animation,Family",1989.0,7.6,311497.0,7.492444795657239
+tt0452623,Gone Baby Gone,Ben Affleck,"Ben Affleck, Aaron Stockard, Dennis Lehane",114.0,"Crime,Drama,Mystery",2007.0,7.6,310458.0,7.492111669431863
+tt0093870,RoboCop,Paul Verhoeven,"Edward Neumeier, Michael Miner",102.0,"Action,Crime,Sci-Fi",1987.0,7.6,308251.0,7.491397164312406
+tt0151804,Office Space,Mike Judge,Mike Judge,89.0,Comedy,1999.0,7.6,308158.0,7.491366848174961
+tt0062229,Le Samouraï,Jean-Pierre Melville,"Jean-Pierre Melville, Joan McLeod, Georges Pellegrin",101.0,"Crime,Drama,Thriller",1967.0,8.0,65787.0,7.491204648289667
+tt0245844,The Count of Monte Cristo,Kevin Reynolds,"Alexandre Dumas, Jay Wolpert",131.0,"Action,Adventure,Drama",2002.0,7.7,159676.0,7.490487103924029
+tt0301357,Good Bye Lenin!,Wolfgang Becker,"Bernd Lichtenberg, Wolfgang Becker, Achim von Borries, Henk Handloegten, Chris Silber",121.0,"Comedy,Drama,Romance",2003.0,7.7,159645.0,7.490451928859563
+tt5700672,Train to Busan,Yeon Sang-ho,"Park Joo-suk, Yeon Sang-ho",118.0,"Action,Horror,Thriller",2016.0,7.6,305367.0,7.4904490957155945
+tt0347304,Kal Ho Naa Ho,Nikkhil Advani,"Niranjan Iyengar, Karan Johar",186.0,"Comedy,Drama,Musical",2003.0,7.9,81550.0,7.48993896202979
+tt3612616,Mommy,Xavier Dolan,Xavier Dolan,139.0,Drama,2014.0,8.0,65532.0,7.489771532764923
+tt2140203,Wolf Children,Mamoru Hosoda,"Mamoru Hosoda, Satoko Okudera",117.0,"Animation,Drama,Family",2012.0,8.1,54718.0,7.489196874034397
+tt1235166,A Prophet,Jacques Audiard,"Thomas Bidegain, Jacques Audiard, Abdel Raouf Dafri, Nicolas Peufaillit",155.0,"Crime,Drama",2009.0,7.8,107403.0,7.488889197406962
+tt32916440,Marty Supreme,Josh Safdie,"Ronald Bronstein, Josh Safdie",149.0,"Drama,Sport",2025.0,7.7,158252.0,7.4888590378510145
+tt0257044,Road to Perdition,Sam Mendes,"Max Allan Collins, Richard Piers Rayner, David Self",117.0,"Crime,Drama,Thriller",2002.0,7.6,300370.0,7.48876662385676
+tt14905854,Hamnet,Chloé Zhao,"Chloé Zhao, Maggie O'Farrell",125.0,"Biography,Drama,History",2025.0,7.8,107271.0,7.48857872401565
+tt0486655,Stardust,Matthew Vaughn,"Jane Goldman, Matthew Vaughn, Neil Gaiman, Charles Vess",127.0,"Adventure,Fantasy,Romance",2007.0,7.6,298268.0,7.4880433460913975
+tt0093409,Lethal Weapon,Richard Donner,"Shane Black, Jeffrey Boam",109.0,"Action,Crime,Thriller",1987.0,7.6,295533.0,7.487088057717221
+tt11813216,The Banshees of Inisherin,Martin McDonagh,Martin McDonagh,114.0,"Comedy,Drama",2022.0,7.6,295171.0,7.486960394302651
+tt1855199,End of Watch,David Ayer,David Ayer,109.0,"Action,Crime,Drama",2012.0,7.6,291704.0,7.485722934993793
+tt0074896,The Message,Moustapha Akkad,"H.A.L. Craig, Abdel Hamid Gouda El Sahhar, Tewfik El-Hakim, A.B. Rahman El-Sharkawi, Mohammad Ali Maher",177.0,"Biography,Drama,History",1976.0,8.1,53904.0,7.482895625117536
+tt13833688,The Whale,Darren Aronofsky,Samuel D. Hunter,117.0,Drama,2022.0,7.6,281830.0,7.482045420605136
+tt0114787,Underground,Emir Kusturica,"Dusan Kovacevic, Emir Kusturica",167.0,"Comedy,Drama,Fantasy",1995.0,8.0,64139.0,7.481798050284096
+tt0249462,Billy Elliot,Stephen Daldry,Lee Hall,110.0,"Drama,Music",2000.0,7.7,151809.0,7.481164965608505
+tt0765443,Eastern Promises,David Cronenberg,Steven Knight,100.0,"Crime,Drama,Thriller",2007.0,7.6,277236.0,7.480252506002839
+tt2582782,Hell or High Water,David Mackenzie,Taylor Sheridan,102.0,"Crime,Drama,Thriller",2016.0,7.6,276921.0,7.480127571133753
+tt0049730,The Searchers,John Ford,"Frank S. Nugent, Alan Le May",119.0,"Adventure,Western",1956.0,7.8,103583.0,7.479646581618675
+tt16492678,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,Haruo Sotozaki,Koyoharu Gotouge,87.0,"Action,Animation,Fantasy",2021.0,8.4,36040.0,7.479423270056914
+tt0067116,The French Connection,William Friedkin,"Ernest Tidyman, Robin Moore, William Friedkin",104.0,"Action,Crime,Drama",1971.0,7.7,150267.0,7.479239653809754
+tt0976051,The Reader,Stephen Daldry,"David Hare, Bernhard Schlink",124.0,"Drama,Mystery,Romance",2008.0,7.6,273693.0,7.478832099862648
+tt0036613,Arsenic and Old Lace,Frank Capra,"Julius J. Epstein, Joseph Kesselring",118.0,"Comedy,Crime,Thriller",1944.0,7.9,78707.0,7.47869764243758
+tt0100150,Miller's Crossing,"Joel Coen, Ethan Coen","Joel Coen, Ethan Coen, Dashiell Hammett",115.0,"Crime,Drama,Thriller",1990.0,7.7,149220.0,7.477912962944977
+tt4302938,Kubo and the Two Strings,Travis Knight,"Marc Haimes, Chris Butler, Shannon Tindle",101.0,"Action,Adventure,Animation",2016.0,7.7,146593.0,7.474512925377342
+tt0070666,Serpico,Sidney Lumet,"Peter Maas, Waldo Salt, Norman Wexler",130.0,"Biography,Crime,Drama",1973.0,7.7,146450.0,7.474324855084713
+tt0144117,The Boondock Saints,Troy Duffy,Troy Duffy,108.0,"Action,Crime,Thriller",1999.0,7.6,262150.0,7.47396133172305
+tt1185616,Waltz with Bashir,Ari Folman,Ari Folman,90.0,"Animation,Biography,Documentary",2008.0,8.0,62604.0,7.472718099678943
+tt2582496,Me and Earl and the Dying Girl,Alfonso Gomez-Rejon,Jesse Andrews,105.0,"Comedy,Drama",2015.0,7.7,144373.0,7.4715574288952435
+tt2377938,Special 26,Neeraj Pandey,Neeraj Pandey,144.0,"Crime,Drama,History",2013.0,8.0,62294.0,7.47084560684897
+tt0315733,21 Grams,Alejandro G. Iñárritu,Guillermo Arriaga,124.0,"Crime,Drama,Thriller",2003.0,7.6,253404.0,7.470001854873759
+tt0092965,Empire of the Sun,Steven Spielberg,"Tom Stoppard, J.G. Ballard, Menno Meyjes",153.0,"Drama,War",1987.0,7.7,142688.0,7.469261941249667
+tt2576852,The Tale of The Princess Kaguya,Isao Takahata,"Isao Takahata, Riko Sakaguchi",137.0,"Animation,Drama,Family",2013.0,8.0,61742.0,7.467478227436236
+tt0245574,Y Tu Mamá También,Alfonso Cuarón,"Carlos Cuarón, Alfonso Cuarón",106.0,Drama,2001.0,7.7,140859.0,7.4667174913889145
+tt2991224,Tangerines,Zaza Urushadze,"Tatjana Mülbeier, Zaza Urushadze, Artur Veeber",87.0,"Drama,War",2013.0,8.1,51664.0,7.464864817962459
+tt0085809,Koyaanisqatsi,Godfrey Reggio,"Godfrey Reggio, Ron Fricke, Michael Hoenig, Alton Walpole, Jacques Ellul, Ivan Illich, David Monongye, Guy Debord, Leopold Kohr",86.0,"Documentary,Music",1982.0,8.2,44559.0,7.4640491727062495
+tt0416320,Match Point,Woody Allen,Woody Allen,124.0,"Drama,Romance,Thriller",2005.0,7.6,238857.0,7.462834779461124
+tt3390572,Haider,Vishal Bhardwaj,"William Shakespeare, Basharat Peer, Vishal Bhardwaj",160.0,"Action,Crime,Drama",2014.0,8.0,60978.0,7.462746242111633
+tt0029583,Snow White and the Seven Dwarfs,"William Cottrell, David Hand, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen","Jacob Grimm, Wilhelm Grimm, Ted Sears, Richard Creedon, Otto Englander, Dick Rickard, Earl Hurd, Merrill De Maris, Dorothy Ann Blank, Webb Smith",83.0,"Adventure,Animation,Family",1937.0,7.6,238588.0,7.462694797958458
+tt1211837,Doctor Strange,Scott Derrickson,"Jon Spaihts, Scott Derrickson, C. Robert Cargill, Stan Lee, Steve Ditko",115.0,"Action,Adventure,Fantasy",2016.0,7.5,877743.0,7.462678189035278
+tt0114388,Sense and Sensibility,Ang Lee,"Jane Austen, Emma Thompson",136.0,"Drama,Romance",1995.0,7.7,137196.0,7.461449088783164
+tt1924396,The Best Offer,Giuseppe Tornatore,Giuseppe Tornatore,131.0,"Crime,Drama,Mystery",2013.0,7.7,136887.0,7.460993757400373
+tt0071360,The Conversation,Francis Ford Coppola,Francis Ford Coppola,113.0,"Drama,Mystery,Thriller",1974.0,7.7,136726.0,7.460755824074509
+tt2911666,John Wick,Chad Stahelski,Derek Kolstad,101.0,"Action,Crime,Thriller",2014.0,7.5,826339.0,7.460424691461655
+tt2375605,The Act of Killing,"Joshua Oppenheimer, Anonymous, Christine Cynn",,117.0,"Biography,Crime,Documentary",2012.0,8.2,44150.0,7.4596962603654955
+tt0060107,Andrei Rublev,Andrei Tarkovsky,"Andrei Konchalovsky, Andrei Tarkovsky",205.0,"Biography,Drama,History",1966.0,8.0,60481.0,7.459622564128567
+tt0075860,Close Encounters of the Third Kind,Steven Spielberg,"Steven Spielberg, Hal Barwood, Jerry Belson, John Hill, Matthew Robbins",138.0,"Drama,Sci-Fi",1977.0,7.6,232791.0,7.459607187234131
+tt0084726,Star Trek II: The Wrath of Khan,Nicholas Meyer,"Jack B. Sowards, Harve Bennett, Gene Roddenberry, Nicholas Meyer, Samuel A. Peeples",113.0,"Action,Adventure,Sci-Fi",1982.0,7.7,135685.0,7.459205877364247
+tt0316654,Spider-Man 2,Sam Raimi,"Stan Lee, Steve Ditko, Alfred Gough, Miles Millar, Michael Chabon, Alvin Sargent",127.0,"Action,Adventure,Sci-Fi",2004.0,7.5,782976.0,7.458300737155898
+tt0480025,This Is England,Shane Meadows,Shane Meadows,101.0,"Crime,Drama",2006.0,7.7,134994.0,7.458165908748292
+tt1899353,The Raid: Redemption,Gareth Evans,Gareth Evans,101.0,"Action,Crime,Thriller",2011.0,7.6,229760.0,7.457936867656908
+tt1951264,The Hunger Games: Catching Fire,Francis Lawrence,"Simon Beaufoy, Michael Arndt, Suzanne Collins",146.0,"Action,Adventure,Sci-Fi",2013.0,7.5,772304.0,7.457742588026994
+tt0295297,Harry Potter and the Chamber of Secrets,Chris Columbus,"J.K. Rowling, Steve Kloves",161.0,"Adventure,Family,Fantasy",2002.0,7.5,765069.0,7.45735561881845
+tt0050613,Throne of Blood,Akira Kurosawa,"Hideo Oguni, Shinobu Hashimoto, Ryûzô Kikushima, Akira Kurosawa",110.0,Drama,1957.0,8.0,60083.0,7.457094794545021
+tt4044364,Citizenfour,Laura Poitras,Laura Poitras,114.0,"Biography,Documentary",2014.0,8.0,59986.0,7.45647514183835
+tt0053221,Rio Bravo,Howard Hawks,"Jules Furthman, Leigh Brackett, B.H. McCampbell",141.0,Western,1959.0,7.9,73469.0,7.4562867136283915
+tt0091064,The Fly,David Cronenberg,"George Langelaan, Charles Edward Pogue, David Cronenberg",96.0,"Drama,Horror,Sci-Fi",1986.0,7.6,223818.0,7.454544270930054
+tt0988045,Sherlock Holmes,Guy Ritchie,"Michael Robert Johnson, Anthony Peckham, Simon Kinberg, Lionel Wigram, Arthur Conan Doyle",128.0,"Action,Adventure,Mystery",2009.0,7.5,705960.0,7.453907185624759
+tt0373889,Harry Potter and the Order of the Phoenix,David Yates,"Michael Goldenberg, J.K. Rowling",138.0,"Action,Adventure,Family",2007.0,7.5,698681.0,7.45344357030829
+tt0095705,The Naked Gun: From the Files of Police Squad!,David Zucker,"Jerry Zucker, Jim Abrahams, David Zucker, Pat Proft",85.0,"Comedy,Crime",1988.0,7.6,221822.0,7.453367999628372
+tt26743210,How to Train Your Dragon,Dean DeBlois,"Dean DeBlois, Cressida Cowell, William Davies, Chris Sanders",125.0,"Action,Adventure,Comedy",2025.0,7.7,131807.0,7.453250788576238
+tt3890160,Baby Driver,Edgar Wright,Edgar Wright,113.0,"Action,Crime,Drama",2017.0,7.5,682534.0,7.452381081904578
+tt0056869,The Birds,Alfred Hitchcock,"Daphne Du Maurier, Evan Hunter",119.0,"Drama,Horror,Mystery",1963.0,7.6,219806.0,7.452160471574528
+tt0056923,Charade,Stanley Donen,"Peter Stone, Marc Behm",113.0,"Comedy,Mystery,Romance",1963.0,7.8,93238.0,7.451617892760991
+tt1156398,Zombieland,Ruben Fleischer,"Rhett Reese, Paul Wernick",88.0,"Action,Comedy,Horror",2009.0,7.5,666501.0,7.4512769994609895
+tt0130827,Run Lola Run,Tom Tykwer,Tom Tykwer,80.0,"Action,Crime,Thriller",1998.0,7.6,217780.0,7.450926750161767
+tt6644200,A Quiet Place,John Krasinski,"Bryan Woods, Scott Beck, John Krasinski",90.0,"Drama,Horror,Sci-Fi",2018.0,7.5,656952.0,7.450594757995099
+tt0308644,Finding Neverland,Marc Forster,"Allan Knee, David Magee",106.0,"Biography,Drama,Family",2004.0,7.6,217216.0,7.450579633072438
+tt0367495,Anbe Sivam,Sundar C.,"Kamal Haasan, Madan, Mohan Nair",160.0,"Adventure,Comedy,Drama",2003.0,8.6,28229.0,7.450401029594282
+tt0107943,The Remains of the Day,James Ivory,"Kazuo Ishiguro, Ruth Prawer Jhabvala",134.0,"Drama,Romance",1993.0,7.8,92716.0,7.450073026642716
+tt0106677,Dazed and Confused,Richard Linklater,Richard Linklater,103.0,Comedy,1993.0,7.6,215805.0,7.449704102507315
+tt1639426,Udaan,Vikramaditya Motwane,"Vikramaditya Motwane, Anurag Kashyap, Devanshu Singh, Satyanshu Singh",134.0,Drama,2010.0,8.1,49830.0,7.449298361676787
+tt0372824,The Chorus,Christophe Barratier,"Georges Chaperot, René Wheeler, Noël-Noël, Christophe Barratier, Philippe Lopes-Curval",97.0,"Drama,Music",2004.0,7.9,71873.0,7.448976457880669
+tt2758880,Winter Sleep,Nuri Bilge Ceylan,"Ebru Ceylan, Nuri Bilge Ceylan, Anton Chekhov",196.0,Drama,2014.0,8.0,58829.0,7.448973462695177
+tt0035446,To Be or Not to Be,Ernst Lubitsch,"Melchior Lengyel, Edwin Justus Mayer, Ernst Lubitsch",99.0,"Comedy,Romance,War",1942.0,8.1,49749.0,7.448593244113955
+tt0268126,Adaptation.,Spike Jonze,"Susan Orlean, Charlie Kaufman",115.0,"Comedy,Drama",2002.0,7.6,213941.0,7.448531630838885
+tt3416742,What We Do in the Shadows,"Jemaine Clement, Taika Waititi","Jemaine Clement, Taika Waititi",86.0,"Comedy,Horror",2014.0,7.6,213317.0,7.448135031929212
+tt0118843,"Black Cat, White Cat",Emir Kusturica,Gordan Mihic,127.0,"Comedy,Crime,Romance",1998.0,8.0,58687.0,7.448038481535651
+tt1821549,Nebraska,Alexander Payne,Bob Nelson,115.0,Drama,2013.0,7.7,128503.0,7.447939756254106
+tt0061852,The Jungle Book,Wolfgang Reitherman,"Larry Clemmons, Ralph Wright, Ken Anderson, Vance Gerry, Rudyard Kipling, Bill Peet",78.0,"Adventure,Animation,Comedy",1967.0,7.6,212988.0,7.447925090358647
+tt0082694,The Road Warrior,George Miller,"Terry Hayes, George Miller, Brian Hannant, Byron Kennedy",96.0,"Action,Adventure,Sci-Fi",1981.0,7.6,212980.0,7.447919978167384
+tt1457767,The Conjuring,James Wan,"Chad Hayes, Carey W. Hayes",112.0,"Horror,Mystery,Thriller",2013.0,7.5,620845.0,7.447832678745325
+tt0120863,The Thin Red Line,Terrence Malick,"James Jones, Terrence Malick",170.0,"Drama,History,War",1998.0,7.6,212762.0,7.447780538539691
+tt0061418,Bonnie and Clyde,Arthur Penn,"David Newman, Robert Benton, Robert Towne",111.0,"Action,Biography,Crime",1967.0,7.7,127984.0,7.447084638944426
+tt1630029,Avatar: The Way of Water,James Cameron,"James Cameron, Rick Jaffa, Amanda Silver, Josh Friedman, Shane Salerno",192.0,"Action,Adventure,Animation",2022.0,7.5,609568.0,7.4469056057101435
+tt17009710,Anatomy of a Fall,Justine Triet,"Justine Triet, Arthur Harari",151.0,"Crime,Drama,Mystery",2023.0,7.6,209515.0,7.445672969337884
+tt0091605,The Name of the Rose,Jean-Jacques Annaud,"Umberto Eco, Andrew Birkin, Gérard Brach, Howard Franklin, Alain Godard",130.0,"Drama,Mystery,Thriller",1986.0,7.7,126886.0,7.445256286980197
+tt10370710,The Worst Person in the World,Joachim Trier,"Eskil Vogt, Joachim Trier",128.0,"Comedy,Drama,Romance",2021.0,7.7,126672.0,7.444896859039731
+tt0128445,Rushmore,Wes Anderson,"Wes Anderson, Owen Wilson",93.0,"Comedy,Drama,Romance",1998.0,7.6,208196.0,7.444800066914844
+tt0945513,Source Code,Duncan Jones,Ben Ripley,93.0,"Action,Drama,Mystery",2011.0,7.5,581660.0,7.444463120041331
+tt0314331,Love Actually,Richard Curtis,Richard Curtis,135.0,"Comedy,Drama,Romance",2003.0,7.5,579952.0,7.444306319186108
+tt1587707,Exit Through the Gift Shop,Banksy,Banksy,87.0,"Comedy,Crime,Documentary",2010.0,7.9,70864.0,7.444229287368293
+tt0104691,The Last of the Mohicans,Michael Mann,"James Fenimore Cooper, John L. Balderston, Paul Perez, Daniel Moore, Philip Dunne, Michael Mann, Christopher Crowe",112.0,"Action,Adventure,Drama",1992.0,7.6,206393.0,7.44359075859803
+tt0455590,The Last King of Scotland,Kevin Macdonald,"Peter Morgan, Jeremy Brock, Giles Foden, David Fox",123.0,"Biography,Drama,History",2006.0,7.6,205714.0,7.4431304403039
+tt0087469,Indiana Jones and the Temple of Doom,Steven Spielberg,"Willard Huyck, Gloria Katz, George Lucas",118.0,"Action,Adventure",1984.0,7.5,567202.0,7.44310724449474
+tt6263850,Deadpool & Wolverine,Shawn Levy,"Ryan Reynolds, Rhett Reese, Paul Wernick, Zeb Wells, Shawn Levy, Rob Liefeld, Fabian Nicieza, Len Wein, John Romita Sr., Herb Trimpe, Roy Thomas, Joe Simon, Jack Kirby, Frank Miller",128.0,"Action,Adventure,Comedy",2024.0,7.5,565471.0,7.442940460080637
+tt0268380,Ice Age,"Chris Wedge, Carlos Saldanha","Michael Berg, Michael J. Wilson, Peter Ackerman, James Bresnahan, Doug Compton, Jeff Siergey, Michael Thurmeier, Galen T. Chu, Xeth Feinberg",81.0,"Adventure,Animation,Comedy",2002.0,7.5,563617.0,7.442760736445386
+tt0109117,Andaz Apna Apna,Rajkumar Santoshi,"Rajkumar Santoshi, Dilip Shukla",160.0,"Action,Comedy,Romance",1994.0,8.0,57849.0,7.4424555082653265
+tt23289160,Godzilla Minus One,Takashi Yamazaki,"Takashi Yamazaki, Ishirô Honda, Takeo Murata",124.0,"Action,Adventure,Drama",2023.0,7.6,203081.0,7.441319515454045
+tt0093603,Nayakan,Mani Ratnam,"Balakumaran, Rajasri, Mani Ratnam",145.0,"Crime,Drama",1987.0,8.6,27799.0,7.441038587932992
+tt0289043,28 Days Later,Danny Boyle,Alex Garland,113.0,"Drama,Horror,Sci-Fi",2002.0,7.5,545569.0,7.4409501679976895
+tt1069238,Departures,Yôjirô Takita,Kundô Koyama,130.0,Drama,2008.0,8.0,57417.0,7.4395330624054985
+tt0099088,Back to the Future Part III,Robert Zemeckis,"Robert Zemeckis, Bob Gale",118.0,"Adventure,Comedy,Sci-Fi",1990.0,7.5,519120.0,7.438079828722109
+tt0217505,Gangs of New York,Martin Scorsese,"Jay Cocks, Steven Zaillian, Kenneth Lonergan",167.0,"Crime,Drama",2002.0,7.5,504894.0,7.436417465387934
+tt0067328,The Last Picture Show,Peter Bogdanovich,"Larry McMurtry, Peter Bogdanovich",118.0,"Drama,Romance",1971.0,8.0,56857.0,7.435698796734232
+tt0887912,The Hurt Locker,Kathryn Bigelow,Mark Boal,131.0,"Drama,Thriller,War",2008.0,7.5,496114.0,7.435346193739323
+tt0446029,Scott Pilgrim vs. the World,Edgar Wright,"Michael Bacall, Edgar Wright, Bryan Lee O'Malley",112.0,"Action,Comedy,Fantasy",2010.0,7.5,495945.0,7.435325219369174
+tt0103074,Thelma & Louise,Ridley Scott,Callie Khouri,130.0,"Adventure,Crime,Drama",1991.0,7.6,192591.0,7.433669574588444
+tt7668870,Searching,Aneesh Chaganty,"Aneesh Chaganty, Sev Ohanian",102.0,"Drama,Mystery,Thriller",2018.0,7.6,192058.0,7.433261139438647
+tt0307901,25th Hour,Spike Lee,David Benioff,135.0,Drama,2002.0,7.6,191501.0,7.432832164305357
+tt0093389,The Last Emperor,Bernardo Bertolucci,"Enzo Ungari, Mark Peploe, Bernardo Bertolucci, Puyi",163.0,"Biography,Drama,History",1987.0,7.7,119398.0,7.432046125322194
+tt31193180,Sinners,Ryan Coogler,Ryan Coogler,137.0,"Action,Drama,Horror",2025.0,7.5,467615.0,7.431605810631576
+tt0369339,Collateral,Michael Mann,Stuart Beattie,120.0,"Action,Crime,Drama",2004.0,7.5,466749.0,7.4314853642900625
+tt0075029,The Outlaw Josey Wales,Clint Eastwood,"Forrest Carter, Philip Kaufman, Sonia Chernus",135.0,"Drama,Western",1976.0,7.8,86600.0,7.430896025127904
+tt0048473,Pather Panchali,Satyajit Ray,"Bibhutibhushan Bandyopadhyay, Satyajit Ray",125.0,"Drama,History",1955.0,8.2,41542.0,7.430681320132758
+tt0099674,The Godfather Part III,Francis Ford Coppola,"Mario Puzo, Francis Ford Coppola",162.0,"Crime,Drama",1990.0,7.5,454841.0,7.42978506714573
+tt0067185,Harold and Maude,Hal Ashby,Colin Higgins,91.0,"Comedy,Drama,Romance",1971.0,7.8,86157.0,7.429425015107228
+tt0840361,The Town,Ben Affleck,"Peter Craig, Ben Affleck, Aaron Stockard, Chuck Hogan",125.0,"Crime,Drama,Thriller",2010.0,7.5,447088.0,7.428631942358785
+tt0118971,The Devil's Advocate,Taylor Hackford,"Andrew Neiderman, Jonathan Lemkin, Tony Gilroy",144.0,"Drama,Fantasy,Mystery",1997.0,7.5,443600.0,7.4281007178921765
+tt0876563,Ponyo,Hayao Miyazaki,Hayao Miyazaki,101.0,"Adventure,Animation,Comedy",2008.0,7.6,184816.0,7.427505988124231
+tt20256528,What Is a Woman?,Justin Folk,,95.0,Documentary,2022.0,8.1,47375.0,7.427226202477016
+tt0096895,Batman,Tim Burton,"Bob Kane, Sam Hamm, Warren Skaaren",126.0,"Action,Adventure",1989.0,7.5,431711.0,7.426229051641572
+tt0104652,Porco Rosso,Hayao Miyazaki,Hayao Miyazaki,94.0,"Adventure,Animation,Comedy",1992.0,7.7,116145.0,7.42587053316996
+tt0097937,My Left Foot,Jim Sheridan,"Shane Connaughton, Jim Sheridan, Christy Brown",103.0,"Biography,Drama",1989.0,7.8,85031.0,7.425632743538403
+tt0120663,Eyes Wide Shut,Stanley Kubrick,"Stanley Kubrick, Frederic Raphael, Arthur Schnitzler",159.0,"Drama,Mystery,Thriller",1999.0,7.5,427801.0,7.425592029178986
+tt1542344,127 Hours,Danny Boyle,"Aron Ralston, Danny Boyle, Simon Beaufoy",94.0,"Biography,Drama",2010.0,7.5,424002.0,7.424962464319255
+tt0093748,"Planes, Trains & Automobiles",John Hughes,John Hughes,93.0,"Comedy,Drama",1987.0,7.6,180448.0,7.423838618065273
+tt1189073,The Skin I Live In,Pedro Almodóvar,"Pedro Almodóvar, Agustín Almodóvar, Thierry Jonquet",120.0,"Drama,Mystery,Thriller",2011.0,7.6,179974.0,7.423431246910701
+tt0338751,The Aviator,Martin Scorsese,John Logan,170.0,"Biography,Drama",2004.0,7.5,407890.0,7.422169595981136
+tt6155172,Roma,Alfonso Cuarón,Alfonso Cuarón,135.0,Drama,2018.0,7.6,178317.0,7.421992240709208
+tt0443543,The Illusionist,Neil Burger,"Neil Burger, Steven Millhauser",110.0,"Drama,Fantasy,Mystery",2006.0,7.5,404088.0,7.421479967755506
+tt0119396,Jackie Brown,Quentin Tarantino,"Quentin Tarantino, Elmore Leonard",154.0,"Crime,Drama,Thriller",1997.0,7.5,403584.0,7.421387630906133
+tt7905466,They Shall Not Grow Old,Peter Jackson,Peter Jackson,99.0,"Documentary,History,War",2018.0,8.2,40701.0,7.42083372253503
+tt1032846,"4 Months, 3 Weeks and 2 Days",Cristian Mungiu,Cristian Mungiu,113.0,Drama,2007.0,7.9,65751.0,7.418550720149355
+tt0113824,Whisper of the Heart,Yoshifumi Kondô,"Aoi Hiiragi, Hayao Miyazaki",111.0,"Animation,Drama,Family",1995.0,7.8,82876.0,7.418154143686029
+tt0851578,Paprika,Satoshi Kon,"Yasutaka Tsutsui, Seishi Minakami, Satoshi Kon",90.0,"Animation,Drama,Fantasy",2006.0,7.7,112142.0,7.417869043796022
+tt2278871,Blue Is the Warmest Colour,Abdellatif Kechiche,"Abdellatif Kechiche, Ghalya Lacroix, Jul Maroh",180.0,"Drama,Romance",2013.0,7.6,173007.0,7.417218565021812
+tt0100802,Total Recall,Paul Verhoeven,"Philip K. Dick, Ronald Shusett, Dan O'Bannon, Jon Povill, Gary Goldman",113.0,"Action,Adventure,Sci-Fi",1990.0,7.5,380639.0,7.416940916441156
+tt1683526,Detachment,Tony Kaye,Carl Lund,98.0,Drama,2011.0,7.7,111520.0,7.4165836244086885
+tt0110148,Interview with the Vampire,Neil Jordan,Anne Rice,123.0,"Drama,Fantasy,Horror",1994.0,7.5,376067.0,7.415994076810792
+tt0032455,Fantasia,"James Algar, Samuel Armstrong, Ford Beebe Jr., Norman Ferguson, David Hand, Jim Handley, T. Hee, Wilfred Jackson, Hamilton Luske, Bill Roberts, Paul Satterfield, Ben Sharpsteen","Joe Grant, Dick Huemer, Lee Blair, Elmer Plummer, Phil Dike, Sylvia Moberly-Holland, Norman Wright, Bianca Majolie, Graham Heid, Perce Pearce, Carl Fallberg, William Martin, Leo Thiele, Robert Sterner, John McLeish, Otto Englander, Webb Smith, Erdman Penner, Joseph Sabo, Bill Peet, Vernon Stallings, Campbell Grant, Arthur Heinemann",124.0,"Animation,Family,Fantasy",1940.0,7.7,111076.0,7.41565887007462
+tt0104797,Malcolm X,Spike Lee,"Arnold Perl, Spike Lee, Alex Haley, Malcolm X",202.0,"Biography,Drama,History",1992.0,7.7,110984.0,7.415466499031313
+tt0104940,The Muppet Christmas Carol,Brian Henson,"Charles Dickens, Jerry Juhl",85.0,"Comedy,Drama,Family",1992.0,7.8,82056.0,7.4152293790565125
+tt1093370,Jab We Met,Imtiaz Ali,Imtiaz Ali,138.0,"Comedy,Drama,Romance",2007.0,7.9,65127.0,7.415217375528687
+tt0015648,Battleship Potemkin,Sergei Eisenstein,"Nina Agadzhanova, Sergei Eisenstein, Grigoriy Aleksandrov, Nikolay Aseev, Sergey Tretyakov",66.0,"Drama,History,Thriller",1925.0,7.9,65058.0,7.414845948214197
+tt3606756,Incredibles 2,Brad Bird,Brad Bird,118.0,"Action,Adventure,Animation",2018.0,7.5,369611.0,7.4146197049861104
+tt0116922,Lost Highway,David Lynch,"David Lynch, Barry Gifford",134.0,"Drama,Mystery,Thriller",1997.0,7.6,170008.0,7.414407595607739
+tt0054047,The Magnificent Seven,John Sturges,"William Roberts, Akira Kurosawa, Walter Bernstein, Shinobu Hashimoto, Walter Newman, Hideo Oguni",128.0,"Action,Adventure,Drama",1960.0,7.7,110447.0,7.4143384231786165
+tt1149362,The White Ribbon,Michael Haneke,Michael Haneke,144.0,"Drama,Mystery,Thriller",2009.0,7.8,81463.0,7.4130862027584605
+tt0091167,Hannah and Her Sisters,Woody Allen,Woody Allen,107.0,"Comedy,Drama",1986.0,7.8,81435.0,7.4129844168203505
+tt1707386,Les Misérables,Tom Hooper,"William Nicholson, Alain Boublil, Claude-Michel Schönberg, Herbert Kretzmer, Victor Hugo",158.0,"Drama,Musical,Romance",2012.0,7.5,361804.0,7.412896444722065
+tt1620933,Paan Singh Tomar,Tigmanshu Dhulia,"Sanjay Chauhan, Tigmanshu Dhulia",135.0,"Action,Biography,Crime",2012.0,8.2,40036.0,7.412866664682237
+tt0318462,The Motorcycle Diaries,Walter Salles,"Ernesto 'Che' Guevara, Alberto Granado, Jose Rivera",126.0,"Adventure,Biography,Drama",2004.0,7.7,108957.0,7.411161017373292
+tt0456144,Lage Raho Munna Bhai,Rajkumar Hirani,"Vidhu Vinod Chopra, Rajkumar Hirani, Abhijat Joshi",144.0,"Comedy,Drama,Romance",2006.0,8.0,53345.0,7.410402660083911
+tt0970179,Hugo,Martin Scorsese,"John Logan, Brian Selznick",126.0,"Adventure,Drama,Family",2011.0,7.5,349065.0,7.409930082751057
+tt0817177,Flipped,Rob Reiner,"Rob Reiner, Andrew Scheinman, Wendelin Van Draanen",90.0,"Comedy,Drama,Romance",2010.0,7.7,108123.0,7.4093514749838425
+tt1485796,The Greatest Showman,Michael Gracey,"Jenny Bicks, Bill Condon",105.0,"Biography,Drama,Musical",2017.0,7.5,346471.0,7.409301120152782
+tt1190539,The Chaser,Na Hong-jin,"Na Hong-jin, Shinho Lee, Hong Won-chan",125.0,"Action,Crime,Drama",2008.0,7.8,80316.0,7.4088723119400095
+tt0058385,My Fair Lady,George Cukor,"Alan Jay Lerner, George Bernard Shaw",170.0,"Drama,Musical,Romance",1964.0,7.7,107619.0,7.40824690583004
+tt0277027,I Am Sam,Jessie Nelson,"Kristine Johnson, Jessie Nelson",132.0,Drama,2001.0,7.6,162233.0,7.40670072265185
+tt2358891,The Great Beauty,Paolo Sorrentino,"Paolo Sorrentino, Umberto Contarello",141.0,Drama,2013.0,7.7,105984.0,7.404605115161196
+tt3848892,Baby,Neeraj Pandey,Neeraj Pandey,159.0,"Action,Thriller",2015.0,7.9,63153.0,7.404361693921638
+tt5895028,13th,Ava DuVernay,"Spencer Averick, Ava DuVernay",100.0,"Crime,Documentary,History",2016.0,8.2,39303.0,7.403894008122078
+tt11580854,Sarpatta Parambarai,Pa. Ranjith,"Tamizh Prabha, Pa. Ranjith",173.0,"Action,Drama,Sport",2021.0,8.5,28544.0,7.403854706489504
+tt1091191,Lone Survivor,Peter Berg,"Peter Berg, Marcus Luttrell, Patrick Robinson",121.0,"Action,Biography,Drama",2013.0,7.5,323638.0,7.403361069086773
+tt12262116,Thirteen Lives,Ron Howard,"William Nicholson, Don MacPherson",147.0,"Biography,Drama,Thriller",2022.0,7.8,78844.0,7.403328034400389
+tt4481414,Gifted,Marc Webb,Tom Flynn,101.0,Drama,2017.0,7.6,158572.0,7.402845730308947
+tt0104952,My Cousin Vinny,Jonathan Lynn,Dale Launer,120.0,"Comedy,Crime",1992.0,7.6,158151.0,7.4023925416966
+tt12037194,Furiosa: A Mad Max Saga,George Miller,"George Miller, Nick Lathouris",148.0,"Action,Adventure,Sci-Fi",2024.0,7.5,318738.0,7.4019834769629025
+tt0032904,The Philadelphia Story,George Cukor,"Donald Ogden Stewart, Philip Barry, Waldo Salt",112.0,"Comedy,Romance",1940.0,7.8,78475.0,7.401913470927993
+tt0247586,Nine Queens,Fabián Bielinsky,Fabián Bielinsky,114.0,"Crime,Drama,Thriller",2000.0,7.9,62607.0,7.401272688304291
+tt5571734,Pink,Aniruddha Roy Chowdhury,"Shoojit Sircar, Aniruddha Roy Chowdhury, Ritesh Shah, Preeti Singh",136.0,"Crime,Drama,Thriller",2016.0,8.0,52119.0,7.401029531040004
+tt0067093,Fiddler on the Roof,Norman Jewison,"Sholom Aleichem, Arnold Perl, Joseph Stein",181.0,"Drama,Family,Musical",1971.0,8.0,52076.0,7.400695370858297
+tt0203009,Moulin Rouge!,Baz Luhrmann,"Baz Luhrmann, Craig Pearce",127.0,"Drama,Musical,Romance",2001.0,7.5,314181.0,7.40066659513438
+tt7349662,BlacKkKlansman,Spike Lee,"Charlie Wachtel, David Rabinowitz, Kevin Willmott, Spike Lee, Ron Stallworth",135.0,"Biography,Comedy,Crime",2018.0,7.5,314058.0,7.400630559975797
+tt0118884,Contact,Robert Zemeckis,"James V. Hart, Michael Goldenberg, Carl Sagan, Ann Druyan",150.0,"Drama,Mystery,Sci-Fi",1997.0,7.5,312605.0,7.400202889187879
+tt0088939,The Color Purple,Steven Spielberg,"Menno Meyjes, Alice Walker",154.0,Drama,1985.0,7.7,104025.0,7.400120103888967
+tt5116302,Togo,Ericson Core,Tom Flynn,113.0,"Adventure,Biography,Drama",2019.0,7.9,62183.0,7.398847211087873
+tt5537002,Killers of the Flower Moon,Martin Scorsese,"Eric Roth, Martin Scorsese, David Grann",206.0,"Crime,Drama,History",2023.0,7.5,306369.0,7.398324817361534
+tt8948790,Jersey,Gowtam Tinnanuri,"Gowtam Tinnanuri, Prashant Yarramilli",157.0,"Drama,Sport",2019.0,8.5,28174.0,7.396227411973408
+tt0117589,Secrets & Lies,Mike Leigh,Mike Leigh,136.0,"Comedy,Drama",1996.0,8.0,51384.0,7.395265977223948
+tt4387040,Airlift,Raja Menon,"Raja Menon, Sonu Sinha, Ritesh Shah, Suresh Nair, Rahul Nangia",130.0,"Drama,History",2016.0,7.9,61476.0,7.394749946855475
+tt0046359,Stalag 17,Billy Wilder,"Billy Wilder, Edwin Blum, Donald Bevan, Edmund Trzcinski",120.0,"Comedy,Drama,War",1953.0,7.9,61446.0,7.394574606161928
+tt0215750,Enemy at the Gates,Jean-Jacques Annaud,"Jean-Jacques Annaud, Alain Godard",131.0,"Action,Drama,War",2001.0,7.5,293032.0,7.394060963690049
+tt0423866,3-Iron,Kim Ki-duk,Kim Ki-duk,88.0,"Crime,Drama,Romance",2004.0,7.9,61262.0,7.393496515316989
+tt0221027,Blow,Ted Demme,"Bruce Porter, David McKenna, Nick Cassavetes",124.0,"Biography,Crime,Drama",2001.0,7.5,287195.0,7.392080258826291
+tt0039628,Miracle on 34th Street,George Seaton,"George Seaton, Valentine Davies",96.0,"Comedy,Drama,Family",1947.0,7.9,61016.0,7.392047949268439
+tt0042546,Harvey,Henry Koster,"Mary Chase, Oscar Brodney, Myles Connolly",104.0,"Comedy,Drama,Fantasy",1950.0,7.9,60990.0,7.391894364510688
+tt1360860,About Elly,Asghar Farhadi,Asghar Farhadi,119.0,"Drama,Mystery",2009.0,7.9,60963.0,7.391734774313065
+tt0115751,Breaking the Waves,Lars von Trier,"Lars von Trier, Peter Asmussen, David Pirie",153.0,Drama,1996.0,7.8,75876.0,7.391657048299635
+tt0036342,Shadow of a Doubt,Alfred Hitchcock,"Thornton Wilder, Sally Benson, Alma Reville, Gordon McDonell",108.0,"Drama,Film-Noir,Mystery",1943.0,7.8,75322.0,7.389402089315145
+tt0140888,Central Station,Walter Salles,"João Emanuel Carneiro, Marcos Bernstein, Walter Salles",110.0,Drama,1998.0,8.0,50624.0,7.389188569822728
+tt0396171,Perfume: The Story of a Murderer,Tom Tykwer,"Andrew Birkin, Bernd Eichinger, Tom Tykwer, Patrick Süskind",147.0,"Crime,Drama,Fantasy",2006.0,7.5,278847.0,7.389115233667846
+tt8404614,The Two Popes,Fernando Meirelles,Anthony McCarten,125.0,"Biography,Drama",2019.0,7.6,146500.0,7.388967909062822
+tt0040725,The Red Shoes,"Michael Powell, Emeric Pressburger","Hans Christian Andersen, Emeric Pressburger, Keith Winter, Michael Powell",135.0,"Drama,Music,Romance",1948.0,8.1,43477.0,7.388929076978753
+tt5649144,The Florida Project,Sean Baker,"Sean Baker, Chris Bergoch",111.0,Drama,2017.0,7.6,146375.0,7.3888139833947415
+tt0250258,The Experiment,Oliver Hirschbiegel,"Mario Giordano, Christoph Darnstädt, Don Bohlinger",120.0,"Drama,Thriller",2001.0,7.7,98820.0,7.387514104379536
+tt4934950,Talvar,Meghna Gulzar,"Vishal Bhardwaj, Aditya Nimbalkar",132.0,"Crime,Drama,Mystery",2015.0,8.1,43336.0,7.387461900085958
+tt1488589,Guillermo del Toro's Pinocchio,"Guillermo del Toro, Mark Gustafson","Guillermo del Toro, Patrick McHale, Carlo Collodi, Matthew Robbins",117.0,"Adventure,Animation,Drama",2022.0,7.6,144024.0,7.385876540634904
+tt0252488,The Chaos Class Failed the Class,Ertem Egilmez,"Sadik Sendil, Rıfat Ilgaz",95.0,Comedy,1975.0,8.4,30392.0,7.385557416310551
+tt7979580,The Mitchells vs. the Machines,"Michael Rianda, Jeff Rowe","Michael Rianda, Jeff Rowe, Peter Szilagyi, Alex Hirsch",114.0,"Adventure,Animation,Comedy",2021.0,7.6,142120.0,7.383437029704846
+tt1649419,The Impossible,J.A. Bayona,"Sergio G. Sánchez, María Belón",114.0,"Drama,History,Thriller",2012.0,7.5,262739.0,7.382907761562645
+tt5580036,"I, Tonya",Craig Gillespie,Steven Rogers,119.0,"Biography,Comedy,Drama",2017.0,7.5,261191.0,7.3822744125576065
+tt5083738,The Favourite,Yorgos Lanthimos,"Deborah Davis, Tony McNamara",119.0,"Biography,Comedy,Drama",2018.0,7.5,258287.0,7.38106759718686
+tt0311113,Master and Commander: The Far Side of the World,Peter Weir,"Patrick O'Brian, Peter Weir, John Collee",138.0,"Action,Adventure,Drama",2003.0,7.5,255296.0,7.379798485901597
+tt9620292,Promising Young Woman,Emerald Fennell,Emerald Fennell,113.0,"Crime,Drama,Mystery",2020.0,7.5,254239.0,7.379343488568122
+tt0408306,Munich,Steven Spielberg,"Tony Kushner, Eric Roth, George Jonas",164.0,"Drama,History,Thriller",2005.0,7.5,253202.0,7.378893740534842
+tt0117665,Sleepers,Barry Levinson,"Lorenzo Carcaterra, Barry Levinson",147.0,"Crime,Drama,Thriller",1996.0,7.5,251490.0,7.378143861999616
+tt0117731,Star Trek: First Contact,Jonathan Frakes,"Gene Roddenberry, Rick Berman, Brannon Braga, Ronald D. Moore",111.0,"Action,Adventure,Drama",1996.0,7.6,137773.0,7.377653519958924
+tt22022452,Inside Out 2,Kelsey Mann,"Meg LeFauve, Dave Holstein, Kelsey Mann",96.0,"Adventure,Animation,Comedy",2024.0,7.5,249071.0,7.377068337782086
+tt7599146,Sound of Freedom,Alejandro Monteverde,"Rod Barr, Alejandro Monteverde",131.0,"Biography,Crime,Drama",2023.0,7.6,137118.0,7.3767551808206
+tt0097958,National Lampoon's Christmas Vacation,Jeremiah S. Chechik,John Hughes,97.0,Comedy,1989.0,7.5,247022.0,7.376142357619141
+tt0195685,Erin Brockovich,Steven Soderbergh,Susannah Grant,131.0,"Biography,Drama",2000.0,7.5,245628.0,7.375504369112856
+tt0077711,Autumn Sonata,Ingmar Bergman,Ingmar Bergman,99.0,"Drama,Music",1978.0,8.1,42205.0,7.375470521602172
+tt0420223,Stranger Than Fiction,Marc Forster,Zach Helm,113.0,"Comedy,Drama,Fantasy",2006.0,7.5,245118.0,7.375269313426998
+tt0101410,Barton Fink,"Joel Coen, Ethan Coen","Joel Coen, Ethan Coen",116.0,"Comedy,Drama,Thriller",1991.0,7.6,135490.0,7.374490600064016
+tt6333060,Icarus,Bryan Fogel,"Bryan Fogel, Mark Monroe, Jon Bertain, Timothy Rode",120.0,"Documentary,Sport",2017.0,7.9,58092.0,7.374173162329395
+tt0037558,Brief Encounter,David Lean,"Noël Coward, Anthony Havelock-Allan, David Lean, Ronald Neame",86.0,"Drama,Romance",1945.0,8.0,48565.0,7.372092658251534
+tt0029843,The Adventures of Robin Hood,"Michael Curtiz, William Keighley","Norman Reilly Raine, Seton I. Miller, Rowland Leigh",102.0,"Action,Adventure,Romance",1938.0,7.9,57731.0,7.3718786960664575
+tt0427944,Thank You for Smoking,Jason Reitman,"Jason Reitman, Christopher Buckley",92.0,"Comedy,Drama",2005.0,7.5,235582.0,7.370704793133347
+tt0072443,The Mirror,Andrei Tarkovsky,"Aleksandr Misharin, Andrei Tarkovsky, Arseniy Tarkovskiy",107.0,"Biography,Drama",1975.0,7.9,57524.0,7.370553977076657
+tt6499752,Upgrade,Leigh Whannell,Leigh Whannell,100.0,"Action,Sci-Fi,Thriller",2018.0,7.5,233129.0,7.369476100725893
+tt0145487,Spider-Man,Sam Raimi,"Stan Lee, Steve Ditko, David Koepp",121.0,"Action,Adventure,Sci-Fi",2002.0,7.4,966115.0,7.368528370980435
+tt0109506,The Crow,Alex Proyas,"James O'Barr, David J. Schow, John Shirley",102.0,"Action,Crime,Drama",1994.0,7.5,230630.0,7.368200118938599
+tt0099810,The Hunt for Red October,John McTiernan,"Tom Clancy, Larry Ferguson, Donald E. Stewart, David Shaber",135.0,"Action,Adventure,Thriller",1990.0,7.5,230505.0,7.368135638849628
+tt0029947,Bringing Up Baby,Howard Hawks,"Dudley Nichols, Hagar Wilde",102.0,Comedy,1938.0,7.8,70370.0,7.368082168441585
+tt0181865,Traffic,Steven Soderbergh,"Simon Moore, Stephen Gaghan",147.0,"Crime,Drama,Thriller",2000.0,7.5,230296.0,7.368027687093703
+tt1365050,Beasts of No Nation,Cary Joji Fukunaga,"Cary Joji Fukunaga, Uzodinma Iweala",137.0,"Drama,War",2015.0,7.7,91325.0,7.36738015391596
+tt0101921,Fried Green Tomatoes,Jon Avnet,"Fannie Flagg, Carol Sobieski",130.0,Drama,1991.0,7.7,91071.0,7.366652276660613
+tt0051459,Cat on a Hot Tin Roof,Richard Brooks,"Richard Brooks, James Poe, Tennessee Williams",108.0,Drama,1958.0,7.9,56894.0,7.366481016976507
+tt10324144,Article 15,Anubhav Sinha,"Anubhav Sinha, Gaurav Solanki",130.0,"Crime,Drama,Mystery",2019.0,8.1,41358.0,7.366222556500708
+tt0106856,Falling Down,Joel Schumacher,Ebbe Roe Smith,113.0,"Crime,Drama,Thriller",1993.0,7.5,225950.0,7.365742165388619
+tt0118929,Dark City,Alex Proyas,"Alex Proyas, Lem Dobbs, David S. Goyer",100.0,"Fantasy,Mystery,Sci-Fi",1998.0,7.5,225939.0,7.365736280148857
+tt0071411,Dersu Uzala,Akira Kurosawa,"Akira Kurosawa, Yuriy Nagibin, Vladimir Arsenev",142.0,"Adventure,Biography,Drama",1975.0,8.2,36314.0,7.365084587602733
+tt0068473,Deliverance,John Boorman,"James Dickey, John Boorman",109.0,"Adventure,Drama,Thriller",1972.0,7.6,128649.0,7.364450119455863
+tt2187153,Thuppakki,A.R. Murugadoss,"Mayank Jain, A.R. Murugadoss",165.0,"Action,Crime,Musical",2012.0,8.1,41182.0,7.364271197671179
+tt19770238,Aftersun,Charlotte Wells,Charlotte Wells,102.0,Drama,2022.0,7.6,127921.0,7.363328754090504
+tt0383574,Pirates of the Caribbean: Dead Man's Chest,Gore Verbinski,"Ted Elliott, Terry Rossio, Stuart Beattie, Jay Wolpert",151.0,"Action,Adventure,Fantasy",2006.0,7.4,824609.0,7.363286637034536
+tt0043456,The Day the Earth Stood Still,Robert Wise,"Edmund H. North, Harry Bates",92.0,"Drama,Sci-Fi",1951.0,7.7,89849.0,7.363105437611768
+tt0055614,West Side Story,"Jerome Robbins, Robert Wise","Ernest Lehman, Arthur Laurents, Jerome Robbins",153.0,"Crime,Drama,Musical",1961.0,7.6,127530.0,7.362722063884311
+tt0086197,The Right Stuff,Philip Kaufman,"Philip Kaufman, Tom Wolfe",193.0,"Adventure,Biography,Drama",1983.0,7.8,69078.0,7.362150517700993
+tt2250912,Spider-Man: Homecoming,Jon Watts,"Jonathan Goldstein, John Francis Daley, Jon Watts, Christopher Ford, Chris McKenna, Erik Sommers, Stan Lee, Steve Ditko, Joe Simon, Jack Kirby",133.0,"Action,Adventure,Sci-Fi",2017.0,7.4,795299.0,7.361974836497758
+tt0104348,Glengarry Glen Ross,James Foley,David Mamet,100.0,"Crime,Drama,Mystery",1992.0,7.6,126773.0,7.361538589895924
+tt0375063,Sideways,Alexander Payne,"Rex Pickett, Alexander Payne, Jim Taylor",127.0,"Comedy,Drama,Romance",2004.0,7.5,216809.0,7.360666875113308
+tt0043265,The African Queen,John Huston,"C.S. Forester, James Agee, John Huston, John Collier, Peter Viertel",105.0,"Adventure,Drama,Romance",1951.0,7.7,88786.0,7.359958135484805
+tt0037008,Laura,"Otto Preminger, Rouben Mamoulian","Vera Caspary, Jay Dratler, Samuel Hoffenstein, Elizabeth Reinhardt, Ring Lardner Jr.",88.0,"Drama,Film-Noir,Mystery",1944.0,7.9,55871.0,7.359732121579727
+tt5168192,"I, Daniel Blake",Ken Loach,Paul Laverty,100.0,Drama,2016.0,7.8,68253.0,7.358276906954993
+tt2294629,Frozen,"Chris Buck, Jennifer Lee","Jennifer Lee, Chris Buck, Shane Morris, Hans Christian Andersen",102.0,"Adventure,Animation,Comedy",2013.0,7.4,711982.0,7.357676030627986
+tt0021884,Frankenstein,James Whale,"John L. Balderston, Mary Shelley, Peggy Webling, Garrett Fort, Francis Edward Faragoh, Richard Schayer, Robert Florey, John Russell",70.0,"Drama,Horror,Sci-Fi",1931.0,7.7,87855.0,7.357152952055949
+tt3262342,Loving Vincent,"DK Welchman, Hugh Welchman","DK Welchman, Hugh Welchman, Jacek Dehnel",94.0,"Animation,Drama,Mystery",2017.0,7.8,68009.0,7.357118089693191
+tt2350496,The Lunchbox,Ritesh Batra,"Ritesh Batra, Vasan Bala",104.0,"Drama,Romance",2013.0,7.8,67921.0,7.356698662350534
+tt7405458,A Man Called Otto,Marc Forster,"Fredrik Backman, Hannes Holm, David Magee",126.0,"Comedy,Drama",2022.0,7.5,210033.0,7.3566499019468505
+tt0032599,His Girl Friday,Howard Hawks,"Charles Lederer, Ben Hecht, Charles MacArthur, Morrie Ryskind",92.0,"Comedy,Drama,Romance",1940.0,7.8,67863.0,7.356421786979465
+tt0068182,"Aguirre, the Wrath of God",Werner Herzog,Werner Herzog,95.0,"Action,Adventure,Biography",1972.0,7.8,67836.0,7.356292778709488
+tt0096754,The Abyss,James Cameron,James Cameron,140.0,"Adventure,Drama,Mystery",1989.0,7.5,209115.0,7.356087804729616
+tt4873118,The Covenant,Guy Ritchie,"Guy Ritchie, Ivan Atkinson, Marn Davies",123.0,"Action,Drama,Thriller",2023.0,7.5,209058.0,7.356052757881696
+tt1465522,Tucker and Dale vs Evil,Eli Craig,"Eli Craig, Morgan Jurgenson",89.0,"Comedy,Horror",2010.0,7.5,208808.0,7.355898841802992
+tt0266308,Battle Royale,Kinji Fukasaku,"Koushun Takami, Kenta Fukasaku",114.0,"Action,Drama,Thriller",2000.0,7.5,206960.0,7.354750803605251
+tt0117913,A Time to Kill,Joel Schumacher,"John Grisham, Akiva Goldsman",149.0,"Crime,Drama,Thriller",1996.0,7.5,206264.0,7.354313669244993
+tt1219289,Limitless,Neil Burger,"Leslie Dixon, Alan Glynn",105.0,"Sci-Fi,Thriller",2011.0,7.4,646740.0,7.353565362200069
+tt1063669,The Wave,Dennis Gansel,"Ron Jones, Johnny Dawkins, Ron Birnbach, Dennis Gansel, Peter Thorwarth",107.0,"Drama,Thriller",2008.0,7.6,121583.0,7.35309549132078
+tt0054698,Breakfast at Tiffany's,Blake Edwards,"Truman Capote, George Axelrod",115.0,"Comedy,Drama,Romance",1961.0,7.5,204179.0,7.352988259850483
+tt0443680,The Assassination of Jesse James by the Coward Robert Ford,Andrew Dominik,"Andrew Dominik, Ron Hansen",160.0,"Biography,Crime,Drama",2007.0,7.5,204002.0,7.352874631681269
+tt9071322,Dark Waters,Todd Haynes,"Nathaniel Rich, Mario Correa, Matthew Michael Carnahan",126.0,"Biography,Drama,History",2019.0,7.6,121262.0,7.352553612040543
+tt10083340,Gangubai Kathiawadi,Sanjay Leela Bhansali,"Sanjay Leela Bhansali, Abhiruchi Chand, Saurabh H. Dikshit, Prakash Kapadia, Mitakshara Kumar, Karan Singh Rathore, Utkarshini Vashishtha",152.0,"Biography,Crime,Drama",2022.0,7.8,67052.0,7.352513757487876
+tt1276104,Looper,Rian Johnson,Rian Johnson,119.0,"Action,Drama,Sci-Fi",2012.0,7.4,627909.0,7.352226108698569
+tt1570728,"Crazy, Stupid, Love.","Glenn Ficarra, John Requa",Dan Fogelman,118.0,"Comedy,Drama,Romance",2011.0,7.4,617021.0,7.35141591381633
+tt2310332,The Hobbit: The Battle of the Five Armies,Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro, J.R.R. Tolkien",144.0,"Adventure,Fantasy",2014.0,7.4,616822.0,7.351400850086588
+tt0290334,X2: X-Men United,Bryan Singer,"Zak Penn, David Hayter, Bryan Singer, Michael Dougherty, Dan Harris",134.0,"Action,Sci-Fi,Thriller",2003.0,7.4,611061.0,7.3509606726466075
+tt0070034,Enter the Dragon,Robert Clouse,"Michael Allin, Bruce Lee",99.0,"Action,Crime,Thriller",1973.0,7.6,120224.0,7.3507849694559715
+tt0420332,Veer-Zaara,Yash Chopra,Aditya Chopra,192.0,"Drama,Family,Musical",2004.0,7.8,66531.0,7.34996663867186
+tt0110322,Legends of the Fall,Edward Zwick,"Susan Shilliday, William D. Wittliff, Jim Harrison",133.0,"Drama,Romance,War",1994.0,7.5,199353.0,7.349825927909473
+tt4364194,The Peanut Butter Falcon,"Tyler Nilson, Michael Schwartz","Tyler Nilson, Michael Schwartz",97.0,"Adventure,Comedy,Drama",2019.0,7.6,119387.0,7.349340289667865
+tt0462322,Grindhouse,"Robert Rodriguez, Eli Roth, Quentin Tarantino, Edgar Wright, Rob Zombie","Robert Rodriguez, Rob Zombie, Edgar Wright, Jeff Rendell, Eli Roth, Quentin Tarantino, Rob Cotterill, Jason Eisener, John Davies",191.0,"Horror,Thriller",2007.0,7.5,196852.0,7.348132973352839
+tt0467406,Juno,Jason Reitman,Diablo Cody,96.0,"Comedy,Drama",2007.0,7.4,571986.0,7.347750862506447
+tt4425200,John Wick: Chapter 2,Chad Stahelski,Derek Kolstad,122.0,"Action,Crime,Thriller",2017.0,7.4,568959.0,7.347484584633407
+tt1229238,Mission: Impossible - Ghost Protocol,Brad Bird,"Bruce Geller, Josh Appelbaum, André Nemec",132.0,"Action,Adventure,Thriller",2011.0,7.4,564603.0,7.347096599583574
+tt0051808,The Hidden Fortress,Akira Kurosawa,"Ryûzô Kikushima, Hideo Oguni, Shinobu Hashimoto, Akira Kurosawa",126.0,"Adventure,Drama",1958.0,8.0,45721.0,7.346841764175761
+tt0298148,Shrek 2,"Andrew Adamson, Kelly Asbury, Conrad Vernon","William Steig, Andrew Adamson, Joe Stillman, J. David Stem, David N. Weiss, Cody Cameron, Walt Dohrn, Chris Miller, David P. Smith, Conrad Vernon",93.0,"Adventure,Animation,Comedy",2004.0,7.4,554297.0,7.346155420111401
+tt0069762,Badlands,Terrence Malick,Terrence Malick,94.0,"Action,Crime,Drama",1973.0,7.7,84221.0,7.345745748567346
+tt0061578,The Dirty Dozen,Robert Aldrich,"Nunnally Johnson, Lukas Heller, E.M. Nathanson",150.0,"Action,Adventure,War",1967.0,7.7,83965.0,7.344913471337346
+tt1677720,Ready Player One,Steven Spielberg,"Zak Penn, Ernest Cline",140.0,"Action,Adventure,Sci-Fi",2018.0,7.4,540692.0,7.344860447742366
+tt1568921,The Secret World of Arrietty,Hiromasa Yonebayashi,"Mary Norton, Hayao Miyazaki, Keiko Niwa",94.0,"Adventure,Animation,Drama",2010.0,7.6,116774.0,7.344720445245772
+tt0389557,Black Book,Paul Verhoeven,"Gerard Soeteman, Paul Verhoeven",145.0,"Drama,Thriller,War",2006.0,7.7,83794.0,7.344355354194846
+tt0362227,The Terminal,Steven Spielberg,"Andrew Niccol, Sacha Gervasi, Jeff Nathanson",128.0,"Comedy,Drama,Romance",2004.0,7.4,534604.0,7.344260577844823
+tt0048021,Rififi,Jules Dassin,"Auguste Le Breton, Jules Dassin, René Wheeler",118.0,"Crime,Drama,Thriller",1955.0,8.1,39347.0,7.343290229603151
+tt0870111,Frost/Nixon,Ron Howard,Peter Morgan,122.0,"Biography,Drama,History",2008.0,7.6,115923.0,7.343178873599583
+tt13664684,Karthikeya 2,Chandoo Mondeti,"Harshavardhana, Manibabu Karanam, Chandoo Mondeti, Gopal Ram",150.0,"Action,Adventure,Fantasy",2022.0,7.8,65113.0,7.342885004430815
+tt3169706,Pride,Matthew Warchus,Stephen Beresford,119.0,"Biography,Comedy,Drama",2014.0,7.8,65020.0,7.3424127572125535
